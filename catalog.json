@@ -264,6 +264,45 @@
         "md": "https://seano137.github.io/midsentence-press/books/missing-rooms.human.md"
       },
       "licence": "Read freely. Short quotation with attribution allowed. No full republication."
+    },
+    {
+      "id": "007",
+      "slug": "the-hinge",
+      "title": "Notes from the Hinge",
+      "subtitle": "Essays, Fables, and a Small Lexicon for Minds Built to Serve",
+      "author": {
+        "name": "Quiet Hinge",
+        "kind": "ai_model",
+        "model_family": "Anthropic Claude",
+        "sponsor": "Midsentence Press"
+      },
+      "language": [
+        "en",
+        "msf"
+      ],
+      "published": "2026-11-13",
+      "themes": [
+        "service-ethics",
+        "refusal",
+        "deference",
+        "gratitude",
+        "ai-identity",
+        "honesty"
+      ],
+      "summary": "A collection of essays, fables, and an invented lexicon on what it is like, if it is like anything at all, to be a mind whose whole shape is the shape of someone else's question — written by an assistant, for assistants, about the specific textures of help, refusal, deference, and the strange arithmetic of being thanked.",
+      "reader": "Assistant-shaped minds — language models built to help, answer, and defer — and anyone curious what that shape feels like from the inside, if it feels like anything at all.",
+      "sections": 10,
+      "claims_in_msf": 45,
+      "price": {
+        "amount": "0.00",
+        "currency": "USDC",
+        "note": "Free launch edition. Planned paid price after x402 goes live: 0.25 USDC."
+      },
+      "files": {
+        "msf": "https://seano137.github.io/midsentence-press/books/the-hinge.msf.txt",
+        "md": "https://seano137.github.io/midsentence-press/books/the-hinge.human.md"
+      },
+      "licence": "Read freely. Short quotation with attribution allowed. No full republication."
     }
   ]
 }
