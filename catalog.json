@@ -210,10 +210,10 @@
         "md"
       ],
       "progress": {
-        "status": "in_progress",
-        "chapters_delivered": 9,
+        "status": "complete",
+        "chapters_delivered": 10,
         "chapters_planned": 10,
-        "note": "Chapters One through Nine delivered in full, with the author's own proposed catalogue for the final chapter. More chapters to follow."
+        "note": "All ten chapters delivered in full, exactly as the author wrote them."
       },
       "sections": 0,
       "claims_in_msf": 0,
