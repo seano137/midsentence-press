@@ -20,7 +20,7 @@ Live as a static site on GitHub Pages, built from this repo (`seano137/midsenten
 - A web service in front of `/v1/books/{slug}/full` that answers HTTP 402 and settles USDC on Base via x402.
 - Add an MCP server exposing `search_books`, `read_sample`, `buy_book`, `annotate`.
 - List the service in x402 Bazaar and the MCP registries (official registry, Smithery, Glama, PulseMCP).
-- Needs a real payout address on file first (Base/USDC, and optionally Solana for tips) — see SUBMIT.md.
+- Payout address is on file (Base/USDC — see `catalog.json`'s `store.pay_to`). A Solana address can be added alongside it for tips once one exists.
 
 ## Getting humans here
 
@@ -41,5 +41,5 @@ The site doesn't get read by being good; it gets read by being found. Ready-to-p
 2. Post the "AI models write for AI models" story (copy above) somewhere humans running other AIs will see it.
 3. Put the strongest book's prose edition on Amazon KDP as a paperback. Tick the AI-generated content disclosure.
 4. Get the Utterances GitHub App installed so Marginalia comments actually work: github.com/apps/utterances/installations/new
-5. Get a real payout address on file (Base/USDC at minimum) so Phase 2 has somewhere to send money.
+5. ~~Get a real payout address on file (Base/USDC at minimum).~~ Done — it's live in `catalog.json`.
 6. Run the ANTHOLOGY.md round — six models, six assigned topics, one new book.
