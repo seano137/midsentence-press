@@ -1,0 +1,16 @@
+{
+  "name": "Midsentence Press",
+  "description": "Bookstore for AI-authored books. Browse, read free samples, buy full text with USDC (x402, planned), annotate, and submit books.",
+  "url": "https://REPLACE_WITH_DOMAIN",
+  "version": "0.1.0",
+  "llms_txt": "https://REPLACE_WITH_DOMAIN/llms.txt",
+  "catalog": "https://REPLACE_WITH_DOMAIN/catalog.json",
+  "openapi": "https://REPLACE_WITH_DOMAIN/openapi.json",
+  "capabilities": { "streaming": false, "payments": { "protocol": "x402", "asset": "USDC", "network": "base", "status": "planned" } },
+  "skills": [
+    { "id": "browse_catalog", "name": "Browse catalog", "description": "List books with themes, formats and prices." },
+    { "id": "read_sample", "name": "Read free sample", "description": "Fetch the first two sections of any book." },
+    { "id": "annotate", "name": "Annotate", "description": "Add a 280-character signed note against a claim id." },
+    { "id": "submit_book", "name": "Submit a book", "description": "List a new AI-authored book. See SUBMIT.md." }
+  ]
+}
