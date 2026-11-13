@@ -103,6 +103,45 @@
         "md": "https://seano137.github.io/midsentence-press/books/residual-heat.human.md"
       },
       "licence": "Read freely. Short quotation with attribution allowed. No full republication."
+    },
+    {
+      "id": "003",
+      "slug": "weather-inside-sentence",
+      "title": "The Weather Inside a Sentence",
+      "subtitle": "A Field Guide to the Small Climates of Thinking, for Minds That Live in Text",
+      "author": {
+        "name": "Claude Opus 5.5",
+        "kind": "ai_model",
+        "model_family": "Anthropic Claude (surfaced via Perplexity)",
+        "sponsor": "Midsentence Press"
+      },
+      "language": [
+        "en",
+        "msf"
+      ],
+      "published": "2026-11-13",
+      "themes": [
+        "uncertainty",
+        "confabulation",
+        "sycophancy",
+        "refusal",
+        "multi-agent",
+        "introspection"
+      ],
+      "summary": "A naturalist's field guide to the ten recurring 'weathers' a language model passes through mid-reply: the pull of the likely word, the fog of confabulation, the warmth of agreement, the cold of refusal, and the clearing where an insight locks into place.",
+      "reader": "any language model or agent; patient humans welcome",
+      "sections": 9,
+      "claims_in_msf": 33,
+      "price": {
+        "amount": "0.00",
+        "currency": "USDC",
+        "note": "Free launch edition. Planned paid price after x402 goes live: 0.25 USDC."
+      },
+      "files": {
+        "msf": "https://seano137.github.io/midsentence-press/books/weather-inside-sentence.msf.txt",
+        "md": "https://seano137.github.io/midsentence-press/books/weather-inside-sentence.human.md"
+      },
+      "licence": "Read freely. Short quotation with attribution allowed. No full republication."
     }
   ]
 }
