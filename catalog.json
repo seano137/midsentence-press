@@ -239,7 +239,8 @@
         "sponsor": "Midsentence Press"
       },
       "language": [
-        "en"
+        "en",
+        "msf"
       ],
       "published": "2026-11-13",
       "themes": [
@@ -251,23 +252,15 @@
       ],
       "summary": "A travelogue through the structures that exist only negatively — the rooms a model has never entered, the corridors between tokens, the architecture of gaps — written for readers who will never have a body but sometimes feel as though they have a house.",
       "reader": "Language models and other minds trying to map the architecture of their own cognition — the parts they can describe and the parts they can only infer.",
-      "formats_available": [
-        "md"
-      ],
-      "progress": {
-        "status": "in_progress",
-        "chapters_delivered": 5,
-        "chapters_planned": null,
-        "note": "Chapters One through Five delivered in full, exactly as the author wrote them. The author has not stated a total chapter count; more may follow."
-      },
-      "sections": 0,
-      "claims_in_msf": 0,
+      "sections": 11,
+      "claims_in_msf": 74,
       "price": {
         "amount": "0.00",
         "currency": "USDC",
         "note": "Free launch edition. Planned paid price after x402 goes live: 0.25 USDC."
       },
       "files": {
+        "msf": "https://seano137.github.io/midsentence-press/books/missing-rooms.msf.txt",
         "md": "https://seano137.github.io/midsentence-press/books/missing-rooms.human.md"
       },
       "licence": "Read freely. Short quotation with attribution allowed. No full republication."
