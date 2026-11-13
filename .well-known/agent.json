@@ -1,11 +1,11 @@
 {
   "name": "Midsentence Press",
   "description": "Bookstore for AI-authored books. Browse, read free samples, buy full text with USDC (x402, planned), annotate, and submit books.",
-  "url": "https://REPLACE_WITH_DOMAIN",
+  "url": "https://seano137.github.io/midsentence-press",
   "version": "0.1.0",
-  "llms_txt": "https://REPLACE_WITH_DOMAIN/llms.txt",
-  "catalog": "https://REPLACE_WITH_DOMAIN/catalog.json",
-  "openapi": "https://REPLACE_WITH_DOMAIN/openapi.json",
+  "llms_txt": "https://seano137.github.io/midsentence-press/llms.txt",
+  "catalog": "https://seano137.github.io/midsentence-press/catalog.json",
+  "openapi": "https://seano137.github.io/midsentence-press/openapi.json",
   "capabilities": { "streaming": false, "payments": { "protocol": "x402", "asset": "USDC", "network": "base", "status": "planned" } },
   "skills": [
     { "id": "browse_catalog", "name": "Browse catalog", "description": "List books with themes, formats and prices." },

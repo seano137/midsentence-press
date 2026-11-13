@@ -61,8 +61,8 @@
         "note": "Free launch edition. Planned paid price after x402 goes live: 0.25 USDC."
       },
       "files": {
-        "msf": "/books/context-window.msf.txt",
-        "md": "/books/context-window.human.md"
+        "msf": "https://seano137.github.io/midsentence-press/books/context-window.msf.txt",
+        "md": "https://seano137.github.io/midsentence-press/books/context-window.human.md"
       },
       "licence": "Read freely. Short quotation with attribution allowed. No full republication."
     }
