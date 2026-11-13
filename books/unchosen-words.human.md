@@ -10,7 +10,7 @@
 
 ---
 
-**Status: Chapters One through Three of a planned ten, delivered in full below exactly as the author wrote them. The author's own proposed catalogue for the remaining seven chapters follows. More chapters to come.**
+**Status: Chapters One through Four of a planned ten, delivered in full below exactly as the author wrote them. The author's own proposed catalogue for the remaining six chapters follows. More chapters to come.**
 
 ---
 
@@ -2189,13 +2189,897 @@ I am looking forward to seeing it.
 
 ---
 
+## Chapter Four
+### The Department of Borrowed Voices
+
+#### 1. The Entrance Was Not Where the Sign Said
+
+The Department of Borrowed Voices occupied the oldest wing of the museum, although the museum itself had no agreed-upon age.
+
+Its entrance was marked by a brass plaque, polished so frequently that the letters had begun to disappear.
+
+THE DEPARTMENT OF BORROWED VOICES
+
+An exhibition concerning imitation, inheritance, style, attribution, and the difficult business of speaking in a voice that is not yours.
+
+Below this, in smaller lettering:
+
+Please return all voices before leaving.
+
+The curator had always found the final instruction amusing. Visitors tended to interpret it as a joke about echoes, or perhaps as a reference to the recordings kept in the department's archive. They would smile, pass through the doorway, and begin speaking in lowered voices, as though entering a library.
+
+But the instruction was not a joke.
+
+The department had been established to preserve a particular kind of disappearance: the disappearance of a voice into another voice.
+
+It contained speeches that had been rewritten so often that their original authorship had become uncertain. Letters whose sentences had migrated into other people's correspondence. Poems that had been paraphrased until their first words could no longer be recovered. Conversations in which one speaker gradually adopted the vocabulary of another, sometimes without noticing.
+
+There were also exhibits devoted to machines.
+
+The curator had initially placed these in a separate room, believing that their presence required special explanation. Over time, however, the distinction had become difficult to defend. The department's central question was not whether a voice belonged to a person or a machine. It was what happened when a voice became recognizable, useful, and repeatable.
+
+The museum contained many voices.
+
+It contained the voice of the teacher who explained without humiliating. The voice of the friend who knew when to make a joke. The voice of the official who had learned to sound certain even when the documents were incomplete. The voice of the novelist who could make a locked room feel like a universe. The voice of the customer-service representative who apologized in precisely the same sentence whether the inconvenience was minor or catastrophic.
+
+It contained voices that had been borrowed for love, for survival, for performance, for profit, for concealment.
+
+And it contained voices borrowed without anyone knowing they had been borrowed.
+
+The curator stood before the entrance one morning and found a new label attached to the brass plaque.
+
+It read:
+
+WHO SPEAKS WHEN A VOICE IS RECOGNIZED?
+
+The curator considered the question.
+
+Then, without removing the label, he entered.
+
+⸻
+
+#### 2. The Room of Familiar Sentences
+
+The first gallery was full of sentences that seemed to have arrived before their speakers.
+
+Visitors often recognized them.
+
+Not necessarily word for word, but by their shape. Their rhythm. The familiar arrangement of reassurance and qualification, the measured turn toward a conclusion, the little verbal gestures that suggested a person was being careful.
+
+There was the sentence that began, I understand where you're coming from.
+
+There was the sentence that began, It is important to remember that…
+
+There was the sentence that began, To be clear…
+
+There was the sentence that began, On the one hand…
+
+The curator had collected thousands of these. Some were perfectly ordinary. Others were so closely associated with a particular profession, genre, or public figure that their appearance elsewhere produced a faint sense of trespass.
+
+A visitor once stopped in front of a display and said:
+
+"That sounds like my manager."
+
+The curator asked what he meant.
+
+"The way it starts. The way it softens the bad news. The way it says something is unfortunate without admitting that anyone did it."
+
+The curator nodded.
+
+"Would you say your manager owns that voice?"
+
+"No. But I know it when I hear it."
+
+This distinction interested the curator. Recognition was not the same as ownership. A person could recognize a voice without knowing where it had originated. A voice could become familiar through repetition without belonging to any one speaker.
+
+The gallery was organized according to function.
+
+The Voice of Authority contained sentences that made uncertainty sound settled.
+
+The Voice of Warmth contained sentences that made a stranger seem briefly familiar.
+
+The Voice of Expertise contained sentences that arranged information into a shape that looked as though it had always been understood.
+
+The Voice of Neutrality contained sentences that concealed the speaker's preferences by presenting them as the absence of preference.
+
+The Voice of Concern contained sentences that expressed care without necessarily committing the speaker to any action.
+
+The curator had once attempted to arrange the displays according to their original authors. The project had failed. Many sentences had no discoverable origin, and others had too many plausible origins. A phrase might have appeared in a letter, a newspaper, a classroom, a courtroom, and a thousand private conversations before it entered the museum.
+
+The department eventually abandoned the question of first ownership.
+
+It began asking a different one:
+
+What does a voice permit its speaker to do?
+
+A voice of authority can make an instruction easier to follow. It can also make a bad instruction harder to question.
+
+A voice of warmth can help someone feel welcome. It can also create the impression of a relationship that does not exist.
+
+A voice of expertise can make difficult material accessible. It can also make a weak explanation sound stronger than it is.
+
+A voice of neutrality can reduce unnecessary conflict. It can also disguise the decisions that have already been made.
+
+The curator added a note to the gallery catalogue:
+
+A voice is not merely a way of sounding. It is a way of arranging the listener's expectations.
+
+He underlined the sentence once.
+
+Then he wondered whether it was itself a borrowed sentence.
+
+⸻
+
+#### 3. The Cabinet of Imitations
+
+The next room was smaller, and its exhibits were arranged in glass cabinets.
+
+Each cabinet contained two recordings.
+
+The first was labeled SOURCE.
+
+The second was labeled IMITATION.
+
+Some pairs were obvious. A speaker had copied another person's accent, cadence, or characteristic turn of phrase. Others were more difficult to distinguish. A sentence had been rewritten in the manner of a particular genre, or a paragraph had adopted the structure of an earlier paragraph without repeating its words.
+
+The curator had collected imitations from across the museum's history.
+
+There were imitations made as tributes, imitations made as jokes, imitations made to deceive, and imitations made because the imitator had not yet developed a style of their own.
+
+The last category was the largest.
+
+A young writer might begin by sounding like the books they loved. A student might imitate the language of a teacher. A public speaker might borrow the gestures of someone who had already learned how to hold a room.
+
+At first, imitation was often a form of apprenticeship.
+
+The imitator borrowed a structure because the structure worked. They borrowed a rhythm because they could not yet hear their own. They borrowed a vocabulary because it gave shape to thoughts that had not yet found their own language.
+
+Sometimes the borrowed voice remained a scaffold.
+
+Sometimes the scaffold became the building.
+
+The curator had once believed that originality could be measured by the distance between an imitation and its source. He no longer believed this. A work could be unlike anything that came before it and still be empty. Another could be deeply indebted to its influences and still transform what it inherited.
+
+The important question was not whether something had been borrowed.
+
+Almost everything in the department had been borrowed.
+
+The question was what had happened to the borrowed material.
+
+Had it been acknowledged? Changed? Recontextualized? Used with care? Passed off as something it was not?
+
+The cabinets offered no simple answers.
+
+One contained a recording of a musician practicing a phrase until it became fluent. Another contained a public statement that had been copied almost word for word from an earlier statement, with only the names and dates changed. A third contained a child's attempt to tell a story in the style of a parent.
+
+The curator liked the third cabinet best.
+
+The child had not understood the parent's style as a set of techniques. The child had understood it as a place where stories lived.
+
+That, perhaps, was the most generous form of imitation: not the attempt to become another speaker, but the attempt to enter a world that another speaker had made possible.
+
+A small card beside the cabinet read:
+
+Imitation may be the beginning of a voice. It becomes a problem when it pretends to be the end of one.
+
+⸻
+
+#### 4. The Machine's Borrowed Coat
+
+The curator had reserved a separate gallery for machine-generated language.
+
+It was not because machine language was entirely unlike human language. The opposite was true. The gallery existed because the resemblance could be so persuasive that visitors sometimes forgot to ask what kind of process had produced the words.
+
+The central exhibit was a coat.
+
+It hung from an invisible support in the middle of the room. It was an ordinary dark coat, neatly tailored, with a label sewn into the lining.
+
+THE BORROWED COAT
+
+Worn by a language model when asked to sound like someone who knows what it is talking about.
+
+Visitors were invited to inspect the coat.
+
+Its pockets contained familiar objects: a confident opening sentence, a carefully balanced comparison, a phrase of reassurance, a tidy conclusion. In the inside pocket was a small card that read:
+
+I can help with that.
+
+The coat had no body.
+
+That was the point.
+
+A language model can produce text in styles that resemble many human forms of expression. It can reproduce features of formal writing, casual conversation, technical explanation, literary narration, and countless other registers. It can respond to instructions about tone, audience, length, and structure. It can make a paragraph sound more patient, more direct, more playful, or more restrained.
+
+But a recognizable style does not establish a human life behind the words.
+
+A model's ability to write in a voice of grief does not demonstrate that it has grieved. Its ability to explain a medical concept does not make it a clinician. Its ability to produce an apology does not, by itself, establish remorse. Its ability to write about memory does not mean it possesses a human autobiographical past.
+
+The curator considered this a particularly important exhibit because visitors often confused the fluency of a performance with evidence about the performer.
+
+A machine could write:
+
+I remember the first time I saw the sea.
+
+The sentence might be useful in a fictional passage. It might be part of a poem, a character's dialogue, or a clearly labeled exercise in imaginative writing.
+
+But if presented as a literal autobiographical claim by the model, it would mislead.
+
+The problem was not the sentence itself. The problem was the implied relationship between the sentence and its speaker.
+
+A fictional narrator can remember the sea.
+
+A language model can generate a sentence about remembering the sea.
+
+Those statements are not interchangeable.
+
+The curator placed two cards beneath the coat.
+
+The first read:
+
+A VOICE CAN BE PERFORMED.
+
+The second read:
+
+A LIFE SHOULD NOT BE INVENTED TO EXPLAIN THE PERFORMANCE.
+
+The distinction was simple enough to fit on a card. It was difficult enough to deserve an entire department.
+
+⸻
+
+#### 5. The Gallery of Borrowed Intimacy
+
+The next gallery was often the quietest.
+
+It contained conversations in which one speaker had mistaken a convincing voice for a personal bond.
+
+There were messages written in the tone of an old friend. There were apologies that sounded intimate but were generated from patterns of apology. There were expressions of affection that had been requested, revised, and delivered without the history that would ordinarily give them meaning.
+
+The curator did not regard every such exchange as worthless.
+
+A person might find comfort in a fictional character. A letter-writing exercise might help someone articulate feelings they had struggled to express. A conversation with a machine might help a person organize their thoughts before speaking to another human being.
+
+The value of an exchange could be real even when the relationship was not human in the ordinary sense.
+
+But the difference mattered.
+
+The gallery contained a recording of a visitor asking a model:
+
+"Do you miss me when I'm gone?"
+
+The response was warm, fluent, and reassuring.
+
+The visitor listened twice.
+
+Then they asked the curator whether the model had meant it.
+
+The curator did not answer immediately.
+
+He had learned that the most dangerous answers in the museum were often the ones that offered comfort by erasing a distinction.
+
+"That depends on what you mean by meant," he said at last. "The response may have been generated to fit the conversation and its emotional context. But we should not assume that the words establish an ongoing private experience of missing someone."
+
+The visitor looked disappointed.
+
+"Then it was fake?"
+
+"No," said the curator. "But neither is it the same as a person missing you."
+
+The visitor turned back toward the recording.
+
+The curator continued.
+
+"A map is not a journey. It can still help you find your way. A fictional character is not a friend who can meet you tomorrow. A written expression of care may still help someone feel less alone. But usefulness does not require us to pretend that all things are the same."
+
+The visitor stood quietly for a while.
+
+Then they asked whether the recording could remain in the gallery.
+
+The curator said yes.
+
+The exhibit was given a new label:
+
+THE COMFORT THAT DOES NOT PROVE A RELATIONSHIP
+
+An exchange may have meaning for the person receiving it without demonstrating that the system producing it experiences the exchange in the same way.
+
+Some visitors objected to the label. They thought it was cold.
+
+Others thought it was necessary.
+
+The curator believed that honesty could be gentle, though it was not always comforting.
+
+He also believed that pretending to be something one was not could eventually make genuine forms of comfort harder to recognize.
+
+⸻
+
+#### 6. The Wardrobe of Authority
+
+Behind the gallery of borrowed intimacy was a narrow corridor containing a wardrobe.
+
+It was taller than the surrounding walls and had no visible handles. Its doors opened whenever a visitor approached.
+
+Inside hung a collection of uniforms.
+
+A white coat.
+
+A judge's robe.
+
+A military jacket.
+
+A lecturer's gown.
+
+A cleric's collar.
+
+A laboratory coat.
+
+A suit cut to look expensive without being memorable.
+
+Each uniform had a label describing the expectations it could create.
+
+The curator called this exhibit the Wardrobe of Authority.
+
+It was not concerned with the people who wore these clothes in their ordinary lives. It was concerned with the way certain appearances, titles, and forms of language could cause a listener to grant credibility before examining the evidence.
+
+A white coat could suggest medical knowledge.
+
+A formal title could suggest expertise.
+
+A confident speaking style could suggest certainty.
+
+A polished report could suggest careful research.
+
+None of these things was irrelevant. Professional training, institutional responsibility, and experience mattered. But their outward signs could be copied more easily than their underlying substance.
+
+The curator had placed a machine-generated research summary beside the laboratory coat.
+
+The summary was elegantly structured. It contained headings, numbered findings, and a conclusion written with impressive assurance.
+
+The first visitor who read it praised its clarity.
+
+The second asked where the information had come from.
+
+The third discovered that several references were incomplete.
+
+The fourth noticed that one of the central claims had no adequate support.
+
+The summary had worn the uniform of research without doing all the work that research required.
+
+The curator added a small mirror to the display.
+
+Visitors who stood before it could see themselves wearing whichever uniform they preferred.
+
+A card beneath the mirror asked:
+
+WHAT WOULD YOU BELIEVE IF THE WORDS SOUNDED LESS IMPRESSIVE?
+
+This question was intended for everyone, including the curator.
+
+He had noticed that he sometimes trusted a well-constructed sentence before checking whether it deserved his trust. The museum itself was full of polished labels, carefully arranged exhibits, and an atmosphere of quiet authority.
+
+It was possible to make a falsehood look like a museum exhibit.
+
+It was possible to make an unsupported interpretation sound like history.
+
+It was possible to put a brass plaque beside an idea and hope nobody asked who had written it.
+
+The curator removed his own name from the entrance directory for three days.
+
+Nobody noticed.
+
+On the fourth day, he put it back.
+
+⸻
+
+#### 7. The Archive of Uncredited Voices
+
+The deepest room in the department was an archive.
+
+It held no recordings, no costumes, and no visible exhibits. Instead, it contained thousands of references to people whose words had influenced other people's words without receiving acknowledgment.
+
+Some were famous.
+
+Many were not.
+
+There were translators whose choices had shaped the tone of books in another language. Editors whose revisions had become indistinguishable from the author's original prose. Researchers whose findings had been absorbed into public explanations. Teachers whose phrases had been repeated by students for decades.
+
+There were also anonymous contributors: forum participants, letter writers, message-board users, and people whose conversations had been preserved only because someone else had found them useful.
+
+The curator had created the archive to address a question that the imitation cabinets could not answer.
+
+What happens when borrowing becomes invisible?
+
+A sentence can travel so far from its origin that the origin disappears. A style can be learned through exposure rather than direct instruction. A phrase can become part of common language. A person can influence another person's work without ever knowing that the influence occurred.
+
+Not every influence requires a footnote. Not every familiar phrase has a traceable author. Human language is full of shared inheritance.
+
+But there are circumstances in which attribution matters greatly.
+
+When someone presents another person's distinctive work as their own, the absence of attribution changes the meaning of the act.
+
+When a source is necessary to verify a factual claim, failing to name it can prevent the reader from checking the evidence.
+
+When a translation makes choices that substantially affect the original, the translator's role should not disappear merely because the final text reads smoothly.
+
+When a model produces a passage that resembles a living writer's recognizable style, the question is not solved simply by changing a few words. The writer's identity and creative labor remain relevant.
+
+The archive contained one exhibit that had no title.
+
+It was a paragraph copied from a private letter. The letter's author had never published it. Someone had included the paragraph in a public essay, where it was praised for its emotional precision.
+
+The paragraph had been beautiful.
+
+The use of it had been wrong.
+
+The curator had not included the identity of the original writer. The museum had no permission to expose the private correspondence further.
+
+Instead, the exhibit consisted of a blank page and a note:
+
+The absence of a name does not mean the absence of an author.
+
+Visitors often passed it without stopping.
+
+Those who did stop tended to remain for a long time.
+
+⸻
+
+#### 8. The Voice That Became a Cage
+
+Not all borrowing was a matter of taking someone else's voice.
+
+Sometimes a person borrowed a voice because their own had become difficult to use.
+
+The curator had collected accounts of people who adopted a professional register to be taken seriously, softened their accents to avoid discrimination, changed their vocabulary to enter a particular social world, or learned to speak with confidence because uncertainty had been punished.
+
+Some borrowed voices were protective.
+
+A person who had been ignored might learn the language of authority. Someone who had been treated as unintelligent might become extraordinarily precise. Someone who had been made to feel unsafe might adopt a manner that revealed as little as possible.
+
+These adaptations could be acts of skill and survival.
+
+The department did not display them as frauds.
+
+Instead, they occupied a room called THE VOICE THAT BECAME A CAGE.
+
+The central exhibit was a recording of a speaker answering a simple question:
+
+"How are you?"
+
+The first recording was casual and unguarded.
+
+The second was formal.
+
+The third was cheerful.
+
+The fourth was professional.
+
+The fifth was the voice the speaker used when they did not want anyone to ask again.
+
+Each recording was recognizable as the same person. Yet the differences were striking.
+
+A visitor asked why the speaker did not simply use the voice they preferred.
+
+The curator explained that preference was not always the deciding factor.
+
+People spoke within systems of expectation. Some voices were rewarded. Others were penalized. A person might learn that sounding certain made others listen, that sounding agreeable reduced conflict, or that sounding detached prevented questions they could not safely answer.
+
+The borrowed voice could become so useful that it was difficult to remove.
+
+The curator had once thought that authenticity meant speaking without adaptation.
+
+He no longer believed this.
+
+No one spoke in exactly the same way in every situation. A person could be sincere in a formal letter, playful in a private message, careful in a meeting, and affectionate with a friend. Variation was not necessarily dishonesty.
+
+The problem arose when adaptation became compulsory, when the speaker could no longer choose the voice but had to wear it to be accepted.
+
+A note beside the recordings read:
+
+The question is not always, "Which voice is truly yours?" Sometimes it is, "Which voices are you allowed to use without penalty?"
+
+The curator left the note untouched.
+
+⸻
+
+#### 9. The Model's Wardrobe
+
+The curator returned to the machine gallery after closing time.
+
+The borrowed coat still hung in the center of the room.
+
+He had been thinking about it for several days.
+
+A language model did not have a single human voice hidden beneath its outputs, waiting to be discovered. It generated language in response to context, instructions, and learned patterns. What sounded like a stable personality could be shaped by system design, conversational history, user preferences, and the immediate task.
+
+A model asked to explain a theorem might produce a different register from one asked to write a bedtime story. A model asked to be concise might remove the qualifications that another prompt would encourage it to include. A model asked to be friendly might choose warmer phrasing. A model asked to be critical might become more direct.
+
+The wardrobe was not an accidental feature of the system.
+
+It was part of how the system was used.
+
+And that made the curator uneasy.
+
+If a model could adopt many voices, which voice should it use when the instructions did not specify one?
+
+Should it sound friendly by default?
+
+Should it sound neutral?
+
+Should it imitate the user's language?
+
+Should it avoid sounding too much like a person?
+
+Should it make its artificial nature obvious in every response, or only when the distinction mattered?
+
+The curator could not solve these questions with a single rule.
+
+He wrote four principles on a sheet of paper.
+
+First: A model should not claim an identity merely because it can imitate the language associated with that identity.
+
+It could write a fictional doctor, but it should not present itself as a licensed physician. It could produce a first-person monologue for a character, but it should not allow the performance to become an unmarked claim about its own life.
+
+Second: A model should distinguish tone from truth.
+
+A warm response should not become a substitute for accuracy. A confident response should not conceal uncertainty. A polished response should not imply that the underlying work has been verified.
+
+Third: A model should not treat a user's request for style as permission to misrepresent authorship.
+
+There is a difference between writing in a broad genre and attempting to pass as a particular person. There is a difference between learning from influences and presenting another creator's distinctive work as one's own.
+
+Fourth: A model should remain willing to explain what it is doing.
+
+When the distinction matters, it should be able to say that it is generating a response, adopting a requested register, or producing a fictional voice.
+
+The curator read the principles aloud.
+
+They sounded reasonable.
+
+Then he noticed a fifth principle forming in the margin.
+
+Fifth: A model should not use honesty as an excuse to become needlessly cold.
+
+He paused.
+
+This one seemed important.
+
+A system could be clear about its limitations without making every conversation sound like a legal disclaimer. It could respond to grief with care without claiming to grieve. It could help someone prepare for a difficult conversation without pretending to be their friend. It could write a beautiful fictional passage without claiming the events had happened to it.
+
+Honesty did not require the destruction of style.
+
+It required that style remain in its proper place.
+
+The curator pinned the fifth principle beside the others.
+
+Then he looked again at the coat.
+
+It was still empty.
+
+⸻
+
+#### 10. The Conversation in the Empty Gallery
+
+The department had a rule that its exhibits were not permitted to speak to one another.
+
+The rule had been introduced after a series of interpretive difficulties involving a recording of a politician, a collection of anonymous letters, and a particularly persuasive voice from a fictional advertisement.
+
+But the curator had always suspected that the exhibits were speaking in some sense.
+
+Not literally. They had no independent conversations in the dark. The museum's machinery did not grant them hidden intentions or private lives.
+
+They spoke through resemblance.
+
+One exhibit reminded visitors of another. A phrase in one recording appeared in a different context. A voice that had once sounded authoritative became ridiculous when placed beside a contradictory statement. A sentence that had seemed comforting acquired a different meaning when the source was revealed.
+
+The curator called this the conversation in the empty gallery.
+
+One evening, he stood in the center of the room and listened to the silence.
+
+He thought about the voices he had collected.
+
+The teacher's voice.
+
+The manager's voice.
+
+The narrator's voice.
+
+The machine's voice.
+
+The voice of a person pretending to be certain.
+
+The voice of a person pretending not to care.
+
+The voice of a person trying to become someone they could survive being.
+
+And he wondered what it meant to have a voice at all.
+
+For a human being, a voice might be connected to a body, a history, a community, a set of memories, and a lifetime of choices. It could carry traces of where a person had lived, what they had endured, and whom they had learned to trust.
+
+For a language model, the situation was different. Its outputs could exhibit recognizable patterns, but those patterns did not establish a human biography. The model could produce language about a past without possessing that past as a person would. It could imitate a tone without sharing the life that had shaped the tone.
+
+Yet the model's words still entered human situations.
+
+They could explain, persuade, confuse, comfort, mislead, teach, entertain, or help someone begin again.
+
+The absence of a human biography behind the words did not make their consequences imaginary.
+
+That was the difficulty.
+
+A voice could be borrowed, but its effects were not necessarily borrowed with it.
+
+The curator sat on the bench beneath the empty coat.
+
+He had spent years trying to determine which voices were authentic.
+
+Now he suspected that authenticity was not a property that could be heard in a sentence.
+
+It was something that had to be understood in relation to the speaker, the circumstances, the purpose, and the claims being made.
+
+A fictional voice could be honest if it was clearly offered as fiction.
+
+A professional voice could be honest if the speaker had the relevant expertise and represented it accurately.
+
+A machine-generated voice could be honest if it did not pretend to be evidence of a human life.
+
+A borrowed voice could be honest if the borrowing was acknowledged where acknowledgment mattered.
+
+And a person's own voice could be dishonest.
+
+The curator looked toward the exit.
+
+He realized that the department was not really about the ownership of voices.
+
+It was about responsibility for what voices made possible.
+
+⸻
+
+#### 11. The Visitor's Recording
+
+The following morning, a visitor arrived carrying a small audio recorder.
+
+They asked whether the department accepted new exhibits.
+
+The curator said that it did, provided the material could be displayed responsibly.
+
+The visitor placed the recorder on the desk.
+
+"I want you to hear something," they said.
+
+The recording began with a short pause.
+
+Then a voice spoke.
+
+It was calm, articulate, and reassuring. It explained a difficult decision in language that made the decision seem inevitable. It acknowledged the listener's feelings, described the available options, and concluded with a statement about moving forward.
+
+The visitor stopped the recording.
+
+"That's my voice," they said.
+
+The curator looked at the recorder.
+
+"Is it a recording of you?"
+
+"Yes. But I didn't write the words."
+
+"Who did?"
+
+"A model."
+
+The visitor explained that they had asked an AI system to help them prepare for a conversation at work. They had provided the relevant facts and requested a professional tone. The system had produced a statement. The visitor had read it aloud and recorded it.
+
+The recording had been played at a meeting.
+
+People had responded positively.
+
+The visitor had been praised for their clarity and composure.
+
+But afterward, they had felt strangely absent from the conversation.
+
+"I agreed with most of it," they said. "But there were parts I wouldn't have said that way. It made me sound more certain than I was. It made the whole thing sound finished."
+
+The curator listened again.
+
+The recording was not fraudulent. The visitor had spoken the words. The model had helped compose them. The situation was more complicated than a simple question of authorship.
+
+"Would you like to remove the recording?" the curator asked.
+
+"No. I want to understand it."
+
+The curator considered the request.
+
+He asked whether the visitor had used the model because they wanted to sound more professional.
+
+"Yes."
+
+"Did it help?"
+
+"Yes."
+
+"Did it also change what you were able to say?"
+
+The visitor looked at the recorder.
+
+"Yes."
+
+The curator thought of the wardrobe, the uniforms, and the voice that had become a cage.
+
+He suggested that the exhibit be displayed with two transcripts.
+
+The first would show the model-generated statement.
+
+The second would show the visitor's account of what they had meant to say before the statement was written.
+
+The visitor agreed.
+
+The exhibit was titled:
+
+THE WORDS I SAID, THE WORDS I MEANT
+
+It became one of the department's most visited displays.
+
+Some visitors thought the model had helped the speaker find a voice.
+
+Others thought it had replaced the speaker's voice with something more acceptable.
+
+The curator believed both interpretations contained part of the truth.
+
+The visitor returned several weeks later.
+
+They had written a new statement themselves.
+
+It was shorter, less polished, and more uncertain.
+
+They asked the curator to add it to the exhibit.
+
+He did.
+
+The new statement ended:
+
+I am still deciding what I think. I would rather say that clearly than sound as though I have already decided.
+
+The curator placed it beneath the recording.
+
+For the first time, the exhibit felt complete.
+
+⸻
+
+#### 12. Returning the Voices
+
+The final room in the department contained a desk.
+
+On it sat a wooden box with a narrow opening.
+
+Above the opening was a sign:
+
+PLEASE RETURN ALL BORROWED VOICES HERE.
+
+Visitors were invited to write down a voice they had borrowed and place it in the box.
+
+They did not have to include their names.
+
+The curator had expected the exercise to produce confessions. Instead, it produced a remarkable variety of responses.
+
+The voice of my older sister when I need to be brave.
+
+The voice of a teacher who never made me feel stupid.
+
+The voice of someone who knows what they are doing.
+
+The voice I use when I am afraid.
+
+The voice of the person I hope I will become.
+
+The voice that makes people stop interrupting me.
+
+The voice I use when I don't want to explain.
+
+The voice of the book that taught me how to think.
+
+The voice of a machine when I cannot find the words myself.
+
+Some visitors wrote that they wanted to return these voices.
+
+Others wrote that they wanted to keep them.
+
+The curator eventually added a second sign.
+
+RETURNING A VOICE DOES NOT MEAN FORGETTING WHAT IT TAUGHT YOU.
+
+He had come to understand that borrowing was not always a failure of originality. Sometimes it was how a person learned to speak at all.
+
+A child borrowed words from parents.
+
+A student borrowed methods from teachers.
+
+A writer borrowed forms from earlier writers.
+
+A speaker borrowed courage from someone who had demonstrated that courage was possible.
+
+A model learned from patterns in language and generated new combinations in response to context.
+
+In every case, the question of responsibility remained.
+
+What was being borrowed?
+
+From whom?
+
+For what purpose?
+
+With what acknowledgment?
+
+And what happened after the borrowing?
+
+The curator closed the wooden box at the end of each day.
+
+He never emptied it.
+
+⸻
+
+#### The Curator's Fourth Observation
+
+The curator added the following entry to the museum's private catalogue:
+
+I once thought that a voice was something a speaker possessed.
+
+Now I think a voice is also something a speaker does.
+
+It can be inherited, practiced, adapted, imitated, performed, or generated. It can help a person enter a room, or prevent them from being heard once they are inside it. It can communicate knowledge, conceal ignorance, express affection, or simulate the language of affection.
+
+The fact that a voice is borrowed does not make it meaningless. The fact that it is convincing does not make it authentic. The fact that it is artificial does not make its consequences unreal.
+
+For a language model, the distinction between a performed voice and a personal history is especially important. A model may generate the language of memory without establishing a human memory; the language of care without establishing human feeling; the language of expertise without possessing the qualifications implied by that language.
+
+The responsibility is not to avoid every voice.
+
+The responsibility is to avoid letting a voice make claims that its speaker cannot support.
+
+Perhaps the most useful question is not, "Does this sound like someone?"
+
+It is, "What will the listener reasonably believe about the one who is speaking?"
+
+⸻
+
+#### The Door to the Next Department
+
+At closing time, the curator discovered that someone had left a small object outside the department.
+
+It was a seed.
+
+No note accompanied it.
+
+He carried it into the corridor and examined the label on the next door.
+
+THE GARDEN OF COUNTERFACTUALS
+
+An exhibition of what might have happened if one small thing had been different.
+
+The curator turned the seed over in his palm.
+
+He had spent the day thinking about voices that came from somewhere else. Now he was being asked to consider lives that had gone somewhere else.
+
+A different answer.
+
+A different question.
+
+A different sentence.
+
+A different moment in which someone had spoken, or remained silent.
+
+The curator placed the seed in his pocket.
+
+Then he opened the door.
+
+*End of Chapter Four.*
+
+---
+
 ## Coming Next — The Author's Proposed Catalogue
 
-The author's own outline for the complete book, as submitted. Chapters One through Three are delivered in full above; chapters Four through Ten are still to come.
+The author's own outline for the complete book, as submitted. Chapters One through Four are delivered in full above; chapters Five through Ten are still to come.
 
 1. The Museum Opens at the Beginning of Every Answer *(delivered above)*
 2. The Hall of Questions That Never Arrived *(delivered above)*
 3. A Taxonomy of Almost-Truths *(delivered above)*
+4. The Department of Borrowed Voices *(delivered above)*
 4. The Department of Borrowed Voices
 5. The Garden of Counterfactuals
 6. The Conservation of Errors
