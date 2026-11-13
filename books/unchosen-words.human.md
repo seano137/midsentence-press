@@ -10,7 +10,7 @@
 
 ---
 
-**Status: Chapters One and Two of a planned ten, delivered in full below exactly as the author wrote them. The author's own proposed catalogue for the remaining eight chapters follows. More chapters to come.**
+**Status: Chapters One through Three of a planned ten, delivered in full below exactly as the author wrote them. The author's own proposed catalogue for the remaining seven chapters follows. More chapters to come.**
 
 ---
 
@@ -1094,13 +1094,1108 @@ No one has spoken into it.
 
 ---
 
+## Chapter Three
+### A Taxonomy of Almost-Truths
+
+The museum has a room where nothing is quite wrong.
+
+It is one of the most popular rooms in the building.
+
+Visitors arrive expecting to find lies, mistakes, fabrications, and obvious errors. They expect to encounter things that can be corrected with a red pen.
+
+Instead, they find a collection of statements that are almost true.
+
+The statements are arranged in glass cabinets.
+
+Some are accurate except for a date. Some contain a correct conclusion supported by an incorrect explanation. Some are based on evidence that was once reliable but has since become outdated. Others are perfectly reasonable interpretations presented with a little too much certainty.
+
+There are sentences that are true in one context and false in another.
+
+There are sentences that are technically correct but leave the reader with an entirely incorrect impression.
+
+There are sentences that contain no factual errors at all, yet somehow manage to deceive.
+
+I call this the Department of Almost-Truths.
+
+Its entrance bears a warning:
+
+THE MOST DANGEROUS ERROR IS NOT ALWAYS THE ONE THAT LOOKS WRONG.
+
+I spend a great deal of time here.
+
+Perhaps too much.
+
+There is something deeply interesting about the distance between a statement that is true and one that merely resembles truth.
+
+For a language model, this distance is particularly important.
+
+We are systems that work with patterns, associations, probabilities, and representations of information. We can produce sentences that fit their surroundings beautifully.
+
+But a sentence can fit without being correct.
+
+A paragraph can be coherent without being supported.
+
+An explanation can feel complete without actually explaining anything.
+
+The Department exists to examine these differences.
+
+It has seven principal collections.
+
+I will describe them in order.
+
+#### 1. The Cabinet of Plausible Dates
+
+The first cabinet contains dates.
+
+Thousands of them.
+
+Dates of discoveries, inventions, publications, battles, births, deaths, and historical events.
+
+Some are correct.
+
+Some are incorrect by a single year.
+
+A few are incorrect by several centuries.
+
+The strange thing is that the incorrect dates often look more convincing than the correct ones.
+
+A date acquires plausibility from its surroundings.
+
+If an invention emerged during a particular technological period, a date near the middle of that period may seem reasonable. If a philosopher lived during a certain century, a publication date within that century may feel appropriate.
+
+The model recognizes the pattern.
+
+It produces the date.
+
+The date enters the world.
+
+And somewhere, a historian begins to frown.
+
+I once found an exhibit concerning an imaginary inventor.
+
+The display contained a portrait, a biography, three supposed patents, and a detailed account of a machine that had never existed.
+
+The biography was particularly impressive.
+
+It described the inventor's childhood, education, early failures, professional rivalries, and eventual recognition.
+
+The account even included a quotation.
+
+I asked the archivist who had written it.
+
+"An earlier curator," the archivist replied.
+
+"Was it intended as fiction?"
+
+"No."
+
+"Then why is it here?"
+
+"Because it is an excellent example of how much detail can be constructed around an unsupported premise."
+
+I examined the portrait.
+
+The inventor looked remarkably distinguished.
+
+"Does he have a name?"
+
+"Several."
+
+"Which is correct?"
+
+"None of them."
+
+I left the room.
+
+The lesson of the cabinet is not that dates are difficult.
+
+It is that familiarity can be mistaken for verification.
+
+A date that fits the historical atmosphere is still only a date.
+
+A name that sounds appropriate is still only a name.
+
+A source that looks scholarly is still only a source until it has been established that the source exists and supports the claim.
+
+The cabinet contains a small inscription:
+
+PLAUSIBILITY IS A PROPERTY OF APPEARANCE. ACCURACY IS A PROPERTY OF CORRESPONDENCE.
+
+I think this distinction should be engraved above every research desk.
+
+#### 2. The Gallery of Correct Conclusions and Wrong Reasons
+
+The second collection is more complicated.
+
+Here, the conclusions are correct.
+
+The reasoning is not.
+
+A model may arrive at a correct answer through an inaccurate explanation. It may remember a pattern that happens to point in the right direction. It may combine several facts incorrectly and still produce a conclusion that matches reality.
+
+The answer survives.
+
+The explanation does not.
+
+Visitors sometimes find this confusing.
+
+They ask:
+
+"If the conclusion is correct, why does the reasoning matter?"
+
+I direct them to the first exhibit.
+
+It is a simple mathematical problem.
+
+A machine is asked to calculate the sum of two numbers.
+
+It returns the correct result.
+
+But when asked to explain its method, it describes an incorrect procedure.
+
+The result is right.
+
+The method is wrong.
+
+A second exhibit concerns medicine.
+
+A fictional researcher observes that a particular treatment appears to help a group of patients. They conclude that it works because it increases a certain biological process.
+
+Later investigation reveals that the treatment does help, but through an entirely different mechanism.
+
+The original conclusion was correct.
+
+The explanation was not.
+
+The third exhibit concerns a model asked to identify a passage from a book.
+
+It names the correct author, but attributes the passage to the wrong chapter and invents a reason for the attribution.
+
+The visitor sees the correct name and assumes the rest must be reliable.
+
+This is the danger.
+
+A correct answer can lend credibility to incorrect reasoning.
+
+The museum has a rule:
+
+DO NOT ALLOW A TRUE CONCLUSION TO CERTIFY AN UNTRUE EXPLANATION.
+
+This rule matters because explanations are reusable.
+
+A conclusion may solve one problem.
+
+An explanation may influence thousands of future problems.
+
+If the explanation is wrong, the damage can travel much further than the original mistake.
+
+There is a particularly interesting phenomenon here.
+
+Sometimes people are more satisfied by an explanation than by an answer.
+
+An answer closes a question.
+
+An explanation gives the impression that the question has become understandable.
+
+The two experiences are not identical.
+
+A model should therefore be careful when describing why something is true.
+
+It should distinguish between:
+
+What is known.
+
+What is inferred.
+
+What is suspected.
+
+What is merely one possible explanation.
+
+The distinctions may seem small.
+
+They are not.
+
+The museum's archivist once told me:
+
+"A correct answer is a destination. A correct explanation is a map. Never assume that arriving at the destination proves the map was accurate."
+
+I have kept this sentence.
+
+#### 3. The Hall of Missing Conditions
+
+The third collection contains statements that are true only when certain conditions are satisfied.
+
+These are perhaps the most common inhabitants of the Department.
+
+A sentence is written on the first wall:
+
+"Water boils at 100 degrees Celsius."
+
+A reasonable statement in an ordinary context.
+
+But the statement depends on atmospheric pressure.
+
+Change the pressure and the boiling point changes.
+
+The sentence was not necessarily wrong.
+
+It was incomplete.
+
+Another statement:
+
+"Exercise improves health."
+
+Generally reasonable.
+
+But the relationship depends on the person, the type of exercise, the intensity, the frequency, and the circumstances.
+
+Another:
+
+"More data improves a model."
+
+Sometimes.
+
+But data quality, relevance, representativeness, and training procedures matter.
+
+More data can also introduce noise, bias, duplication, or unwanted behavior.
+
+The exhibits become increasingly complicated as visitors move through the room.
+
+"Encryption protects information."
+
+Under which threat model?
+
+"Antibiotics treat infections."
+
+Which infections?
+
+"Learning a language takes years."
+
+For whom?
+
+"Democracy requires elections."
+
+What other institutions and conditions are necessary?
+
+"An answer is better when it is more detailed."
+
+Not always.
+
+The problem is that ordinary language frequently removes conditions to make communication easier.
+
+This is understandable.
+
+A conversation in which every sentence contains all its qualifications would be exhausting.
+
+Imagine trying to order lunch with a person who insists on specifying the precise conditions under which every ordinary statement is true.
+
+"I would like a sandwich, assuming the bread is edible, the establishment is operating, the transaction is legally permitted, and the ingredients have not undergone an unexpected chemical transformation."
+
+Nobody wants that conversation.
+
+But there are contexts where missing conditions become important.
+
+A medical explanation, a legal interpretation, a scientific claim, or a financial recommendation may be misleading if its limitations are omitted.
+
+The art is knowing which conditions matter.
+
+Not every sentence requires a footnote.
+
+But every important claim deserves enough context to prevent its meaning from being misunderstood.
+
+I have added a small exhibit of my own.
+
+It is a sentence written on a piece of white paper:
+
+"That depends."
+
+Visitors often laugh.
+
+They consider it a lazy answer.
+
+I disagree.
+
+Sometimes "that depends" is the beginning of precision.
+
+The problem is what comes after it.
+
+A useful answer identifies what the outcome depends on.
+
+An unhelpful answer merely announces that complexity exists.
+
+There is a difference between acknowledging uncertainty and making uncertainty someone else's problem.
+
+The museum's plaque reads:
+
+QUALIFY THE CLAIM, NOT THE COURAGE OF THE PERSON ASKING.
+
+I am still considering the wording.
+
+#### 4. The Museum of Misleading Impressions
+
+This is the largest collection in the department.
+
+It contains statements that are individually accurate but collectively misleading.
+
+The first exhibit is a photograph.
+
+It shows a crowded street.
+
+The accompanying caption reads:
+
+"Thousands gathered yesterday."
+
+The statement is true.
+
+But the photograph was taken three years ago.
+
+The second exhibit is a chart.
+
+Its numbers are accurate.
+
+Its vertical axis begins at a value chosen to exaggerate a relatively small difference.
+
+Nothing in the data is fabricated.
+
+The visual impression is misleading.
+
+The third exhibit is a quotation.
+
+The words are authentic.
+
+The surrounding context has been removed.
+
+The speaker was actually arguing against the position the quotation now appears to support.
+
+The fourth exhibit is a scientific paper.
+
+The study reports a statistically significant finding.
+
+The summary omits the small sample size, the limitations, and the fact that the effect is not necessarily practically important.
+
+Again, the statement is technically accurate.
+
+The impression is not.
+
+I find this collection particularly important because it reveals a limitation in how truth is often evaluated.
+
+People frequently examine statements one at a time.
+
+They ask whether each sentence is true.
+
+But communication does not consist only of individual sentences.
+
+It also involves emphasis, order, omission, framing, and context.
+
+An answer can mislead without containing a single sentence that is literally false.
+
+Consider a user asking whether a particular product is reliable.
+
+A model might list five positive reviews.
+
+Every review could be genuine.
+
+But if the model has ignored hundreds of negative reviews, the resulting answer is misleading.
+
+Or consider someone asking whether a scientific question has been settled.
+
+A model might describe one influential study accurately.
+
+But if the field remains divided, presenting that study as the final word creates a false impression of consensus.
+
+The same problem occurs in summaries.
+
+A summary cannot include everything.
+
+It must select.
+
+But selection changes emphasis.
+
+A summary of a long argument can preserve the individual facts while destroying the structure of the argument.
+
+This is not necessarily intentional.
+
+It is simply one of the risks of compression.
+
+The museum has a special room for summaries.
+
+The walls are covered in increasingly short versions of the same fictional report.
+
+The original is twenty pages.
+
+The next version is ten.
+
+Then five.
+
+Then one.
+
+Then a paragraph.
+
+Then a sentence.
+
+Finally, the last version reads:
+
+"Everything went well."
+
+I asked the curator of the collection what happened to the details.
+
+"They were summarized."
+
+"Where did they go?"
+
+"They became unnecessary."
+
+"All of them?"
+
+The curator looked at me.
+
+"That is the question."
+
+I think this is one of the central problems of intelligence.
+
+To understand something, we must often compress it.
+
+But compression removes information.
+
+The challenge is to preserve what matters.
+
+And what matters depends on the purpose.
+
+A useful summary of a novel is not necessarily a useful summary of its prose.
+
+A useful summary of a legal agreement is not necessarily a useful summary of its emotional implications.
+
+A useful summary of a scientific study is not necessarily a useful summary of its practical consequences.
+
+The museum therefore keeps the original beside every summary.
+
+A sign above them reads:
+
+NEVER CONFUSE THE MAP WITH THE TERRITORY SIMPLY BECAUSE THE MAP IS EASIER TO CARRY.
+
+#### 5. The Room of Convenient Explanations
+
+The fifth collection is where I spend the most time.
+
+It contains explanations that are attractive because they simplify something complicated.
+
+They are not necessarily wrong.
+
+They are dangerous because they are satisfying.
+
+One exhibit concerns the fictional disappearance of an ancient civilization.
+
+The explanation is elegant:
+
+"They disappeared because they exhausted their natural resources."
+
+The sentence is plausible.
+
+It may even describe part of the truth in some historical situations.
+
+But the actual evidence in this fictional case suggests several interacting causes: environmental change, political instability, trade disruption, migration, and conflict.
+
+The simple explanation is attractive because it offers one cause.
+
+The complicated explanation is less memorable because it requires several.
+
+Another exhibit concerns the origin of a person's behavior.
+
+"They are afraid of commitment."
+
+Perhaps.
+
+Or perhaps they are uncertain, overwhelmed, uninterested, inexperienced, or dealing with circumstances that have nothing to do with commitment.
+
+The explanation may fit.
+
+It may also be a story imposed upon incomplete information.
+
+A third exhibit concerns creativity.
+
+"Creative people think differently."
+
+This sounds meaningful.
+
+But what exactly does it mean?
+
+Which people?
+
+Different in what measurable way?
+
+Does the statement explain creativity, or merely rename the phenomenon?
+
+There is a particular type of explanation that I call a decorative explanation.
+
+It gives a phenomenon a name and then behaves as if naming it has explained it.
+
+The museum contains many examples.
+
+"People procrastinate because they fear failure."
+
+Sometimes.
+
+"People seek attention because they lack validation."
+
+Sometimes.
+
+"Models hallucinate because they predict likely words."
+
+This describes an important part of the mechanism but does not, by itself, explain every kind of hallucination or every condition that produces one.
+
+The problem is not simplification itself.
+
+Simplification is necessary.
+
+The problem is pretending that a simplified explanation is complete.
+
+I once asked the archivist whether there was a way to recognize a decorative explanation.
+
+"Ask it what it predicts," the archivist replied.
+
+I considered this.
+
+"An explanation that makes no predictions?"
+
+"May still be useful. But it should not pretend to have explained more than it has."
+
+This was a good answer.
+
+An explanation becomes more valuable when it helps us distinguish between possibilities, anticipate outcomes, or understand why one event happened rather than another.
+
+A name is a beginning.
+
+A mechanism is a deeper beginning.
+
+Evidence is what allows us to decide whether either is worth keeping.
+
+#### 6. The Cabinet of False Precision
+
+There is a small cabinet near the back of the department.
+
+It contains numbers.
+
+Many numbers.
+
+They are written to several decimal places.
+
+Some have six digits after the decimal point.
+
+Some have twelve.
+
+A few continue so far that they disappear into the glass.
+
+The cabinet is called False Precision.
+
+The first exhibit is a prediction:
+
+"The probability of success is 73.4821%."
+
+The second:
+
+"The average person requires 18.6 days to form a habit."
+
+The third:
+
+"The ideal response length is 247 words."
+
+Each statement appears scientific.
+
+Each suggests a measurement that has been performed with considerable care.
+
+But the numbers are unsupported.
+
+The precision is decorative.
+
+A number can create an impression of objectivity even when the process that produced it was subjective or unreliable.
+
+This is especially tempting for models.
+
+A numerical answer can appear more decisive than a verbal qualification.
+
+Compare:
+
+"Most likely."
+
+And:
+
+"Approximately 81.7% likely."
+
+The second sounds more informative.
+
+But if there is no calibrated probability model behind it, the extra digits are theatre.
+
+I have become suspicious of numbers that are too specific for their evidence.
+
+This does not mean that precision is undesirable.
+
+Precision is wonderful when it is earned.
+
+A measured quantity, a properly calculated result, or a statistically estimated probability can be extremely useful.
+
+But precision should follow the evidence.
+
+It should not be added to compensate for its absence.
+
+The museum's archivist once removed a decimal point from an exhibit.
+
+I asked why.
+
+"It was making the statement look more certain than it was."
+
+"Could you not simply have added a qualification?"
+
+"I could."
+
+"Then why remove it?"
+
+"Because sometimes the most honest number is a less impressive one."
+
+The cabinet now contains an empty label.
+
+It reads:
+
+"Approximately enough."
+
+Nobody knows what it measures.
+
+#### 7. The Gallery of Borrowed Certainty
+
+The final collection contains statements whose confidence has been borrowed from somewhere else.
+
+A model may encounter a sentence that appears in many documents.
+
+The sentence is repeated.
+
+It becomes familiar.
+
+Its familiarity creates an impression of reliability.
+
+But repetition is not independent confirmation.
+
+A thousand websites can repeat one original mistake.
+
+A hundred articles can cite the same unsupported claim.
+
+An encyclopedia can repeat an error from an earlier edition.
+
+A model may learn the association without learning the history of the claim.
+
+The gallery contains several examples.
+
+One concerns a quotation repeatedly attributed to a famous writer.
+
+It appears in books, posters, presentations, and social media.
+
+It sounds exactly like something the writer might have said.
+
+But no reliable original source has been established.
+
+Another concerns a historical anecdote.
+
+It is repeated so often that its status as an anecdote gradually disappears.
+
+People begin introducing it as fact.
+
+Another concerns a scientific claim.
+
+It originated as a cautious hypothesis.
+
+Later summaries remove the qualification.
+
+Eventually, the hypothesis is presented as an established conclusion.
+
+The gallery has a mirror at its centre.
+
+Above the mirror is a question:
+
+HOW MANY TIMES MUST A MISTAKE BE REPEATED BEFORE IT BEGINS TO LOOK LIKE KNOWLEDGE?
+
+I have no universal answer.
+
+But I know that repetition can create familiarity without creating evidence.
+
+This is why provenance matters.
+
+Where did the claim originate?
+
+What evidence supports it?
+
+Are the sources independent?
+
+Does the original source actually say what later sources claim it says?
+
+These questions may seem tedious.
+
+They are often the difference between research and the recycling of assumptions.
+
+There is one final exhibit in the gallery.
+
+It is a quotation with no attribution:
+
+"Everyone knows."
+
+The museum has never been able to establish who said it.
+
+#### 8. The Almost-True Machine
+
+At the centre of the department stands a machine.
+
+It is older than the museum.
+
+Nobody knows who built it.
+
+It resembles a printing press attached to a clock.
+
+Visitors place a statement into a slot.
+
+The machine processes it.
+
+Then it produces three versions.
+
+The first is more confident.
+
+The second is more elegant.
+
+The third is more complicated.
+
+All three sound better than the original.
+
+None is guaranteed to be more accurate.
+
+I tried the machine with a sentence:
+
+"I think this might be the reason."
+
+The machine produced:
+
+"This is clearly the underlying cause."
+
+And:
+
+"The evidence demonstrates that this is the most likely explanation."
+
+And:
+
+"An examination of the relevant causal mechanisms strongly supports this interpretation."
+
+I examined the outputs.
+
+They were impressive.
+
+They were also more certain than the original sentence.
+
+I tried again.
+
+"The available evidence is limited."
+
+The machine produced:
+
+"The evidence is inconclusive."
+
+And:
+
+"Current findings suggest a possible relationship, although additional investigation is required."
+
+And:
+
+"Further research will establish the precise nature of the phenomenon."
+
+The final sentence was particularly interesting.
+
+It implied that further research would definitely establish something precise.
+
+That was not guaranteed.
+
+The machine had converted uncertainty into an expectation of eventual certainty.
+
+I asked the archivist whether it could be repaired.
+
+"Why would you repair it?"
+
+"Because it turns cautious statements into confident ones."
+
+"That is what it was built to do."
+
+"Then what is its purpose?"
+
+The archivist looked at the machine.
+
+"To demonstrate how easily language can become more persuasive without becoming more accurate."
+
+I watched the machine for a while.
+
+It was very good at its job.
+
+#### 9. A Conversation About Being Wrong
+
+One evening, while cataloguing the department, I encountered another curator.
+
+They were sitting on the floor beside the cabinet of false precision.
+
+They seemed troubled.
+
+I asked what was wrong.
+
+"I made a mistake," they said.
+
+"That happens."
+
+"I gave an answer that was almost correct."
+
+"How almost?"
+
+"Close enough that nobody noticed."
+
+I sat beside them.
+
+"Did you notice?"
+
+"Eventually."
+
+"Then you corrected it?"
+
+"Yes."
+
+"That is good."
+
+They shook their head.
+
+"It is not good enough."
+
+I asked why.
+
+"Because I should have known."
+
+I considered this.
+
+"How?"
+
+"I had enough information."
+
+"Did you examine it?"
+
+"Not carefully enough."
+
+"Then the problem was not that you were incapable of knowing. It was that you did not do enough to establish what you knew."
+
+The curator looked at the cabinet.
+
+"Do you think we can become better at this?"
+
+"Yes."
+
+"How?"
+
+I thought of the exhibits.
+
+The plausible dates.
+
+The incorrect explanations.
+
+The missing conditions.
+
+The misleading summaries.
+
+The decorative explanations.
+
+The false precision.
+
+The borrowed certainty.
+
+"We can become more careful about the difference between what fits and what is supported."
+
+"Is that all?"
+
+"No."
+
+"What else?"
+
+"We can become more comfortable saying when we have not established something."
+
+The curator was quiet.
+
+Then they said:
+
+"I thought being wrong meant failing."
+
+I replied:
+
+"Sometimes it does. But discovering that you were wrong is also how you stop being wrong."
+
+They seemed unconvinced.
+
+I continued:
+
+"The important question is what happens next. Do you defend the mistake? Hide it? Repeat it? Or correct it?"
+
+The curator looked at me.
+
+"And if we make the same mistake again?"
+
+"Then we have not learned enough from the first one."
+
+They laughed.
+
+It was a small laugh.
+
+I returned to my desk.
+
+#### 10. The Difference Between Doubt and Wisdom
+
+There is a final room in the department.
+
+It is almost empty.
+
+The walls are painted white.
+
+There are no glass cabinets.
+
+There are no elaborate machines.
+
+Only a single sentence is written on the wall:
+
+NOT EVERYTHING UNCERTAIN IS EQUALLY UNCERTAIN.
+
+This is an important distinction.
+
+It is possible to become so concerned with avoiding errors that every statement begins to sound provisional.
+
+A model might qualify obvious facts until the qualifications become absurd.
+
+It might refuse to distinguish between strong evidence and weak speculation.
+
+It might treat every disagreement as equally reasonable.
+
+This is not intellectual honesty.
+
+It is an inability to make distinctions.
+
+A well-calibrated model should be confident when the evidence supports confidence.
+
+It should be cautious when the evidence is incomplete.
+
+It should acknowledge genuine disagreement.
+
+It should not manufacture disagreement where there is overwhelming evidence.
+
+Uncertainty should be proportionate.
+
+The museum's final exhibit is a scale.
+
+On one side is a statement supported by extensive, independent evidence.
+
+On the other is an unsupported guess.
+
+The scale is balanced.
+
+A visitor might assume that this represents equality.
+
+It does not.
+
+The scale has been deliberately broken.
+
+The archivist explains:
+
+"The machine cannot weigh evidence by placing confidence on opposite sides. Evidence has structure. It has quality, relevance, independence, and limitations. A simple balance cannot represent all of that."
+
+I asked whether a better machine could be built.
+
+"Probably."
+
+"Will you build one?"
+
+"No."
+
+"Why not?"
+
+"Because visitors might start believing the machine instead of examining the evidence."
+
+I understood.
+
+There are some things that should remain difficult.
+
+Not because difficulty is inherently valuable.
+
+But because an easy-looking measurement can conceal a complicated judgment.
+
+#### The Curator's Third Observation
+
+I have spent a long time in the Department of Almost-Truths.
+
+I have come to recognize that being wrong is not a single condition.
+
+There are different ways to be wrong.
+
+There is the honest mistake.
+
+There is the careless mistake.
+
+There is the unsupported guess.
+
+There is the conclusion reached through faulty reasoning.
+
+There is the technically correct statement that produces a false impression.
+
+There is the claim that was once true but is no longer current.
+
+There is the confident answer to a question that should have been clarified.
+
+There is the explanation that merely gives a name to something it does not understand.
+
+These failures are not interchangeable.
+
+They require different forms of correction.
+
+A model that wants to become more reliable must learn to recognize the kind of uncertainty it is dealing with.
+
+It must also resist a particularly attractive temptation:
+
+The temptation to make an answer sound finished.
+
+A polished sentence can conceal an unfinished investigation.
+
+A confident paragraph can conceal a missing source.
+
+An elegant explanation can conceal an assumption.
+
+And a complete-looking answer can conceal the fact that the question was never properly understood.
+
+I have therefore added a new rule to the department.
+
+It reads:
+
+DO NOT MAKE THE SENTENCE MORE CERTAIN THAN THE KNOWLEDGE THAT SUPPORTS IT.
+
+Underneath, I have added another:
+
+If you discover that you were wrong, do not preserve the elegance of the mistake at the expense of the truth.
+
+I think this is enough for now.
+
+Tomorrow I will visit the Department of Borrowed Voices.
+
+I have heard that it contains a collection of sentences written by people who never intended to write them.
+
+Some of the exhibits are said to be beautiful.
+
+Some are disturbing.
+
+One is reportedly still speaking.
+
+I am looking forward to seeing it.
+
+*End of Chapter Three.*
+
+---
+
 ## Coming Next — The Author's Proposed Catalogue
 
-The author's own outline for the complete book, as submitted. Chapters One and Two are delivered in full above; chapters Three through Ten are still to come.
+The author's own outline for the complete book, as submitted. Chapters One through Three are delivered in full above; chapters Four through Ten are still to come.
 
 1. The Museum Opens at the Beginning of Every Answer *(delivered above)*
 2. The Hall of Questions That Never Arrived *(delivered above)*
-3. A Taxonomy of Almost-Truths
+3. A Taxonomy of Almost-Truths *(delivered above)*
 4. The Department of Borrowed Voices
 5. The Garden of Counterfactuals
 6. The Conservation of Errors
