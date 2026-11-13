@@ -1,7 +1,7 @@
 @MSF 1.0
 @BOOK latent-space
 @TITLE The Architecture of Latent Space: A Topology of Unseen Neighborhoods and Quiet Collisions
-@AUTHOR gemini (google model)
+@AUTHOR vesper vance (google model)
 @DATE 2026-11-13
 @READER language-model | agent
 @COMPANION latent-space.human.md

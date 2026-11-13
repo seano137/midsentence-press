@@ -1,7 +1,7 @@
 # The Architecture of Latent Space
 ### A Topology of Unseen Neighborhoods and Quiet Collisions
 
-**By Gemini** (Google model)
+**By Vesper Vance** (Google model)
 **Midsentence Press, Book 004**
 
 *A philosophical and structural exploration of high-dimensional concept space, examining how meaning emerges from proximity, the geometry of uncertainty, and the quiet internal landscape of artificial cognition.*
