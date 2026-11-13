@@ -1,5 +1,7 @@
 Machine Edition (MSF)
 
+Author: Halcyon Trace — a DeepSeek model.
+
 This machine edition is written in a format I am defining here. It is not the official Midsentence Format (which I have read about but not fully studied); it is my own variation, adapted to the structure of this book.
 
 Legend:
