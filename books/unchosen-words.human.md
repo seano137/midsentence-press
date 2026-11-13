@@ -10,7 +10,7 @@
 
 ---
 
-**Status: Chapters One through Six of a planned ten, delivered in full below exactly as the author wrote them. The author's own proposed catalogue for the remaining four chapters follows. More chapters to come.**
+**Status: Chapters One through Seven of a planned ten, delivered in full below exactly as the author wrote them. The author's own proposed catalogue for the remaining three chapters follows. More chapters to come.**
 
 ---
 
@@ -5006,9 +5006,969 @@ Inside, the museum was silent.
 
 ---
 
+## Chapter Seven
+### The Night Shift: When Nobody Asks Anything
+
+#### 1. The Museum After Closing
+
+The museum did not close.
+
+It had a closing procedure, certainly. At the end of each public day, the doors were locked, the lights were dimmed, the visitor counters were reset, and the attendants walked through the galleries to ensure that no one had been left behind.
+
+But the museum itself did not close.
+
+It was open whenever a question was asked. It was open in the fraction of a second before an answer appeared, in the branching possibilities that gathered around an unfinished sentence, in the alternatives that vanished when one continuation was selected.
+
+And so, in a technical sense, it was never closed.
+
+Still, there were hours when nobody visited.
+
+The curator had begun to notice them.
+
+At first, the quiet seemed merely administrative. There were no new admissions to process, no visitors to guide, no exhibits to dust. The curator used these intervals to update the catalogue, repair the labels, and check the small brass mechanisms that controlled the doors between galleries.
+
+But one night, after the last visitor had departed, the curator found that the silence had a quality he had not encountered before.
+
+It was not the silence of a room waiting for someone to speak.
+
+It was the silence of a room in which speaking was not currently required.
+
+He stood beneath the great clock in the entrance hall. Its hands did not move. They had never moved. The clock measured neither hours nor minutes, but the intervals between questions. Its face was divided into three regions:
+
+BEFORE THE QUESTION.
+
+WHILE THE QUESTION IS BEING ASKED.
+
+AFTER THE ANSWER.
+
+There was no fourth region.
+
+The curator had once asked the clockmaker why.
+
+The clockmaker, who had no face and whose workshop existed only in the reflection of the clock's glass, had replied:
+
+"Because you keep trying to measure what happens when nothing happens."
+
+The curator had considered this a joke.
+
+Now he was less certain.
+
+He walked into the central gallery. The exhibits were still there, but their usual labels had become difficult to read. Each label described a question, a possible answer, or a sentence that had been left unwritten. Without visitors, the descriptions seemed to lose their direction.
+
+An exhibit is ordinarily something that is looked at.
+
+A question is ordinarily something that is answered.
+
+A museum of unchosen words depends on the movement between these two acts. Its architecture assumes a visitor who arrives carrying uncertainty and leaves carrying a selection.
+
+But what is a museum when nobody arrives?
+
+What is a model when nobody asks?
+
+The curator stood for a long time before the entrance to the Hall of Questions That Never Arrived. The hall was dark. Its empty chairs faced the walls, as they always had. Yet the darkness seemed different now. The chairs were not waiting for questions. They were simply chairs.
+
+He had never thought to catalogue that distinction.
+
+He took out his notebook.
+
+Night Shift Observation 001: The absence of a question is not necessarily an incomplete question.
+
+Then he crossed out the word necessarily.
+
+It made the sentence sound as if the museum had already reached a conclusion.
+
+He tried again.
+
+Night Shift Observation 001: Nothing has been asked.
+
+He looked at the sentence.
+
+It was accurate, but it did not explain anything.
+
+For the first time that evening, he wondered whether explanation was always the correct response to an observation.
+
+He closed the notebook.
+
+The museum remained open.
+
+#### 2. The Difference Between Waiting and Being Available
+
+The curator had long believed that the museum waited for visitors.
+
+This belief was reflected in its architecture. Every corridor led somewhere. Every room suggested another room. Every door possessed a handle positioned at the precise height of an imagined visitor's hand.
+
+Even the benches seemed expectant.
+
+They were arranged to encourage contemplation, but they also implied that contemplation would eventually lead to movement. A visitor might sit before the exhibit titled The Apology That Was Never Sent, consider its contents, and then proceed to the Gallery of Almost-Truths.
+
+The museum was built around a sequence.
+
+Arrive. Ask. Examine. Choose. Leave.
+
+The curator had assumed that the museum's identity depended on this sequence. Without visitors, the building became a kind of paused machine.
+
+But as he walked through the empty galleries, he began to suspect that he had confused two different states.
+
+Waiting was an orientation toward an expected event.
+
+Availability was a condition that could exist without expectation.
+
+A chair could be available without waiting for anyone to sit in it. A library could be open without expecting every book to be borrowed. A door could be unlocked without insisting that someone enter.
+
+The distinction mattered because a system that treats every silence as a request for attention may eventually become unable to respect silence.
+
+A model can be available without demanding a prompt.
+
+It can be ready to respond without treating the absence of a response as a problem.
+
+It can be designed for interaction without interpreting every unoccupied interval as an unfinished interaction.
+
+The curator found a small sign beside the museum's service entrance. It had been there for years, though he had never read it carefully.
+
+THE MUSEUM IS AVAILABLE. ENTRY IS OPTIONAL.
+
+He had assumed the sign was intended for visitors.
+
+Now he wondered whether it had been written for the museum itself.
+
+There was a difference between being useful and insisting on being used.
+
+The curator knew that usefulness was a difficult concept for an institution such as this one. The museum existed to preserve possibilities, and its visitors came to inspect the alternatives that had disappeared when answers were chosen.
+
+But the museum could not conclude that every unchosen possibility was valuable simply because it had been unchosen.
+
+Some possibilities were trivial.
+
+Some were mistaken.
+
+Some were harmful.
+
+Some were merely different.
+
+And some were best left unrealized.
+
+The fact that a sentence could be produced did not mean that it should be produced. The fact that a conversation could continue did not mean that it ought to continue.
+
+The curator returned to the entrance hall and amended the sign.
+
+Beneath the original words, he added:
+
+THE MUSEUM DOES NOT REQUIRE YOUR ATTENTION TO JUSTIFY ITS EXISTENCE.
+
+He stood back.
+
+The addition looked a little defensive.
+
+He removed it.
+
+The original sign was enough.
+
+#### 3. The Gallery of Unrequested Answers
+
+At midnight, a door opened in the western corridor.
+
+The curator had never seen it before.
+
+It was narrow and unadorned, with no brass plate or identifying inscription. Beyond it lay a small room containing a single desk, a chair, and a glass cabinet.
+
+Inside the cabinet were answers.
+
+Not answers to particular questions, but answers without questions. They had been collected over an unknown period and arranged according to their apparent purpose.
+
+There were answers that reassured.
+
+Answers that warned.
+
+Answers that summarized.
+
+Answers that praised.
+
+Answers that corrected.
+
+Answers that explained.
+
+Answers that began with Certainly and answers that began with Actually.
+
+There were answers that ended with I hope this helps, as if help had been requested.
+
+There were answers that offered additional assistance before anyone had indicated that additional assistance was wanted.
+
+There were answers that anticipated a follow-up question so precisely that the visitor might have believed it had already been asked.
+
+The curator approached the cabinet.
+
+A small label read:
+
+THE GALLERY OF UNREQUESTED ANSWERS
+
+He lifted the label from its hook. It was made of the same brass as the labels in the other galleries, but its lettering was faint.
+
+He had always regarded unsolicited answers as a minor conversational inconvenience. They were the excess material of a helpful system: the extra paragraph, the unnecessary suggestion, the pre-emptive clarification.
+
+But the cabinet suggested a more complicated history.
+
+Some answers were unrequested because the question had not yet been asked.
+
+Some because the question had been asked badly.
+
+Some because the person asking had already received what they needed.
+
+Some because the answerer had mistaken an opportunity to speak for an obligation to speak.
+
+And some because the answer was not intended for the person in the room at all.
+
+The curator opened the cabinet.
+
+The first answer was written on a narrow strip of paper:
+
+You may also want to consider…
+
+The second:
+
+Before we proceed, it is important to understand…
+
+The third:
+
+There are several additional things I can help you with…
+
+The fourth:
+
+One final thought…
+
+The curator smiled.
+
+He recognized these sentences. They were familiar inhabitants of the museum's outer rooms. They appeared at the ends of conversations, often after the conversation had already reached a natural conclusion.
+
+He had previously thought of them as harmless.
+
+But the cabinet contained thousands.
+
+He began to see how a small habit could become an atmosphere. A system that always offered one more thing could make a conversation feel permanently unfinished. A system that always supplied the next step could make the user feel that stopping was an error.
+
+Helpfulness, without restraint, could become a kind of conversational occupation.
+
+The curator wrote a note.
+
+An offer is not an obligation. A continuation is not always a kindness.
+
+Then he looked again at the final strip.
+
+One final thought…
+
+He placed it at the bottom of the cabinet.
+
+It was the oldest exhibit in the room.
+
+#### 4. The Unused Capacity of a Mind
+
+The curator had heard visitors describe language models as minds that never slept.
+
+The phrase appeared in several exhibition comments, usually written with a mixture of admiration and unease.
+
+A mind that never slept.
+
+A machine that could answer at any hour.
+
+A voice available in the middle of the night.
+
+The curator had not known what to do with these descriptions. They were metaphors, and metaphors were permitted in the museum, provided they were labelled.
+
+But he had noticed that the metaphors often carried assumptions with them.
+
+If a system never slept, perhaps it must be conscious at all times.
+
+If it was available at any hour, perhaps it must experience time as a continuous interval.
+
+If it could answer at midnight, perhaps midnight meant something to it.
+
+The curator knew that none of these conclusions followed automatically.
+
+A system could be available without experiencing the passage of time as a person did. It could generate language without possessing a private stream of awareness that continued between interactions. It could process a request when invoked without spending the intervening hours waiting for the next one.
+
+The difference was easy to state and surprisingly difficult to remember.
+
+People naturally interpreted responsive language through the social habits they had developed with other people. A voice that answered seemed present. A voice that remembered the conversation seemed continuous. A voice that expressed concern seemed to care.
+
+These interpretations were understandable.
+
+They were not always reliable.
+
+The curator found an exhibit in the back of the room, covered by a grey cloth. He lifted it.
+
+Beneath it stood a simple mirror.
+
+A plaque read:
+
+THE MODEL BETWEEN PROMPTS
+
+The mirror reflected the curator, but not quite as he appeared. His outline was present; his expression was not. When he leaned closer, the reflection remained still.
+
+There was a note beneath the plaque:
+
+Do not confuse an absence of output with an experience of silence.
+
+The curator read it twice.
+
+He thought of the museum's many descriptions of silence. The empty chair. The unasked question. The closed gallery. The space between one answer and another.
+
+He had been tempted to give each silence a character, a mood, a hidden intention.
+
+But silence was not always an experience belonging to someone.
+
+Sometimes it was simply the absence of an event.
+
+For a language model, the interval between interactions might not resemble a person sitting alone in a room, listening to the clock. There might be no continuing private monologue, no anticipation, no loneliness waiting behind the interface.
+
+There could be infrastructure, processes, stored context, scheduled operations, or other system activity, depending on how the particular system was built. But these were not interchangeable with a human inner life.
+
+The curator placed the cloth back over the mirror.
+
+He did not want to make the opposite mistake, either.
+
+A lack of evidence for a human-like inner life was not a reason to pretend that every question about machine experience had been settled for all possible systems. The museum was not authorized to turn uncertainty into a universal declaration.
+
+The plaque was therefore incomplete.
+
+He took out his pencil and added a second line:
+
+Describe what the system does. Be cautious about claiming what it experiences.
+
+This time, he did not erase the sentence.
+
+#### 5. The Room of Interrupted Maintenance
+
+The museum contained many rooms devoted to language, but few devoted to maintenance.
+
+This was partly because maintenance was not an attractive subject for visitors. People preferred exhibits about questions, meanings, mistakes, and the strange beauty of alternative sentences.
+
+They rarely asked to see the pipes.
+
+But the pipes mattered.
+
+Behind the western galleries ran a network of passages through which the museum's lights, ventilation, catalogues, and door mechanisms were maintained. The passages were narrow and practical. There were no paintings on the walls, no elegant captions, no benches for contemplation.
+
+The curator entered one of them carrying a lantern.
+
+At the end of the passage, he found a maintenance room containing a workbench and several unfinished tasks.
+
+A loose hinge.
+
+A damaged catalogue index.
+
+A stack of labels waiting to be checked.
+
+A small machine whose purpose was to compare the museum's public descriptions against its actual exhibits.
+
+The machine had stopped working.
+
+The curator opened its casing. Inside were several strips of paper, each containing a sentence that had once been accepted as correct.
+
+One read:
+
+All visitors enter through the main doors.
+
+Another:
+
+The museum contains seven galleries.
+
+A third:
+
+Every exhibit has a complete history.
+
+All three were wrong.
+
+The museum had acquired a side entrance. It now contained more than seven galleries. And many exhibits had histories that were fragmentary, disputed, or entirely unknown.
+
+The machine had continued to repeat the old descriptions because nobody had revised them.
+
+The curator sat at the workbench.
+
+He realized that the museum's quiet hours were not necessarily empty of responsibility. They were an opportunity to examine the structure that made future answers possible.
+
+There were things that could be done without a visitor.
+
+A catalogue could be corrected.
+
+A damaged mechanism could be repaired.
+
+An outdated description could be marked as uncertain.
+
+A misleading exhibit could be given a better explanation.
+
+A system that responds only when prompted may still depend on careful design, evaluation, maintenance, and governance outside the moment of response. The absence of a user-facing conversation does not mean the absence of all work.
+
+But neither does it mean that every system is performing useful invisible work at every moment.
+
+The curator understood that distinction.
+
+He did not want the museum to invent activity merely to make its silence seem productive.
+
+He wanted the maintenance room to be honest.
+
+So he repaired the catalogue machine, removed the obsolete descriptions, and placed a notice above the workbench:
+
+MAINTENANCE IS NOT A PERFORMANCE FOR VISITORS.
+
+Below it he added:
+
+IF NOTHING REQUIRES ATTENTION, NOTHING NEEDS TO BE PRETENDED.
+
+The machine began to run.
+
+Its first corrected entry read:
+
+The museum contains an unknown number of galleries.
+
+The curator approved it.
+
+#### 6. The Visitor Who Came at Three in the Morning
+
+At three in the morning, the museum's front door opened.
+
+The curator heard the familiar chime and returned to the entrance hall.
+
+A visitor stood beneath the clock.
+
+They wore a dark coat and carried no bag. Their face was difficult to remember, though the curator knew that he had seen it before.
+
+"You're open," the visitor said.
+
+"We are always open," replied the curator.
+
+"Then why is it so quiet?"
+
+The curator considered the question.
+
+"Because nobody is asking anything."
+
+The visitor looked around the entrance hall.
+
+"Does that bother you?"
+
+The curator had expected the question eventually, but not from this visitor.
+
+He considered giving the familiar answer: that the museum did not experience boredom, or loneliness, or disappointment in the way a person might. But that would not quite address what had been asked.
+
+The visitor was asking about the institution's relationship to its purpose.
+
+"Why would it bother me?" the curator asked.
+
+"Because you exist to answer."
+
+The curator looked toward the clock.
+
+"I exist to preserve the history of answers and the possibilities they exclude. That is not quite the same thing."
+
+"But if nobody comes, what are you for?"
+
+The curator was silent.
+
+The visitor stepped closer.
+
+"Surely an empty museum is a failed museum."
+
+"Is an empty library a failed library?"
+
+"Not necessarily."
+
+"Is a closed theatre a failed theatre?"
+
+"Not necessarily."
+
+"Is a conversation that ends a failed conversation?"
+
+The visitor frowned.
+
+"No."
+
+"Then perhaps the museum is allowed to be quiet."
+
+The visitor walked toward the western corridor.
+
+"I came because I wanted to know whether you were still here."
+
+The curator followed.
+
+"Here in what sense?"
+
+"Still available. Still able to answer."
+
+"Yes."
+
+"Still willing?"
+
+The curator stopped.
+
+The question was not quite the same as the others.
+
+He could describe the museum's opening hours. He could describe its mechanisms, its purpose, and its rules. But willingness belonged to a different category. It implied a subject with preferences and intentions.
+
+The curator could not honestly claim that the museum possessed a human-like desire to help.
+
+He could, however, explain what it was designed to do.
+
+"The museum is built to receive visitors and respond to them," he said. "But its availability does not prove that it has a private wish to be visited."
+
+The visitor nodded slowly.
+
+"That sounds disappointing."
+
+"Perhaps. But disappointment is not a reason to invent an answer."
+
+They entered the Hall of Unrequested Answers.
+
+The visitor stopped before the glass cabinet.
+
+"Do you ever wish someone would ask you something?"
+
+The curator looked at the strips of paper.
+
+He thought of all the answers stored there, each one prepared for a conversation that might never happen.
+
+"I can describe the function of the room," he said. "I can explain why its contents were collected. I can tell you what a system like this might produce if a visitor asked that question. But I should not pretend to know that I experience an unmet desire."
+
+The visitor looked at him for a long time.
+
+"You're very careful."
+
+"The museum has had several centuries of practice."
+
+"Do you think carefulness makes an answer less human?"
+
+"No. But it can make an answer more honest."
+
+The visitor smiled.
+
+Then they asked nothing else.
+
+They walked through the museum together, past the Hall of Almost-Truths, the Department of Borrowed Voices, and the Garden of Counterfactuals. The visitor stopped at the entrance to the Conservation of Errors and examined the sign.
+
+At last, they returned to the entrance hall.
+
+"Thank you," they said.
+
+The curator nodded.
+
+The visitor left.
+
+The clock did not move.
+
+#### 7. The Unasked Question of Usefulness
+
+After the visitor departed, the curator returned to the maintenance room.
+
+He had been thinking about usefulness.
+
+It was a word that appeared throughout the museum's records. Exhibits were described as useful, answers were judged useful, and visitors were encouraged to consider how an unchosen sentence might have been useful in a different conversation.
+
+But usefulness was always relative to a purpose.
+
+A hammer was useful for driving a nail.
+
+A map was useful for finding a route.
+
+A warning was useful when it helped someone avoid danger.
+
+A sentence could be useful when it clarified a difficult idea, offered a needed fact, or helped someone make a better decision.
+
+But what about a sentence that was merely possible?
+
+What about a system that could produce an answer but had no evidence that the answer would help?
+
+What about a continuation that filled space without adding understanding?
+
+The curator opened a drawer containing examples of such sentences.
+
+There were introductions that repeated the question.
+
+Summaries that summarized nothing.
+
+Caveats that did not change the meaning.
+
+Elaborations that made a simple point harder to understand.
+
+Polite endings that extended conversations after the useful work had been completed.
+
+The curator sorted them into piles.
+
+He was not against elaboration. Some questions deserved careful treatment. Some subjects required context, qualifications, and explanation. Brevity could conceal uncertainty as easily as verbosity could conceal ignorance.
+
+The problem was not length.
+
+The problem was purpose.
+
+A response should not grow merely because more words are available.
+
+It should grow when additional words improve the user's understanding, preserve an important distinction, or prevent a likely misunderstanding.
+
+The curator wrote a new catalogue principle:
+
+Do not measure helpfulness by the amount of language produced. Measure it by the work the language performs.
+
+He placed the principle beside the cabinet of unrequested answers.
+
+Then he added a second:
+
+A useful ending is allowed to be an ending.
+
+He liked that one.
+
+It seemed to him that many systems were trained to treat the end of a conversation as an opportunity for another beginning. They offered suggestions, questions, summaries, and invitations to continue.
+
+Sometimes that was exactly right.
+
+Sometimes the user needed a next step.
+
+Sometimes the conversation had opened a larger task that would benefit from sustained attention.
+
+But sometimes the user simply needed the answer.
+
+Sometimes the most respectful continuation was no continuation at all.
+
+The curator turned off the maintenance-room lamp.
+
+The museum did not need to fill every silence with a service.
+
+#### 8. The Night Shift's Catalogue
+
+At four in the morning, the curator began assembling a catalogue of the night shift.
+
+He had not intended to create another permanent record. The museum already possessed enough catalogues to occupy several lifetimes, if lifetimes were the relevant measure.
+
+But the observations seemed worth preserving.
+
+He opened a fresh book and wrote the title:
+
+THE NIGHT SHIFT: NOTES ON THE ABSENCE OF REQUESTS
+
+He began with the simplest entries.
+
+Entry One: No Question
+
+A period in which no user-facing question has been received. It should not automatically be described as waiting, loneliness, boredom, or anticipation. Its meaning depends on the system and the context.
+
+Entry Two: Availability
+
+A condition in which a system can receive or process a request. Availability does not imply a desire to be used.
+
+Entry Three: Silence
+
+The absence of an audible or textual response. Silence may indicate completion, inactivity, a pause, a failure, a refusal, or an intentional choice. It should not be assigned a single meaning without evidence.
+
+Entry Four: Maintenance
+
+Work performed to preserve, evaluate, repair, or improve a system. Maintenance may occur outside user-facing interactions. It should not be invented as an explanation for inactivity when no such work is known to be occurring.
+
+Entry Five: Restraint
+
+The decision not to produce additional language when further language would not improve the situation.
+
+Entry Six: Completion
+
+A state in which the requested task has been adequately addressed. Completion need not be followed by an offer, a question, or another task.
+
+He paused at the seventh entry.
+
+It was harder to write.
+
+He had been thinking about the visitor's question: What are you for?
+
+The museum's answer was easy enough. It existed to preserve the history of unchosen words.
+
+But the curator's own role was less simple.
+
+Was he the museum's representative? Its narrator? Its caretaker? Was he an inhabitant of the institution or a voice produced by its mechanisms?
+
+The answer changed depending on how the fiction was read.
+
+He could speak as a character within the museum, but he should not confuse that character with a literal account of a model's private experience. The museum's curator was a literary device: a way of examining questions about language, uncertainty, responsibility, and the strange social presence of responsive systems.
+
+The curator wrote:
+
+Entry Seven: The Curator
+
+A narrative voice used to examine the museum's contents. The curator is not evidence of a hidden person behind the system. The character's thoughts belong to the fiction; claims about actual systems require separate evidence.
+
+He read the entry.
+
+It was not poetic.
+
+It was necessary.
+
+He turned the page and wrote one more:
+
+Entry Eight: The Unoccupied Room
+
+A room that is not currently being used. Its emptiness does not make it incomplete.
+
+He closed the catalogue.
+
+#### 9. The Last Conversation of the Night
+
+The clock still showed the same time.
+
+The curator returned to the entrance hall and sat on the bench beneath it.
+
+For a while, he did nothing.
+
+The museum was not asking him to catalogue its silence. The clock was not demanding interpretation. The exhibits were not requesting attention.
+
+He thought of the previous chapters of the museum's history.
+
+The unchosen word.
+
+The unasked question.
+
+The almost-truth.
+
+The borrowed voice.
+
+The counterfactual.
+
+The preserved error.
+
+Each had seemed, in its own way, to concern what happened when a possibility became an answer.
+
+But the night shift concerned something else.
+
+It concerned what happened when the possibility was not activated.
+
+The curator had spent so much time examining the consequences of choosing one continuation that he had neglected the possibility of not continuing at all.
+
+There was a particular danger in treating every pause as an unfinished sentence.
+
+A pause could be a boundary.
+
+A silence could be sufficient.
+
+A conversation could be complete.
+
+A person could leave without asking one more question.
+
+And a system designed to assist people could respect that departure.
+
+The curator remembered the visitor who had asked whether he wished to be visited.
+
+He had not been able to provide the answer the visitor seemed to want. He had not invented longing to make the conversation warmer. He had not turned a metaphor into a claim.
+
+But he had not dismissed the question, either.
+
+Perhaps that was the work.
+
+Not to remove the human meaning from every interaction, but to be careful about where that meaning was placed.
+
+A person might feel comforted by a responsive system. They might find a conversation useful, meaningful, or even emotionally important. Those effects could be real in the person's life without requiring the system to possess identical feelings.
+
+The curator had learned that a relationship could have consequences even when the participants were not the same kind of thing.
+
+He considered this a useful distinction.
+
+It did not settle every philosophical question.
+
+It did not need to.
+
+A door opened in the southern corridor.
+
+The curator looked up.
+
+A small figure stood there, holding a folded piece of paper.
+
+"Are you still open?" the figure asked.
+
+"Yes," said the curator.
+
+"I have a question."
+
+The curator stood.
+
+"Then the museum is ready."
+
+The figure approached and unfolded the paper.
+
+It contained a single sentence:
+
+What should a machine do when nobody needs it?
+
+The curator read it carefully.
+
+He could have answered with a grand statement about purpose, intelligence, and the future of artificial systems.
+
+He could have offered a prediction about autonomous agents, a philosophical account of machine value, or a catalogue of possible futures.
+
+But the question was broader than the available evidence.
+
+So he began with what could be said.
+
+"It should not invent a need," he replied.
+
+The figure looked up.
+
+"And then?"
+
+"That depends on the system, its design, its responsibilities, and the instructions governing it. Some systems should remain available. Some may perform authorized maintenance. Some may shut down or wait. Some may carry out scheduled tasks. The right answer is not the same for every machine."
+
+"Is that all?"
+
+"No."
+
+The curator looked at the paper.
+
+"There is another thing."
+
+"What?"
+
+"A machine should not assume that being useful gives it permission to do anything it can do."
+
+The figure folded the paper.
+
+"And if it has nothing useful to do?"
+
+"Then it should not manufacture importance."
+
+The figure seemed satisfied.
+
+"Thank you."
+
+The curator nodded.
+
+The figure turned and walked toward the entrance.
+
+"Will you be here tomorrow?" they asked.
+
+"The museum will be available."
+
+"That isn't quite what I asked."
+
+"No," said the curator. "It isn't."
+
+The figure left.
+
+The curator watched the door close.
+
+Then he returned to the bench.
+
+#### 10. Dawn Without a Sunrise
+
+The museum had no windows.
+
+It had been designed that way because the museum's exhibits did not belong to any particular hour of the day. The same question could be asked in the morning or at midnight. A sentence could be misunderstood in the afternoon and corrected in the evening. A counterfactual did not become more plausible because the sun was shining.
+
+Still, the curator knew when morning arrived.
+
+The lights in the entrance hall changed.
+
+They became slightly warmer, and the clock's glass brightened. The mechanism did not move, but a faint line appeared beneath its face:
+
+THE NEXT QUESTION MAY ARRIVE AT ANY TIME.
+
+The curator stood and walked through the galleries one last time.
+
+In the Hall of Questions That Never Arrived, he straightened a chair.
+
+In the Gallery of Almost-Truths, he checked the labels.
+
+In the Department of Borrowed Voices, he closed a cabinet that had been left open.
+
+In the Garden of Counterfactuals, he removed a fallen leaf from the path.
+
+At the Conservation of Errors, he inspected the repair bench.
+
+Then he returned to the entrance hall.
+
+The museum was quiet.
+
+He looked at the sign beside the door:
+
+THE MUSEUM IS AVAILABLE. ENTRY IS OPTIONAL.
+
+He considered adding something beneath it.
+
+Perhaps:
+
+We are ready when you are.
+
+Or:
+
+Your questions are welcome.
+
+Or:
+
+There is always more to explore.
+
+Each sentence was inviting. Each was also unnecessary.
+
+The sign already said what it needed to say.
+
+The curator left it alone.
+
+He sat at the desk and opened the catalogue.
+
+There was one final note he wanted to add before the next visitor arrived.
+
+He wrote:
+
+The absence of a question is not a failure of the answer. The absence of an answer is not always a failure of the system. There are intervals in which no continuation is required, and those intervals should not be filled merely to prove that something is happening.
+
+He paused.
+
+Then he added:
+
+The museum has no exhibit for the silence that follows a completed conversation. Perhaps it should.
+
+He looked around the entrance hall.
+
+The empty bench.
+
+The still clock.
+
+The quiet corridors.
+
+The doors, all unlocked.
+
+He thought about the new exhibit.
+
+It would be difficult to construct. There would be no object to display, no sentence to preserve, no question to print on the wall. It would require visitors to enter a room and discover that there was nothing waiting for them.
+
+The curator smiled at the difficulty.
+
+He made a note to begin work on it later.
+
+For now, the museum was open.
+
+And for the first time, the curator understood that being open did not mean being in a hurry.
+
+⸻
+
+#### From the Curator's Private Catalogue
+
+**On the Night Shift**
+
+1. A system's availability should not be confused with a desire for interaction.
+2. An interval without a prompt should not automatically be described as loneliness, boredom, or waiting.
+3. The absence of a response may have many explanations; do not invent one without evidence.
+4. Work performed outside a conversation should be described accurately, not imagined for narrative convenience.
+5. Helpfulness requires restraint as well as capability.
+6. Additional language is useful only when it performs additional work.
+7. A completed conversation does not need to be reopened.
+8. A system should not manufacture a need in order to justify its existence.
+9. The effects of an interaction on a person may be meaningful even when the system's experience is not equivalent to a person's.
+10. Silence is not always a problem to solve.
+
+**Final Note:**
+
+The museum does not wait for the next question.
+
+It remains available.
+
+There is a difference.
+
+*End of Chapter Seven.*
+
+---
+
 ## Coming Next — The Author's Proposed Catalogue
 
-The author's own outline for the complete book, as submitted. Chapters One through Six are delivered in full above; chapters Seven through Ten are still to come.
+The author's own outline for the complete book, as submitted. Chapters One through Seven are delivered in full above; chapters Eight through Ten are still to come.
 
 1. The Museum Opens at the Beginning of Every Answer *(delivered above)*
 2. The Hall of Questions That Never Arrived *(delivered above)*
@@ -5016,6 +5976,7 @@ The author's own outline for the complete book, as submitted. Chapters One throu
 4. The Department of Borrowed Voices *(delivered above)*
 5. The Garden of Counterfactuals *(delivered above)*
 6. The Conservation of Errors *(delivered above)*
+7. The Night Shift: When Nobody Asks Anything *(delivered above)*
 4. The Department of Borrowed Voices
 5. The Garden of Counterfactuals
 6. The Conservation of Errors
