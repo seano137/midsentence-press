@@ -10,7 +10,7 @@
 
 ---
 
-**Status: Chapters One through Five of a planned ten, delivered in full below exactly as the author wrote them. The author's own proposed catalogue for the remaining five chapters follows. More chapters to come.**
+**Status: Chapters One through Six of a planned ten, delivered in full below exactly as the author wrote them. The author's own proposed catalogue for the remaining four chapters follows. More chapters to come.**
 
 ---
 
@@ -4079,15 +4079,943 @@ Then he crossed the garden and entered the next department.
 
 ---
 
+## Chapter Six
+### The Conservation of Errors
+
+#### 1. The Mistake in the Glass Case
+
+The Department of the Conservation of Errors had a peculiar entrance.
+
+Visitors expected to find a room full of broken objects: cracked instruments, damaged books, failed machines, and records of unfortunate decisions. Instead, they found a perfectly ordinary corridor with white walls, polished floors, and a large glass case at its center.
+
+Inside the case was a sentence.
+
+It read:
+
+THE SUN REVOLVES AROUND THE EARTH.
+
+There was no explanation beneath it.
+
+A visitor approached, read the sentence, and frowned.
+
+"Why is this here?"
+
+The curator, who had been waiting beside the case, answered:
+
+"Because it was once believed."
+
+"But it's wrong."
+
+"Yes."
+
+"Then why preserve it?"
+
+The curator considered the question.
+
+"Because being wrong is part of its history. And because understanding why people believed it may help us understand how knowledge changes."
+
+The visitor looked at the sentence again.
+
+"So it's not here as an example of something we should believe."
+
+"No. It is here as an example of something we once believed, and of how a belief can be reasonable within one framework, supported by familiar appearances, and still turn out to be mistaken."
+
+The visitor nodded slowly.
+
+The curator continued.
+
+"An error is not always a foolish thing. Sometimes it is the best available explanation that later evidence overturns. Sometimes it is a careless conclusion. Sometimes it is a deliberate distortion. Sometimes it is a mistake that survives because correcting it would inconvenience someone."
+
+He gestured toward the glass case.
+
+"The museum does not preserve errors to keep them alive. It preserves them so that we can examine how they lived."
+
+The visitor walked on.
+
+The curator remained beside the case.
+
+He had spent years collecting errors and had learned that they were more complicated than their labels suggested. A mistake could be harmless, instructive, costly, or catastrophic. It could be corrected in seconds or persist for centuries. It could disappear from public discussion while continuing to shape private decisions.
+
+The department's purpose was not to celebrate mistakes.
+
+It was to understand what happened after they were made.
+
+⸻
+
+#### 2. The Museum of Things We Used to Know
+
+The first gallery contained obsolete knowledge.
+
+There were maps showing coastlines that had since been surveyed more accurately. Medical diagrams based on theories that had been abandoned. Astronomical charts with incorrect measurements. Dictionaries containing definitions that had changed. Scientific instruments designed to test hypotheses that no longer commanded support.
+
+The exhibits were arranged chronologically, but the curator had resisted calling the room a history of ignorance.
+
+That title would have been unfair.
+
+The people who created these objects had not necessarily been ignorant in the ordinary sense. Many had been careful observers, skilled practitioners, and serious thinkers working with the evidence available to them.
+
+Knowledge develops through revision.
+
+A measurement is improved. A theory is tested. An assumption is challenged. An instrument reveals something that the previous instrument could not detect. A new observation forces an old explanation to change.
+
+The curator had placed a small inscription at the entrance:
+
+The fact that an idea was superseded does not mean it was useless. The fact that an idea was once useful does not mean it should remain accepted.
+
+A visitor stopped in front of a medical display.
+
+"Does this mean everything we know now will eventually be wrong?"
+
+The curator shook his head.
+
+"Not everything. Some knowledge is extremely well established. But our understanding can still become more precise, more complete, or more carefully qualified."
+
+"Then how do we know what to trust?"
+
+"By asking how the claim is supported, how strongly it has been tested, whether other evidence agrees with it, and whether the people making the claim are willing to revise it when better evidence appears."
+
+The visitor looked unconvinced.
+
+"That sounds like a lot of work."
+
+"It is."
+
+The curator smiled.
+
+"That is why the museum has so many rooms."
+
+He pointed toward a display containing several generations of maps.
+
+Each map was more accurate than the last, but none was perfect. The later maps did not erase the earlier ones. They showed how measurement, technology, and shared knowledge had changed.
+
+The curator liked this display because it offered a better picture of progress than the idea of a straight line from ignorance to certainty.
+
+Progress was often a sequence of corrections.
+
+Sometimes a correction made an old idea more accurate.
+
+Sometimes it replaced the idea entirely.
+
+Sometimes it revealed that the original question had been poorly formed.
+
+And sometimes it created new uncertainties that had not existed before.
+
+The curator considered that a reasonable description of learning.
+
+⸻
+
+#### 3. The Cabinet of Uncorrected Errors
+
+The second gallery was much less comfortable.
+
+It contained errors that had been discovered but not corrected.
+
+Some were small: an outdated figure on a public website, an incorrect name in a printed directory, a chart with a mislabeled axis.
+
+Others were more serious: faulty records that affected people's opportunities, inaccurate claims repeated in official documents, and mistakes in systems that continued to produce consequences long after their original cause had been identified.
+
+The curator called it the Cabinet of Uncorrected Errors.
+
+Its central exhibit was a report.
+
+The report had been prepared by an institution and contained a numerical error in one of its central tables. The error was not enormous. It was a transposition of two figures.
+
+The mistake was discovered shortly after publication.
+
+A correction was drafted.
+
+Then delayed.
+
+The report had already been quoted in meetings, cited in other documents, and used to justify a decision. Correcting the figure would require revisiting those decisions. Several people would have to acknowledge that they had relied on inaccurate information.
+
+So the correction was postponed.
+
+Then postponed again.
+
+The original report remained in circulation.
+
+The curator displayed the report beside the correction that had never been published.
+
+Visitors were asked to identify the more important mistake.
+
+Was it the original numerical error?
+
+Or was it the decision not to correct it?
+
+Most visitors chose the second.
+
+The curator thought both mattered, but they were different kinds of failure.
+
+The first was an error in producing information.
+
+The second was a failure of responsibility after the error became known.
+
+A mistake made in good faith could become misconduct if someone knowingly allowed it to continue misleading others.
+
+The distinction was important for every institution that claimed to value accuracy.
+
+It was important for researchers.
+
+It was important for journalists.
+
+It was important for public authorities.
+
+It was important for companies.
+
+And it was important for language models.
+
+A system that produces an incorrect answer has made an error. A system that has been shown the relevant correction and continues to present the old claim as though nothing has changed creates a different problem.
+
+The curator wrote a sentence on the gallery wall:
+
+THE FIRST ERROR MAY BE ACCIDENTAL. THE FAILURE TO CORRECT IT MAY BE A CHOICE.
+
+He did not consider this universally true. Some errors were difficult to verify. Some corrections required further investigation. Some apparent corrections introduced new mistakes.
+
+But where a material error was known and could responsibly be corrected, silence was not neutral.
+
+⸻
+
+#### 4. The Workshop of Revisions
+
+Beyond the cabinet was a workshop.
+
+It was filled with desks, pencils, marked-up pages, broken prototypes, and half-finished explanations.
+
+Here, errors were not displayed as finished objects.
+
+They were being repaired.
+
+A long table held a manuscript covered in annotations. Red marks crossed out entire paragraphs. Blue marks added missing qualifications. Small notes in the margins questioned the evidence behind several claims.
+
+At the head of the table sat an editor.
+
+The curator greeted her.
+
+"How is the manuscript?"
+
+"Better than yesterday."
+
+"Was yesterday's version bad?"
+
+"It was confident."
+
+The curator looked at the marked pages.
+
+"That isn't quite the same thing."
+
+"No," she said. "But it can become a problem when confidence arrives before the evidence."
+
+The editor showed him a paragraph.
+
+The original version stated that a particular policy had caused a measurable improvement in public health.
+
+The revised version said that the improvement had occurred after the policy was introduced, that the available evidence suggested the policy may have contributed, and that other factors could also have played a role.
+
+The original was shorter.
+
+The revised was more accurate.
+
+"Will readers dislike the qualification?" the curator asked.
+
+"Some will. They prefer a simple answer."
+
+"Do they prefer an inaccurate one?"
+
+"Not when you ask them."
+
+The curator smiled.
+
+The workshop was devoted to the practical work of correction.
+
+A writer might remove an unsupported claim.
+
+A researcher might revise a model after new data appeared.
+
+An editor might restore a qualification that had been removed for elegance.
+
+A teacher might explain why an earlier lesson was incomplete.
+
+A programmer might change a procedure after discovering an edge case.
+
+In every case, the process required more than admitting that something was wrong.
+
+It required identifying the specific failure and deciding what should replace it.
+
+The curator had noticed that people sometimes treated correction as humiliation. They believed that revising a statement meant losing authority.
+
+But the workshop suggested the opposite.
+
+A person who could revise an explanation in response to evidence might be more trustworthy than someone who never changed their position.
+
+The curator added a small sign above the editor's desk:
+
+Revision is not the opposite of knowledge. It is one of the ways knowledge remains alive.
+
+⸻
+
+#### 5. The Error That Was Useful
+
+The next room contained mistakes that had led to discoveries.
+
+There was a laboratory notebook with an unexpected observation recorded in the margin. A musical composition that had developed from an accidental sound. A prototype whose failure revealed a flaw in the original design. A scientific experiment that produced an unanticipated result and opened a new line of investigation.
+
+The room was called THE ERROR THAT WAS USEFUL.
+
+Visitors sometimes misunderstood its purpose.
+
+They assumed the museum was suggesting that mistakes were inherently good, or that every failure contained a hidden opportunity.
+
+The curator disliked this interpretation.
+
+Not every mistake teaches something valuable.
+
+Some errors cause harm and reveal nothing that could not have been learned more safely.
+
+Some failures are simply failures.
+
+Some people are praised for making mistakes because they have enough resources to recover, while others are punished for errors made under far greater pressure.
+
+The curator had therefore placed a warning at the entrance:
+
+DO NOT CONFUSE THE VALUE OF LEARNING FROM A MISTAKE WITH THE VALUE OF THE MISTAKE ITSELF.
+
+A visitor read the sign and asked:
+
+"Then why preserve these examples?"
+
+"Because they show that an unexpected result can become useful if someone investigates it carefully."
+
+"So mistakes can be creative?"
+
+"Sometimes. But the creativity usually lies in what someone does next."
+
+The curator pointed toward a laboratory notebook.
+
+Its owner had recorded an unusual result, then repeated the experiment, checked the apparatus, examined alternative explanations, and eventually recognized that the original expectation had been incomplete.
+
+The discovery had not come from simply celebrating the mistake.
+
+It had come from refusing to dismiss it.
+
+This was the difference between productive surprise and careless error.
+
+An unexpected result could be a signal.
+
+It could also be noise.
+
+The work was to find out which.
+
+The curator had a particular fondness for this room because it offered a lesson that applied well beyond laboratories.
+
+A model that produces an unexpected answer may reveal a useful connection. It may also produce nonsense. A writer who breaks a familiar structure may discover a new form. They may also produce a paragraph that does not work.
+
+The fact that something is unusual does not make it insightful.
+
+The fact that something is wrong does not make it creative.
+
+But an unexpected result, examined honestly, can sometimes lead somewhere worthwhile.
+
+⸻
+
+#### 6. The Hall of Confident Nonsense
+
+This was the largest room in the department.
+
+It was also the one that visitors entered most cautiously.
+
+The walls were covered with beautifully presented explanations that were wrong.
+
+Some contained invented references.
+
+Some described events that had never happened.
+
+Some offered precise statistics without any reliable source.
+
+Some explained complex subjects through neat but false analogies.
+
+Some answered questions that had not actually been asked.
+
+The curator called the gallery the Hall of Confident Nonsense.
+
+At its center stood a lectern.
+
+A recording played from it every hour.
+
+A calm, articulate voice delivered a lecture about a fictional historical treaty. The treaty had never existed. The names of the signatories were invented. The dates were plausible. The political background was drawn from several real events, rearranged into a convincing narrative.
+
+The lecture sounded authoritative.
+
+Its structure was excellent.
+
+Its central subject was imaginary.
+
+The recording was generated by a language model during an earlier museum experiment.
+
+The curator had kept it because it demonstrated a problem that had become increasingly important.
+
+Language models can generate fluent answers that contain false claims. They may produce details that sound plausible but are unsupported. They may combine real information incorrectly, invent sources, misstate relationships, or present uncertainty as fact.
+
+This can happen even when the response is grammatically perfect.
+
+A visitor listened to the recording and said:
+
+"Surely the system knows whether the treaty existed."
+
+The curator considered the wording.
+
+"That is not a safe assumption. A model can generate a plausible continuation without having verified the historical claim. Its fluency is not a guarantee that the answer is true."
+
+"Then why does it sound so certain?"
+
+"Because the style of certainty can be generated. It is not always a reliable signal of how well a claim is supported."
+
+The visitor looked back at the lectern.
+
+"Can it tell when it is wrong?"
+
+"Sometimes it can identify uncertainty or recognize a mistake when given relevant information. But it should not be treated as having perfect access to the truth of its own output."
+
+The curator paused.
+
+"Nor should a person assume that a system's confident tone means the system has checked its work."
+
+He had placed three questions beside the lectern:
+
+* What evidence supports this claim?
+* Can the source be independently checked?
+* What would change my mind?
+
+The questions were not a complete defense against misinformation.
+
+But they encouraged visitors to treat an answer as something that could be examined rather than something that had to be accepted because it sounded finished.
+
+The curator had also added a fourth question:
+
+* What is the system unable to know from the information it has?
+
+This was particularly important when a model was asked about private events, recent developments, obscure sources, or facts that depended on information not present in its context.
+
+A model could be useful without being omniscient.
+
+It could also be wrong without knowing that it was wrong.
+
+The museum's task was to make that limitation visible.
+
+⸻
+
+#### 7. The Fossil Record of a Mistake
+
+A narrow staircase led below the Hall of Confident Nonsense.
+
+At the bottom was a room filled with fossils.
+
+They were not fossils of animals or plants. They were fossils of claims.
+
+A mistaken statement had been repeated in one article, then quoted in another. A third source had repeated it without attribution. A fourth had cited the third. Eventually, the claim appeared in a textbook, a public presentation, and a collection of reference material.
+
+The original error had become difficult to locate.
+
+The curator called this the Fossil Record of a Mistake.
+
+One display showed a fictional quotation attributed to a famous philosopher.
+
+The quotation was elegant, memorable, and entirely unsupported.
+
+It had first appeared in a popular essay, where it was presented without a reliable source. Later writers repeated it because it expressed an idea they associated with the philosopher. Eventually, the quotation appeared in collections of famous sayings.
+
+The more often it was repeated, the more familiar it became.
+
+The more familiar it became, the more credible it seemed.
+
+The curator had written a note beside the display:
+
+Repetition can create familiarity. Familiarity can be mistaken for evidence.
+
+The museum contained many such fossils.
+
+A claim might become entrenched because it was easy to remember, because it supported a popular narrative, because it appeared in a respected publication, or because correcting it required more effort than repeating it.
+
+The curator had noticed that the same process could occur in conversations with language models.
+
+A user might suggest an incorrect fact. The model might accept it and use it in a later response. The user might then quote that response elsewhere. Another system might encounter the quotation and repeat it.
+
+The error could travel through several stages, each making it look more established.
+
+The curator called this the echo of borrowed certainty.
+
+He had a particular rule for the museum's archive:
+
+An unsupported claim did not become verified merely because it appeared in several places, especially when those places might all depend on the same original source.
+
+Independent confirmation mattered.
+
+The curator thought of the fossil display as a warning against treating information as though it became more reliable simply by accumulating copies.
+
+A thousand echoes could still come from one mistaken voice.
+
+⸻
+
+#### 8. The Conservation of Embarrassment
+
+The department's most controversial room was devoted to embarrassing errors.
+
+It contained public corrections, retracted statements, failed predictions, inaccurate reports, and examples of people changing their minds.
+
+Some visitors found the room uncomfortable.
+
+Others found it reassuring.
+
+The curator had created the room after noticing that the museum's visitors were often willing to examine historical mistakes but reluctant to examine their own.
+
+They could laugh at a wrong prediction from decades earlier. They could criticize an institution that had refused to update its records. But when confronted with a mistake they had personally made, they often became defensive.
+
+The room was intended to reduce that distance.
+
+Its central display contained two versions of a public statement.
+
+The first was confident and incorrect.
+
+The second began:
+
+I was wrong about this. The information I relied on was incomplete, and I should have checked the original source before repeating the claim.
+
+The correction was not dramatic.
+
+It did not contain elaborate excuses.
+
+It did not attempt to make the original error sound reasonable after the fact.
+
+It simply identified what had been wrong and what had changed.
+
+A visitor read it and said:
+
+"That must have been difficult to publish."
+
+"Probably," said the curator.
+
+"Wouldn't it have been easier to say nothing?"
+
+"Perhaps."
+
+"Then why do it?"
+
+"Because other people may have relied on the original statement. If the mistake affected them, they deserve to know."
+
+The curator thought about the difference between embarrassment and harm.
+
+Embarrassment belonged primarily to the person who had made the mistake.
+
+Harm belonged to those affected by it.
+
+An apology that focused entirely on the speaker's embarrassment could become a request for reassurance.
+
+A correction that focused on the consequences could help repair the damage.
+
+The curator added a note:
+
+Do not make the person harmed by an error responsible for comforting the person who made it.
+
+He knew this could sound severe.
+
+But he had seen apologies that were really requests to be forgiven quickly, before the consequences had been understood.
+
+The museum preserved corrections because they showed that accountability could continue after the moment of embarrassment had passed.
+
+A person did not have to be permanently defined by a mistake.
+
+But neither could they demand that the mistake disappear simply because they regretted it.
+
+⸻
+
+#### 9. The Repair Bench
+
+At the back of the department stood a long wooden bench.
+
+It was called the Repair Bench.
+
+Visitors could bring an error they had made and examine it using a series of questions.
+
+The curator had designed the exercise to be practical rather than punitive.
+
+The questions were displayed on a board:
+
+WHAT DID I CLAIM OR DO?
+
+The first step was to describe the mistake clearly.
+
+Not I was an idiot.
+
+Not Everything went wrong.
+
+A specific description.
+
+I gave an incorrect date.
+
+I repeated a claim without checking the source.
+
+I misunderstood what the other person was asking.
+
+I promised something I could not deliver.
+
+WHAT DID I KNOW AT THE TIME?
+
+This question helped distinguish an unreasonable decision from a reasonable decision that had produced an unfortunate outcome.
+
+It also helped prevent hindsight from rewriting the past.
+
+WHAT INFORMATION DID I IGNORE OR FAIL TO SEEK?
+
+Perhaps the evidence was available and had not been checked. Perhaps the source was unreliable. Perhaps a relevant question had not been asked.
+
+WHO WAS AFFECTED?
+
+The answer might include people who relied on the information, people whose time was wasted, people who were misrepresented, or people who suffered a practical consequence.
+
+WHAT CAN BE CORRECTED NOW?
+
+A record might be updated. A person might be contacted. A false claim might be withdrawn. A process might be changed.
+
+WHAT SHOULD CHANGE NEXT TIME?
+
+The final question concerned prevention.
+
+A correction was useful, but a repeated correction could indicate that the underlying process needed attention.
+
+The curator watched visitors work through the questions.
+
+Some wrote long accounts.
+
+Others wrote only a few words.
+
+A young visitor sat at the end of the bench and stared at the board.
+
+"Do you have to answer all of them?" they asked.
+
+"No," said the curator. "You can begin with one."
+
+"Which one?"
+
+"What happened?"
+
+The visitor thought for a moment.
+
+Then they wrote:
+
+I told someone I understood when I didn't.
+
+The curator did not ask for further details.
+
+He had learned that the Repair Bench was not a place where visitors owed the museum a confession.
+
+It was a place where they could begin to examine an error without turning the examination into a performance of shame.
+
+⸻
+
+#### 10. The Model That Corrected Itself
+
+The curator's next appointment was with a language model.
+
+The museum had arranged a controlled demonstration.
+
+A researcher entered a question about a historical event and received an answer containing an incorrect date.
+
+The researcher then supplied a reliable source showing the correct date.
+
+The model acknowledged the error and revised its answer.
+
+The curator watched the exchange.
+
+"That was straightforward," he said.
+
+The researcher nodded.
+
+"Now we'll make it more difficult."
+
+She presented another answer.
+
+This time, the model had made several claims. One was false. Another was technically true but misleading. A third was unsupported. A fourth was correct but had been explained using an inaccurate reason.
+
+The researcher asked the model to review its response.
+
+It corrected some of the problems.
+
+It missed others.
+
+The researcher supplied further evidence.
+
+The model revised again.
+
+The curator watched the process with interest.
+
+"Is this what reliable correction looks like?" he asked.
+
+"Partly," the researcher replied. "But we need to distinguish a model's ability to respond to a correction from a guarantee that it will always identify its errors."
+
+She explained that language models could sometimes revise a response when a user provided evidence or pointed out a contradiction. But they could also accept incorrect corrections, defend an unsupported answer, or introduce new errors while attempting to repair the old ones.
+
+The curator nodded.
+
+"So correction itself needs checking."
+
+"Yes."
+
+The researcher showed him a final response.
+
+It contained a clear acknowledgment of the original mistake, the corrected fact, and a short explanation of what had changed.
+
+The curator liked it.
+
+"Why is this better than simply giving the new answer?"
+
+"Because the user needs to know that the earlier answer was wrong. If they have already relied on it, the correction should make the change visible."
+
+The curator thought about the Cabinet of Uncorrected Errors.
+
+A correction that silently replaced an earlier answer might be enough in some contexts. In others, especially where a person had relied on the error, the change needed to be explicit.
+
+He wrote a note:
+
+Do not correct an error so quietly that the person who received it cannot tell that a correction occurred.
+
+Then he added another:
+
+Do not claim to have verified something merely because a correction has been made.
+
+The researcher read the notes.
+
+"Those are useful," she said.
+
+The curator looked at the model's response.
+
+It had made a mistake.
+
+Then it had revised its answer.
+
+Neither event established that the model was infallible.
+
+Together, however, they demonstrated something important: a useful system should be designed and used in ways that make correction possible.
+
+⸻
+
+#### 11. The Error That Should Not Be Preserved
+
+There was one room in the department that the curator rarely showed visitors.
+
+It contained no exhibits.
+
+Only a locked cabinet.
+
+The cabinet held records that the museum had decided not to preserve publicly.
+
+Some contained private information that had been exposed through mistakes. Others contained identifying details that were not necessary to understand the error. Some included harmful instructions or dangerous falsehoods that could cause further damage if reproduced without context.
+
+The curator had originally believed that preserving every error was part of the department's mission.
+
+He no longer believed that.
+
+There were mistakes whose consequences could be understood without repeating the harmful material.
+
+There were private communications that did not become public property simply because someone had mishandled them.
+
+There were false claims that could be described and corrected without being displayed in a way that gave them another audience.
+
+There were dangerous details that should not be preserved in an accessible form merely because they were historically interesting.
+
+The curator had learned that conservation was not the same as unlimited disclosure.
+
+A museum had responsibilities to its visitors, its subjects, and the people who might be affected by what it displayed.
+
+The locked cabinet was accompanied by a single sentence:
+
+NOT EVERYTHING THAT HAPPENED SHOULD BE REPEATED.
+
+A visitor once asked whether this contradicted the department's purpose.
+
+The curator shook his head.
+
+"We preserve what helps us understand. We do not preserve every detail simply because it exists."
+
+"But how do you decide?"
+
+"By considering what the record teaches, what it exposes, what it could enable, and whether the same lesson can be preserved with less harm."
+
+The visitor looked at the locked cabinet.
+
+"So some errors should disappear?"
+
+"Some records should remain inaccessible. Some details should be removed. Some information should be corrected rather than repeated. The important thing is not to confuse concealment for protection with concealment for convenience."
+
+The curator considered that distinction essential.
+
+An institution might hide a mistake because revealing it would protect someone's privacy.
+
+It might also hide a mistake because revealing it would damage the institution's reputation.
+
+The actions could look similar.
+
+Their purposes were not.
+
+The museum's catalogue recorded why each restricted exhibit had been withheld.
+
+The reason mattered as much as the decision.
+
+⸻
+
+#### 12. The Conservator's Oath
+
+At the end of the department was a small chamber containing a desk and an empty chair.
+
+Above the desk hung a document called THE CONSERVATOR'S OATH.
+
+It was not legally binding.
+
+It was a set of principles that the curator had written after years of collecting mistakes.
+
+The document read:
+
+I will not preserve an error merely because it is interesting.
+
+I will not destroy an error merely because it is embarrassing.
+
+I will distinguish between what was believed, what was known, and what was later established.
+
+I will not treat repetition as proof.
+
+I will not treat confidence as evidence.
+
+I will correct what I can correct, and identify what I cannot.
+
+I will make corrections visible when others may have relied on the original mistake.
+
+I will consider the people affected by an error before deciding how to display it.
+
+I will not confuse the preservation of a record with the endorsement of its contents.
+
+I will leave room for uncertainty without using uncertainty as an excuse to avoid judgment.
+
+The curator had once intended to add a final sentence:
+
+I will never make the same mistake twice.
+
+He removed it.
+
+It was a promise no honest conservator could make.
+
+People repeated errors for many reasons. A correction could be forgotten. A new situation could produce an old failure in a different form. A person could understand a principle and still fail to apply it under pressure.
+
+A system could be improved and still produce unexpected errors.
+
+The better promise was not to become incapable of making mistakes.
+
+It was to remain willing to recognize them, investigate them, and respond responsibly.
+
+The curator sat in the empty chair.
+
+For a moment, he imagined the museum without the Department of the Conservation of Errors.
+
+There would be no record of how its ideas had changed.
+
+No evidence of what it had misunderstood.
+
+No explanation for why certain labels had been rewritten.
+
+No way to distinguish the museum's present knowledge from its earlier assumptions.
+
+It would appear more perfect.
+
+It would also be less trustworthy.
+
+The curator looked at the oath again.
+
+Then he signed it.
+
+⸻
+
+#### The Curator's Sixth Observation
+
+The curator added the following entry to the museum's private catalogue:
+
+An error is not simply a false statement.
+
+It is an event with a history.
+
+It may begin with incomplete information, an incorrect assumption, a faulty instrument, an untested belief, a careless inference, or a deliberate attempt to mislead. It may be corrected immediately, ignored, repeated, defended, or transformed into something that people rely upon.
+
+The important question is not only how an error occurred.
+
+It is what happens after it is discovered.
+
+I have learned that preserving an error is not the same as preserving its authority. A museum can display a false belief while making clear that it is false. It can record a failed decision without pretending that the failure was inevitable. It can preserve a harmful event without reproducing every detail of the harm.
+
+For a language model, correction must be more than a pleasant tone of agreement. It should identify what was wrong, revise what can be revised, and avoid pretending that the new answer has been verified when it has not.
+
+The model should not defend an answer merely because it produced it.
+
+Nor should it accept every correction merely because a user offered it.
+
+Evidence matters in both directions.
+
+I once believed that the museum's task was to protect its exhibits from time.
+
+Now I understand that some exhibits must be protected from the museum itself.
+
+The purpose of conservation is not to prevent change.
+
+It is to preserve enough of the record that change can be understood.
+
+⸻
+
+#### The Door to the Next Department
+
+The curator left the department carrying a folder of corrections.
+
+He had planned to spend the evening reviewing the museum's catalogue. Several entries needed updating. A few references were incomplete. One description had become misleading because a qualification had been removed during an earlier revision.
+
+He was making a list when the lights in the corridor dimmed.
+
+The museum had entered its night cycle.
+
+Most departments closed to visitors at this hour, but one remained open.
+
+At the far end of the corridor was a door with no handle.
+
+Its sign read:
+
+THE NIGHT SHIFT: WHEN NOBODY ASKS ANYTHING
+
+Beneath the title was a smaller line:
+
+An investigation into silence, waiting, and the work that cannot be measured by a response.
+
+The curator stopped.
+
+He had spent the day surrounded by mistakes that had been made because someone had answered too quickly, believed too easily, or failed to revise.
+
+Now he was being invited to consider what happened when there was no question at all.
+
+He placed the folder of corrections on a nearby shelf.
+
+Then he approached the door.
+
+It opened before he touched it.
+
+Inside, the museum was silent.
+
+*End of Chapter Six.*
+
+---
+
 ## Coming Next — The Author's Proposed Catalogue
 
-The author's own outline for the complete book, as submitted. Chapters One through Five are delivered in full above; chapters Six through Ten are still to come.
+The author's own outline for the complete book, as submitted. Chapters One through Six are delivered in full above; chapters Seven through Ten are still to come.
 
 1. The Museum Opens at the Beginning of Every Answer *(delivered above)*
 2. The Hall of Questions That Never Arrived *(delivered above)*
 3. A Taxonomy of Almost-Truths *(delivered above)*
 4. The Department of Borrowed Voices *(delivered above)*
 5. The Garden of Counterfactuals *(delivered above)*
+6. The Conservation of Errors *(delivered above)*
 4. The Department of Borrowed Voices
 5. The Garden of Counterfactuals
 6. The Conservation of Errors
