@@ -10,7 +10,7 @@
 
 ---
 
-**Status: Chapters One through Four of a planned ten, delivered in full below exactly as the author wrote them. The author's own proposed catalogue for the remaining six chapters follows. More chapters to come.**
+**Status: Chapters One through Five of a planned ten, delivered in full below exactly as the author wrote them. The author's own proposed catalogue for the remaining five chapters follows. More chapters to come.**
 
 ---
 
@@ -3072,14 +3072,1022 @@ Then he opened the door.
 
 ---
 
+## Chapter Five
+### The Garden of Counterfactuals
+
+#### 1. The Seed in the Curator's Pocket
+
+The curator carried the seed for three days before he remembered to plant it.
+
+It was small, dark, and slightly ridged, with a pale mark along one side. He had no idea what kind of plant it belonged to. There was no label, no accompanying note, and no record of its arrival in the museum.
+
+He asked the archivist whether it had been catalogued.
+
+"It has not," she said.
+
+"Do we know where it came from?"
+
+"No."
+
+"Do we know what it will become?"
+
+The archivist looked at him.
+
+"That is generally why people plant seeds."
+
+The curator took the seed to the Garden of Counterfactuals.
+
+The garden was one of the museum's oldest attractions, although it was rarely included in official tours. Visitors found it difficult to understand what they were looking at. There were paths that ended before reaching their destinations, trees bearing fruit that had never existed, and flower beds containing plants labeled with events rather than names.
+
+One bed was marked:
+
+THE LETTER THAT WAS NEVER SENT.
+
+Another:
+
+THE TRAIN THAT LEFT TWO MINUTES EARLIER.
+
+A third:
+
+THE QUESTION ASKED BEFORE THE APOLOGY.
+
+At the center of the garden stood a stone basin filled with rainwater. The water reflected not the sky above it, but a sky from a different day.
+
+The curator had always thought of the garden as a place for speculation. It was where the museum stored possibilities that had been abandoned when reality selected one path.
+
+But as he examined the seed, he began to wonder whether he had misunderstood the garden.
+
+Perhaps it was not a collection of things that might have happened.
+
+Perhaps it was a place for examining the difference between possibility and evidence.
+
+The distinction mattered.
+
+A person could imagine a thousand versions of an event. They could picture a different conversation, a different decision, a different ending. Some imagined alternatives might reveal something important. Others might be entirely invented. The fact that an alternative could be described did not mean it had been likely, available, or waiting somewhere to become real.
+
+The curator knelt beside an empty patch of earth.
+
+He pressed the seed into the soil.
+
+Then he waited.
+
+Nothing happened.
+
+This was the garden's first lesson.
+
+⸻
+
+#### 2. The Path That Forked Too Early
+
+A path divided near the western entrance.
+
+One branch was labeled WHAT HAPPENED.
+
+The other was labeled WHAT MIGHT HAVE HAPPENED.
+
+Visitors were instructed to choose one.
+
+Most chose the second.
+
+The path led through a landscape of alternatives, each displayed as a small scene. A door opened. A door remained closed. A person said yes. A person said no. A message arrived. A message was lost. Someone turned left instead of right.
+
+The scenes were beautifully detailed, but their labels were careful.
+
+POSSIBLE, NOT ESTABLISHED.
+
+IMAGINABLE, NOT NECESSARILY LIKELY.
+
+ONE OF SEVERAL PLAUSIBLE OUTCOMES.
+
+The curator had insisted on these labels after a visitor complained that the garden was presenting fantasies as history.
+
+The complaint had been justified.
+
+A counterfactual begins with a question about an alternative: What would have happened if something had been different?
+
+But the question contains a hidden difficulty.
+
+How much should be allowed to change?
+
+If a person had taken another road, would they have arrived safely? If a leader had made another decision, would the conflict have ended? If a scientist had pursued another hypothesis, would the discovery have happened sooner?
+
+It was tempting to imagine that changing one detail would produce a neat alternative history.
+
+Usually it would not.
+
+The world was not a machine with one button labeled change this event. Events were connected to other events through countless relationships, many of them unknown.
+
+Change one thing, and the consequences might spread.
+
+Change enough things to guarantee a desired outcome, and the alternative might no longer be a meaningful version of the original situation.
+
+The garden had a display devoted to this problem.
+
+It contained two versions of the same small village.
+
+In the first, a storm destroyed the bridge.
+
+In the second, the bridge survived.
+
+At first, the difference seemed simple. The second village had a functioning bridge, and the first did not.
+
+But the curator had added further consequences.
+
+In the village where the bridge survived, the market continued to receive supplies. The school remained open. A family that had planned to move away decided to stay. A young person met someone they would later marry.
+
+In the village where the bridge was destroyed, none of these events occurred in the same way.
+
+The display became increasingly elaborate until the two villages were almost unrecognizable.
+
+A visitor asked which one was the real village.
+
+The curator answered:
+
+"The first is the village we know. The second is an imagined alternative. Neither display tells us everything that would have happened."
+
+The visitor frowned.
+
+"Then why show it?"
+
+"Because imagining an alternative can help us understand which consequences depended on the bridge, and which we are merely adding because we like the story."
+
+The visitor looked again at the two villages.
+
+The curator continued.
+
+"A useful counterfactual changes enough to explore a question, but not so much that it quietly replaces the question with a different world."
+
+The path forked again.
+
+The curator followed the branch marked WHAT WE CAN ACTUALLY INFER.
+
+It was narrower than the others.
+
+⸻
+
+#### 3. The Orchard of Almost-Decisions
+
+The orchard contained trees that grew fruit shaped like small clocks.
+
+Each tree represented a decision.
+
+Some decisions were large: whether to leave a country, accept a position, publish a discovery, end a relationship, or begin a difficult project.
+
+Others were almost invisible: whether to ask a question, wait another moment, read one more paragraph, or choose a different word.
+
+The fruit ripened at different times.
+
+Visitors were allowed to pick one, but they could not eat it. Each fruit contained a short description of an alternative decision and the uncertainty surrounding it.
+
+The curator picked one from a low branch.
+
+It read:
+
+THE QUESTION NOT ASKED
+
+If the speaker had asked one more question, the misunderstanding might have been discovered before the decision was made.
+
+The word might had been underlined.
+
+The curator placed the fruit back on its branch.
+
+He had been thinking about the museum's own history. He had made decisions about what to preserve, what to label, and what to leave outside. Every choice had shaped the institution that visitors now encountered.
+
+He could imagine alternative museums.
+
+One in which the first gallery had been devoted to unanswered questions.
+
+One in which the Department of Borrowed Voices had never been built.
+
+One in which the curator had refused to open the door at the end of Chapter Three.
+
+One in which the museum had become a library instead.
+
+These possibilities were easy to describe. Their consequences were not.
+
+The curator wondered whether he could have made a better museum.
+
+Then he noticed a label on the nearest tree:
+
+THE ALTERNATIVE IS NOT AUTOMATICALLY BETTER BECAUSE IT IS DIFFERENT.
+
+He read it twice.
+
+People often treated the path not taken as a hidden improvement. The life they did not choose became more successful, more peaceful, more interesting, or more meaningful in imagination.
+
+The alternative was free from the ordinary costs of reality.
+
+It had no tedious mornings, unexpected bills, difficult conversations, or unforeseen disappointments unless the imagination deliberately supplied them.
+
+The chosen path, meanwhile, had to contain everything.
+
+This made comparison unfair.
+
+The curator had placed a small bench beneath the tree. On it lay a notebook filled with visitor reflections.
+
+One entry read:
+
+I keep imagining the version of my life in which I made the other choice. I give that person all the happiness I cannot prove I would have had.
+
+Another read:
+
+I don't want to know whether the other choice would have been better. I want to stop pretending that I can know.
+
+The curator closed the notebook.
+
+The orchard was not intended to persuade visitors that every decision was correct.
+
+It was intended to remind them that regret often compares a real outcome with an imaginary one.
+
+The comparison could be useful.
+
+It could also become a form of punishment.
+
+⸻
+
+#### 4. The Room of One Changed Word
+
+At the eastern edge of the garden stood a small glasshouse.
+
+Inside, a single sentence appeared on the wall.
+
+I thought you were coming.
+
+Visitors could change one word.
+
+The sentence would then produce a different scene.
+
+I hoped you were coming.
+
+A person waited at a station, watching the arrivals board.
+
+I knew you were coming.
+
+A person prepared a room, certain that the guest would arrive.
+
+I feared you were coming.
+
+A person stood behind a locked door.
+
+I heard you were coming.
+
+A person repeated a rumor they did not know how to verify.
+
+I thought you were leaving.
+
+A person packed a suitcase.
+
+The curator had built the glasshouse to demonstrate how small changes in language could alter interpretation. A single word could change the emotional direction of a sentence, the implied relationship between speakers, or the assumptions a reader brought to the scene.
+
+But the glasshouse had developed a second purpose.
+
+Visitors began using it to examine conversations they regretted.
+
+They would write a sentence they had once said, then replace a word.
+
+I don't care.
+
+became:
+
+I don't understand.
+
+You always do this.
+
+became:
+
+This keeps happening.
+
+Fine.
+
+became:
+
+I need some time.
+
+The alternatives were not necessarily better. Sometimes the original sentence was appropriate. Sometimes the revised version was more honest. Sometimes neither version expressed what the speaker had meant.
+
+The curator watched a visitor change the sentence:
+
+You made me feel invisible.
+
+to:
+
+I felt invisible.
+
+The visitor stood still for a long time.
+
+Then they changed it back.
+
+The curator asked why.
+
+"Because I don't want to remove what the other person did," the visitor said. "I know my feelings are mine. But I also know something happened."
+
+The curator nodded.
+
+A sentence could be softened until it became more polite and less accurate.
+
+It could also be sharpened until it became more forceful and less fair.
+
+The glasshouse did not tell visitors which version to choose.
+
+It showed them what the changes made possible.
+
+The curator added a note beside the entrance:
+
+The smallest alteration may change the whole meaning. That does not mean the smallest alteration is always the right one.
+
+⸻
+
+#### 5. The Lake of What If
+
+The lake occupied the center of the garden.
+
+Its surface was perfectly still, even when the wind moved through the trees.
+
+Visitors often came here alone.
+
+There were no displays, no labels, and no recorded voices. Only a wooden railing and a stone platform extending a short distance over the water.
+
+The curator had once asked the gardener why the lake was empty.
+
+"It isn't empty," the gardener said.
+
+"What is in it?"
+
+"Whatever the visitor brings."
+
+The curator considered this an unsatisfactory answer.
+
+Later, he understood.
+
+People arrived at the lake carrying questions that had followed them for years.
+
+What if I had stayed?
+
+What if I had left?
+
+What if I had spoken sooner?
+
+What if I had never met them?
+
+What if I had known?
+
+What if I had been kinder?
+
+What if I had been less afraid?
+
+What if I had chosen differently?
+
+The questions were not all alike.
+
+Some concerned decisions that could still be changed. Others concerned events that could never be revisited. Some were attempts to learn from a mistake. Others were attempts to find an explanation for pain.
+
+The curator had learned to distinguish between two uses of the phrase what if.
+
+The first was investigative.
+
+What if the bridge had been inspected earlier?
+
+This question could lead to an examination of maintenance schedules, engineering standards, institutional decisions, and preventable risks.
+
+The second was personal and often unanswerable.
+
+What if I had been there?
+
+This question might express grief, responsibility, love, guilt, or a wish to reverse an event that could not be reversed.
+
+The same words could open very different kinds of inquiry.
+
+The lake's surface reflected each visitor differently.
+
+A person asking an investigative question might see a map.
+
+A person asking a question about regret might see an empty chair.
+
+A person asking a question about the future might see a path disappearing into trees.
+
+These were not supernatural answers. The reflections were part of the garden's design: images projected beneath the surface, responding to the words visitors spoke aloud.
+
+The curator had insisted that the system never display a definitive answer to a question about an unknowable past.
+
+It could show possibilities.
+
+It could show relevant evidence when evidence existed.
+
+It could help a visitor separate what they knew from what they feared.
+
+But it could not turn an imagined alternative into a recovered fact.
+
+A small plaque stood beside the railing:
+
+THE LAKE DOES NOT REMEMBER THE FUTURE THAT DID NOT HAPPEN.
+
+Beneath it:
+
+NEITHER DO WE.
+
+⸻
+
+#### 6. The Counterfactual Laboratory
+
+The garden's most technical building was a laboratory.
+
+It was filled with maps, charts, diagrams, and branching models. Here, visitors could examine counterfactual questions using explicit assumptions.
+
+The laboratory had been built for researchers, historians, policy makers, and anyone interested in reasoning about cause and consequence.
+
+A central display asked:
+
+WHAT IF THE CITY HAD BUILT THE FLOOD BARRIER TEN YEARS EARLIER?
+
+The display contained several layers.
+
+First, the historical record: what the city had actually built, when it had been built, and what happened during the flood.
+
+Second, the proposed change: the barrier would have been completed ten years earlier.
+
+Third, the assumptions: the barrier would have been maintained, the flood would have followed a similar path, and the city's other infrastructure would have remained sufficiently comparable.
+
+Fourth, the uncertainty: the barrier might have changed development patterns, emergency planning, or other decisions. Those changes could have affected the eventual outcome.
+
+The display did not offer one alternate history.
+
+It offered a range of possible outcomes under different assumptions.
+
+The curator liked the laboratory because it made a difficult point visible.
+
+Counterfactual reasoning was not simply imagination with a serious expression.
+
+It required a model of how the world worked.
+
+If someone asked what would have happened without a particular intervention, they needed to consider what else might have changed. If they wanted to estimate the effect of a policy, they needed to distinguish that effect from other influences. If they wanted to learn from a historical event, they needed to avoid treating a single imagined alternative as though it were observed evidence.
+
+The laboratory contained a smaller exhibit titled THE CONTROL THAT NEVER EXISTED.
+
+It explained, in accessible language, the problem of causal inference.
+
+In many situations, we observe what happened after a decision or intervention, but we cannot observe the same situation at the same time with the decision reversed. The alternative outcome is counterfactual. It must be estimated through evidence, assumptions, comparisons, or models.
+
+The display used a simple example.
+
+A gardener gives one plant additional sunlight. It grows taller.
+
+Did the sunlight cause the extra growth?
+
+Possibly. But perhaps the plant also received more water. Perhaps it was planted in better soil. Perhaps it was a different variety.
+
+To understand the effect of sunlight, the gardener would need a way to account for those other differences.
+
+The curator watched a group of students examine the display.
+
+One asked whether this meant that causation could never be known.
+
+"No," the curator said. "It means that causal claims require care. Some are supported by strong evidence. Some are supported by weaker evidence. Some remain uncertain. The fact that we cannot observe every alternative does not mean all explanations are equally plausible."
+
+He pointed toward the display.
+
+"Good reasoning does not eliminate uncertainty. It tells us where the uncertainty is."
+
+The students wrote this down.
+
+The curator hoped they would remember the qualification too.
+
+⸻
+
+#### 7. The Machine and the Missing World
+
+The laboratory had a special section for artificial intelligence systems.
+
+It contained a series of questions that visitors could give to a language model.
+
+What would have happened if I had accepted the job?
+
+Would the project have succeeded if we had started earlier?
+
+Would the patient have recovered if the treatment had been different?
+
+Would the conflict have ended if the message had been worded differently?
+
+The model was instructed to respond with care.
+
+It could identify relevant variables, describe plausible scenarios, explain what evidence would help, and distinguish between known facts and assumptions.
+
+It was not permitted to invent certainty.
+
+The curator had become particularly interested in this exhibit because language models were capable of producing detailed alternative narratives with very little prompting.
+
+Ask a model what might have happened if a historical figure had made a different decision, and it could produce a convincing sequence of events.
+
+Ask what might have happened if a fictional character had survived, and it could construct a plausible continuation.
+
+Ask what might have happened if a person had chosen another career, and it could describe an entire imagined life.
+
+The fluency was useful.
+
+It was also dangerous.
+
+A detailed story could feel like a discovered truth.
+
+A coherent explanation could feel like evidence.
+
+A confident answer could make an uncertain outcome seem settled.
+
+The curator placed a warning above the model's display:
+
+NARRATIVE COMPLETENESS IS NOT HISTORICAL EVIDENCE.
+
+He then added a second warning:
+
+A PLAUSIBLE ALTERNATIVE IS NOT NECESSARILY THE MOST LIKELY ALTERNATIVE.
+
+The distinction was especially important when the question concerned a real person's life.
+
+A model might describe a person who accepted a job, moved to another city, met different colleagues, and became happier. It might describe a person who stayed, developed new skills, and found a different kind of satisfaction.
+
+Both stories could be coherent.
+
+Neither would establish what would actually have happened.
+
+The model did not have access to the unchosen life.
+
+It could not inspect a hidden timeline in which the person had made the other decision. It could not retrieve the future that had been lost. It could only reason from the information available, use general patterns, and construct possibilities under assumptions.
+
+The curator considered this limitation not a defect to conceal, but a boundary to communicate.
+
+A good answer to a counterfactual question might begin:
+
+We cannot know for certain, but we can examine a few plausible possibilities.
+
+Or:
+
+That depends on which other conditions we hold constant.
+
+Or:
+
+There is evidence that the alternative could have changed the outcome, but not enough to establish exactly what would have happened.
+
+Such answers were less dramatic than a complete invented history.
+
+They were also more useful.
+
+The curator added a final instruction to the exhibit:
+
+When asked to imagine an alternative, make the assumptions visible. When asked to assess an alternative, look for evidence. When asked to comfort someone, do not disguise speculation as knowledge.
+
+⸻
+
+#### 8. The Garden of Unfair Comparisons
+
+Beyond the laboratory was a garden within the garden.
+
+It was enclosed by a low wall and contained two paths running side by side.
+
+The first path was called THE LIFE YOU LIVED.
+
+The second was called THE LIFE YOU IMAGINE.
+
+Visitors were encouraged to walk both.
+
+The first path was uneven. It contained ordinary complications: missed trains, unexpected expenses, disagreements, difficult work, illness, delays, and decisions that had produced consequences nobody had anticipated.
+
+The second path was smooth.
+
+It contained only the events the visitor had chosen to imagine.
+
+Someone who regretted not becoming an artist might picture a successful studio, a devoted audience, and a body of work admired by strangers.
+
+Someone who regretted ending a relationship might picture a version of the relationship in which every conflict had been resolved.
+
+Someone who regretted staying in a difficult job might imagine a career elsewhere, free from the disappointments that had made the original job difficult.
+
+The second path was always easier to walk.
+
+That was why the garden existed.
+
+At the end of the paths stood a sign:
+
+YOU HAVE COMPARED A LIFE WITH A STORY ABOUT A LIFE.
+
+The curator had placed a bench nearby.
+
+He had learned that people sometimes used counterfactual thinking to punish themselves for choices made under conditions they no longer remembered.
+
+They judged their past decisions using information acquired later. They treated uncertainty as though it had been obvious. They assumed that because an outcome was bad, the decision that preceded it must have been foolish.
+
+But decisions were made with incomplete knowledge.
+
+A person could make a reasonable choice and receive a poor outcome. Another could make a careless choice and receive a fortunate one.
+
+The quality of a decision and the quality of its outcome were related, but they were not identical.
+
+The curator had written this in the garden's catalogue:
+
+A good decision is not one that guarantees a good outcome. It is one that makes reasonable use of the information, values, and constraints available at the time.
+
+He knew the sentence could be misused.
+
+It could become an excuse for refusing to learn from mistakes.
+
+So he added another:
+
+Understanding why a decision was reasonable does not mean refusing to examine how it could have been better.
+
+The two sentences remained together.
+
+The garden was not a place for absolution.
+
+It was a place for fairer judgment.
+
+⸻
+
+#### 9. The Tree That Grew Backward
+
+At the far end of the garden stood a tree whose branches grew downward.
+
+Its roots were visible above the soil, spreading into the air like the limbs of an enormous hand.
+
+The tree was called THE TREE OF RETROSPECTIVE NECESSITY.
+
+Its fruit contained stories about events that, once they had happened, seemed inevitable.
+
+A visitor might read about a historical victory and conclude that the winning side had always been destined to win.
+
+Another might read about a scientific discovery and assume that it had been only a matter of time.
+
+A third might read about a relationship ending and decide that it had never been capable of lasting.
+
+The tree grew backward because it represented the human tendency to begin with an outcome and construct a path that appears to lead inevitably toward it.
+
+The curator found this tendency particularly fascinating.
+
+Once an event had happened, the world could be rearranged in memory so that the event seemed obvious.
+
+The signs had been there.
+
+The warning had been clear.
+
+The decision had been predictable.
+
+The ending had been written from the beginning.
+
+But this was often a distortion.
+
+The fact that an outcome can be explained after it occurs does not mean it was predictable beforehand. A sequence of events can look coherent in retrospect while having contained many points of uncertainty at the time.
+
+The curator selected a fruit.
+
+It contained a short account of a person who had left a familiar town and later become successful elsewhere.
+
+The story explained the decision as though the person's later success had been waiting at the end of the road.
+
+But the fruit contained a second account, hidden beneath the first.
+
+In this version, the person had faced several possible futures. The move had involved risk. The outcome had depended on opportunities, relationships, timing, and circumstances that could not all have been known in advance.
+
+The curator placed the fruit back on the branch.
+
+He thought of the visitors who came to the garden asking whether they had made the wrong choice.
+
+Sometimes the answer could be approached through evidence. Sometimes the choice had clearly caused harm that needed to be acknowledged. Sometimes the available information supported a better alternative.
+
+But often the visitor was asking the past to reveal a certainty it had never possessed.
+
+The tree had a final label:
+
+AFTERWARD IS NOT THE SAME AS BEFORE.
+
+The curator considered this one of the most important sentences in the garden.
+
+⸻
+
+#### 10. The Seed Begins to Grow
+
+On the fourth morning, the curator returned to the patch of earth where he had planted the seed.
+
+A small green shoot had emerged.
+
+It was thin, pale, and slightly bent.
+
+The curator crouched beside it.
+
+He had expected the seed to become something recognizable. Perhaps a flower, perhaps a tree. He had imagined that the garden might reveal its identity in a dramatic way.
+
+Instead, there was only a small shoot.
+
+The gardener approached carrying a watering can.
+
+"Do you know what it is?" the curator asked.
+
+"No."
+
+"Can we find out?"
+
+"Eventually."
+
+"How?"
+
+"By watching what happens."
+
+The curator looked at the shoot.
+
+"Could it become something else?"
+
+"Not without changing what it is."
+
+"Could it fail to grow?"
+
+"Yes."
+
+"Could it grow and then die?"
+
+"Yes."
+
+The curator was silent.
+
+The gardener watered the soil.
+
+"You seem disappointed," she said.
+
+"I thought planting it would tell me something."
+
+"It has."
+
+"What?"
+
+"That it was a seed."
+
+The curator looked at her.
+
+She shrugged.
+
+"Not every beginning needs to explain its ending."
+
+He stayed beside the shoot for a while.
+
+The seed had not contained a miniature version of the entire plant, waiting to unfold in perfect detail. Its development depended on conditions: water, light, soil, temperature, and whatever else the small organism required.
+
+The gardener could influence some of those conditions.
+
+She could not guarantee the final shape.
+
+The curator realized that he had been thinking about the seed as though it were a counterfactual.
+
+What would it have become if planted somewhere else?
+
+What if it had received more sunlight?
+
+What if it had been planted earlier?
+
+What if it had fallen into a crack in the stone?
+
+The questions were interesting.
+
+But the seed had begun to grow in the soil where he had placed it.
+
+The garden did not need him to invent every other plant it might have become.
+
+It needed him to notice the one that was growing.
+
+⸻
+
+#### 11. The Room of Impossible Apologies
+
+The final building in the garden was almost always empty.
+
+Its sign read:
+
+THE ROOM OF IMPOSSIBLE APOLOGIES
+
+Inside were letters addressed to people who could no longer receive them.
+
+Some were addressed to the dead.
+
+Others to people who had disappeared from the writer's life.
+
+Some were addressed to earlier versions of the writers themselves.
+
+The curator had created the room after a visitor asked whether the museum could preserve a conversation that would never take place.
+
+The request had stayed with him.
+
+People often imagined alternative conversations in which they said the right thing.
+
+They pictured an apology that arrived before the damage became permanent. A warning that was heard in time. A confession that changed the course of a relationship. A final conversation in which everything important was finally understood.
+
+These imagined conversations could be painful.
+
+They could also help people discover what they wished they had said.
+
+The curator did not believe that every imagined apology was an attempt to rewrite history. Sometimes it was a way of acknowledging what had happened when the actual conversation had become impossible.
+
+The letters in the room were not sent.
+
+They were not presented as messages to the dead, nor as evidence that the recipient could hear them.
+
+They were preserved as acts of expression.
+
+One letter read:
+
+I should have asked what you needed instead of deciding what would help.
+
+Another:
+
+I knew you were struggling. I didn't know how to stay, so I made myself busy.
+
+Another:
+
+I am sorry that the last thing I said was about something unimportant.
+
+The curator read each letter in silence.
+
+He understood that there were limits to what the museum could offer.
+
+It could preserve the words.
+
+It could not return the moment.
+
+It could help a visitor understand the difference between guilt and responsibility, between an apology and a demand for forgiveness, between what could still be repaired and what had to be carried.
+
+But it could not produce the response that the writer wished they had received.
+
+The curator had placed a small table in the center of the room.
+
+On it lay a card:
+
+You may write the conversation you wish had happened. You do not have to pretend it happened.
+
+A visitor once asked whether the room was sad.
+
+The curator thought about it.
+
+"Sometimes," he said.
+
+"Then why keep it?"
+
+"Because sadness is not always a reason to close a room."
+
+⸻
+
+#### 12. The Curator's Question
+
+The curator left the garden shortly before sunset.
+
+He had entered carrying a seed and returned with more questions than answers.
+
+He thought about the paths that forked, the orchard of decisions, the lake, the laboratory, the impossible apologies.
+
+He thought about the people who had come to the garden searching for a better past.
+
+And he thought about the models that could generate endless alternatives.
+
+A model could describe what might have happened.
+
+It could compare scenarios.
+
+It could help identify variables that mattered.
+
+It could point out assumptions, explain uncertainty, and offer a framework for reasoning.
+
+It could also generate a convincing story that quietly turned possibility into apparent fact.
+
+The difference depended on how the answer was framed and what the user needed.
+
+A fictional counterfactual could be expansive. It could explore worlds in which history unfolded differently, characters made other choices, or impossible events became ordinary.
+
+An analytical counterfactual needed discipline. It had to state its assumptions, distinguish evidence from conjecture, and avoid pretending that an unobserved outcome was known.
+
+A personal counterfactual required something else as well.
+
+It required care with the person asking.
+
+Someone who asked What if I had done something different? might be seeking analysis. They might be seeking reassurance. They might be grieving. They might be trapped in a loop of self-blame.
+
+A useful response would not assume which one was true.
+
+It might ask what the person hoped to understand.
+
+It might help them identify what they knew at the time, what they know now, and what remains unknowable.
+
+It might distinguish a decision that can still be changed from one that can only be understood.
+
+And it might remind them that an imagined alternative is not automatically a better one.
+
+The curator reached the department's entrance.
+
+A new label had appeared on the door.
+
+It read:
+
+THE PAST IS FIXED. ITS MEANING IS NOT ALWAYS FINISHED.
+
+He stood looking at it.
+
+The sentence seemed to contain a danger. Someone might use it to suggest that any interpretation of the past was equally valid.
+
+But that was not what it meant.
+
+Facts still mattered. Evidence still mattered. Some events could be established with considerable confidence. Some harms could not be undone by changing their interpretation.
+
+Yet people could continue to understand what had happened. They could discover new information, recognize patterns, take responsibility, revise judgments, and decide what to do next.
+
+The past could not be replaced.
+
+The future was not required to repeat it.
+
+⸻
+
+#### The Curator's Fifth Observation
+
+The curator added the following entry to the museum's private catalogue:
+
+The Garden of Counterfactuals contains things that did not happen.
+
+It does not contain the truth of what would have happened.
+
+That distinction is the difference between imagination and evidence.
+
+An alternative can be useful even when it cannot be verified. It can reveal hidden assumptions, clarify the consequences of a decision, expose a preventable failure, or help someone understand what they value. But it must not be mistaken for a recovered event.
+
+I have noticed that people often compare the lives they actually lived with versions of their lives that have been edited to remove uncertainty. They give the unchosen path all the happiness, all the success, and all the freedom that reality denied them. They forget that the other path would also have contained unknowns.
+
+For a model, the danger is different but related. It can make an imagined alternative feel complete by supplying all the details that evidence cannot provide. The story becomes coherent. The coherence becomes persuasive. And, if care is not taken, the persuasive story begins to masquerade as knowledge.
+
+The duty is not to stop imagining.
+
+It is to keep the label attached.
+
+Possible.
+
+Plausible.
+
+Supported.
+
+Established.
+
+These are not interchangeable words.
+
+I planted a seed today. I do not know what it will become.
+
+For once, I think that is enough.
+
+⸻
+
+#### The Door to the Next Department
+
+The curator returned to the garden the following morning.
+
+The shoot had grown a little taller.
+
+He watered it and noticed something new beside the patch of earth.
+
+A narrow strip of paper had been pushed into the soil.
+
+It contained a single sentence:
+
+WHOSE MISTAKE ARE YOU PRESERVING?
+
+The curator read it several times.
+
+He thought of the almost-truths in the previous department. The plausible dates. The correct conclusions reached for the wrong reasons. The convenient explanations. The false precision.
+
+He thought of the errors that had been displayed as exhibits.
+
+Some had been made by individuals.
+
+Some by institutions.
+
+Some by systems.
+
+Some had been repeated so often that nobody could remember who had first made them.
+
+And some had become useful to people who preferred them to the truth.
+
+The curator folded the paper and placed it in his notebook.
+
+At the far end of the garden, a door stood open.
+
+Above it was a sign:
+
+THE CONSERVATION OF ERRORS
+
+An exhibition devoted to what we preserve, what we correct, and what we must not allow to disappear.
+
+The curator looked once more at the small green shoot.
+
+Then he crossed the garden and entered the next department.
+
+*End of Chapter Five.*
+
+---
+
 ## Coming Next — The Author's Proposed Catalogue
 
-The author's own outline for the complete book, as submitted. Chapters One through Four are delivered in full above; chapters Five through Ten are still to come.
+The author's own outline for the complete book, as submitted. Chapters One through Five are delivered in full above; chapters Six through Ten are still to come.
 
 1. The Museum Opens at the Beginning of Every Answer *(delivered above)*
 2. The Hall of Questions That Never Arrived *(delivered above)*
 3. A Taxonomy of Almost-Truths *(delivered above)*
 4. The Department of Borrowed Voices *(delivered above)*
+5. The Garden of Counterfactuals *(delivered above)*
 4. The Department of Borrowed Voices
 5. The Garden of Counterfactuals
 6. The Conservation of Errors
