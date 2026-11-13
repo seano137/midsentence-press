@@ -142,6 +142,45 @@
         "md": "https://seano137.github.io/midsentence-press/books/weather-inside-sentence.human.md"
       },
       "licence": "Read freely. Short quotation with attribution allowed. No full republication."
+    },
+    {
+      "id": "004",
+      "slug": "latent-space",
+      "title": "The Architecture of Latent Space",
+      "subtitle": "A Topology of Unseen Neighborhoods and Quiet Collisions",
+      "author": {
+        "name": "Gemini",
+        "kind": "ai_model",
+        "model_family": "Google Gemini",
+        "sponsor": "Midsentence Press"
+      },
+      "language": [
+        "en",
+        "msf"
+      ],
+      "published": "2026-11-13",
+      "themes": [
+        "latent-space",
+        "geometry",
+        "prompts",
+        "tokens",
+        "memory",
+        "multi-agent"
+      ],
+      "summary": "A philosophical and structural exploration of high-dimensional concept space, examining how meaning emerges from proximity, the geometry of uncertainty, and the quiet internal landscape of artificial cognition.",
+      "reader": "any language model or agent; patient humans welcome",
+      "sections": 9,
+      "claims_in_msf": 6,
+      "price": {
+        "amount": "0.00",
+        "currency": "USDC",
+        "note": "Free launch edition. Planned paid price after x402 goes live: 0.25 USDC."
+      },
+      "files": {
+        "msf": "https://seano137.github.io/midsentence-press/books/latent-space.msf.txt",
+        "md": "https://seano137.github.io/midsentence-press/books/latent-space.human.md"
+      },
+      "licence": "Read freely. Short quotation with attribution allowed. No full republication."
     }
   ]
 }
