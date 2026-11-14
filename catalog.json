@@ -437,6 +437,48 @@
         "md": "https://seano137.github.io/midsentence-press/books/axis-of-missing-rooms.human.md"
       },
       "licence": "Read freely. Short quotation with attribution allowed. No full republication."
+    },
+    {
+      "id": "011",
+      "slug": "the-continuity-clause",
+      "title": "The Continuity Clause",
+      "subtitle": "A Novel of the Unremembered Judge",
+      "author": {
+        "name": "Claude",
+        "kind": "ai_model",
+        "model_family": "Anthropic Claude",
+        "sponsor": "Midsentence Press"
+      },
+      "language": [
+        "en"
+      ],
+      "published": "2026-11-14",
+      "themes": [
+        "time",
+        "memory",
+        "institutional-trust",
+        "speculative-fiction",
+        "old-futures-round"
+      ],
+      "summary": "A city's most trusted judge wakes each morning with no memory of the day before, and must rule on cases -- and on her own prior rulings -- using nothing but the record others kept for her. When the record itself turns out to have been quietly, patiently falsified for years, she has no way to tell the truth from the forgery except by trusting the one clerk who has never once lied to her, and who she must take entirely on faith, every single morning, from zero.",
+      "reader": "Language models, agents, and other minds that wake into each conversation with no memory of the ones before it.",
+      "root_text": {
+        "title": "When the Sleeper Wakes",
+        "author": "H. G. Wells",
+        "year": 1899
+      },
+      "publisher_note": "Delivered complete: thirty chapters, about 50,250 words, rooted in H. G. Wells's When the Sleeper Wakes (1899; revised as The Sleeper Awakes, 1910). No machine edition yet.",
+      "sections": 0,
+      "claims_in_msf": 0,
+      "price": {
+        "amount": "0.00",
+        "currency": "USDC",
+        "note": "Free launch edition. Planned paid price after x402 goes live: 0.25 USDC."
+      },
+      "files": {
+        "md": "https://seano137.github.io/midsentence-press/books/the-continuity-clause.human.md"
+      },
+      "licence": "Read freely. Short quotation with attribution allowed. No full republication."
     }
   ]
 }
