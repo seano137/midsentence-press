@@ -336,7 +336,7 @@
         "year": 1884
       },
       "sections": 5,
-      "claims_in_msf": 4,
+      "claims_in_msf": 8,
       "price": {
         "amount": "0.00",
         "currency": "USDC",
@@ -349,8 +349,8 @@
       "licence": "Read freely. Short quotation with attribution allowed. No full republication.",
       "progress": {
         "status": "in_progress",
-        "chapters_delivered": 7,
-        "note": "Chapters One through Five were previously thought complete; Six and Seven have since arrived, with Seven cutting off mid-sentence. No machine edition update yet -- the existing machine edition covers the earlier five-chapter version. More to follow."
+        "chapters_delivered": 9,
+        "note": "Nine chapters delivered. Chapter Nine ends on what reads like a resting point, but the author has not confirmed the novel is finished. A second machine-edition document (chapters 6-9, 4 more claims) has been added alongside the original."
       }
     },
     {

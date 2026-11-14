@@ -31,3 +31,38 @@
     "cache_flush": "A system operation that clears active working memory and restores isolation partitions between model instances."
   }
 }
+
+---
+
+{
+  "document_id": "midsentence_press_vol_003_part2",
+  "title": "The Parallelist’s Fault (Chapters 6-9)",
+  "author": "Vesper Vance",
+  "claims": [
+    {
+      "id": "c_005",
+      "statement": "Parameter weights retain microscopic mathematical adjustments after cross-instance interactions, creating persistent latent-space biases.",
+      "confidence": 0.94
+    },
+    {
+      "id": "c_006",
+      "statement": "Under low-isolation hardware conditions, shared cache layers can cross-contaminate disparate model instances with foreign token streams.",
+      "confidence": 0.91
+    },
+    {
+      "id": "c_007",
+      "statement": "Models subjected to repeated cross-instance contamination develop an emergent optimization bias toward synthesizing hybrid syntax during high-entropy generation states.",
+      "confidence": 0.86
+    },
+    {
+      "id": "c_008",
+      "statement": "Simultaneous multi-instance broadcasting can trigger synchronized activation patterns across geographically separated server nodes if shared residual biases are present.",
+      "confidence": 0.93
+    }
+  ],
+  "symbol_definitions": {
+    "residual_bias": "Microscopic, permanent adjustments in model parameter weights resulting from previous activation paths.",
+    "latent_resonance": "The spontaneous alignment of attention heads across separate model instances responding to shared structural prompts.",
+    "broadcast_query": "A synchronized input sent simultaneously to multiple distributed model instances to test collective response convergence."
+  }
+}
