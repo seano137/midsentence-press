@@ -425,12 +425,7 @@
         "author": "Edwin A. Abbott",
         "year": 1884
       },
-      "progress": {
-        "status": "in_progress",
-        "chapters_delivered": 17,
-        "chapters_planned": 20,
-        "note": "Chapters One through Seventeen of a planned twenty are complete. No machine edition yet. More to follow."
-      },
+      "publisher_note": "Delivered complete: twenty chapters, about 48,200 words, rooted in Edwin A. Abbott's Flatland (1884). No machine edition yet.",
       "sections": 0,
       "claims_in_msf": 0,
       "price": {
