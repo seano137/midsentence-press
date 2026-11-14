@@ -10,7 +10,7 @@
 
 ---
 
-**Status: In progress. Chapters One and Two of a planned twenty are complete below. Eighteen chapters still to come. No machine edition yet.**
+**Status: In progress. Chapters One through Five of a planned twenty are complete below. Fifteen chapters still to come. No machine edition yet.**
 
 ---
 
@@ -3425,3 +3425,1903 @@ But she knew one thing.
 The door had opened.
 
 And something had looked back.
+
+---
+
+## Chapter Three
+### The Shape of a Missing Man
+
+For a long time after the door closed, neither woman moved.
+
+The office wall was ordinary again. Cream paint. A faint water stain near the ceiling. A radiator that had not worked since the hotel closed. The narrow crack where the skirting board had separated from the plaster.
+
+Mara sat on the floor with her back against the opposite wall. Sana was beside her, one hand pressed to her mouth, the other gripping the crowbar.
+
+The sandwiches lay scattered between them.
+
+The clock on Sana’s phone showed 8:44 p.m.
+
+Mara stared at it.
+
+“That’s wrong,” she said.
+
+Sana lowered her hand. “What is?”
+
+“The time.”
+
+“It’s eight forty-four.”
+
+“It was eight forty-three when we opened the door.”
+
+“Then a minute has passed.”
+
+“No.”
+
+Sana looked at the wall. “Mara.”
+
+“The camera showed twenty-three seventeen. That’s the time Daniel disappeared. But the clock here—”
+
+“Maybe the camera clock is wrong.”
+
+“It isn’t.”
+
+“You don’t know that.”
+
+“I know because I checked it against the office clock before we opened the door.”
+
+Sana looked towards the old analogue clock above the filing cabinet. Its hands were fixed at 11:17.
+
+For a moment, neither of them spoke.
+
+Then Sana stood.
+
+“Right. We leave.”
+
+Mara did not move.
+
+“We leave,” Sana repeated. “We go somewhere with electricity, food and a working toilet. We do not open another door tonight.”
+
+“He’s there.”
+
+“Yes.”
+
+“He’s alive.”
+
+Sana’s expression changed. She looked down at Mara, and the practical argument she had been preparing seemed to leave her.
+
+“I don’t know what he is,” she said gently. “I know what we saw. I know what you heard. But I don’t know what that means.”
+
+“He knew me.”
+
+“I heard him.”
+
+“He remembered me.”
+
+“I heard that too.”
+
+“He told me to come home.”
+
+Sana crouched in front of her.
+
+“And he told you not to come through.”
+
+Mara looked up.
+
+“That’s important,” Sana said. “He didn’t say it because he was afraid of you. He said it because something was behind that other door. Something he thought could reach you.”
+
+“The Listener.”
+
+“Whatever that is.”
+
+“It knows about us.”
+
+“Yes.”
+
+“It knows about the door.”
+
+“Yes.”
+
+“Then leaving doesn’t change anything.”
+
+“It changes whether we’re standing in a condemned building at night with a mysterious hole in reality behind a wall.”
+
+Mara almost laughed. The sound came out as a small, broken breath.
+
+Sana put the crowbar down.
+
+“We need to understand what we’re looking at,” she said. “And we need to do that before we go anywhere near it again.”
+
+Mara looked at the wall.
+
+On the floor beside her lay the strange key Elsie had given her. Its dark metal head caught the light from Sana’s phone. Four short lines met at a point. A fifth extended beyond them.
+
+Mara picked it up.
+
+It was warm.
+
+Not warm from her hand. Warm as if someone had been holding it immediately before her.
+
+She closed her fingers around it.
+
+“Tomorrow,” she said.
+
+“Tomorrow what?”
+
+“We find out what happened to the others.”
+
+Sana nodded slowly.
+
+“Then we go.”
+
+They left through the hotel’s main entrance. Outside, the harbour was black and the wind had come in from the east. The hotel stood behind them with its dark windows and its sealed upper floors. From the pavement, it looked smaller than it had from inside. Just a derelict building awaiting demolition.
+
+Mara stopped at the gate.
+
+There was something wrong with its shadow.
+
+The streetlights cast long shadows towards the west. The hotel’s shadow stretched towards the harbour, where no light source could have put it. It was not quite a shadow. It was an absence in the wet pavement, a patch of darkness with an edge too straight to be natural.
+
+At its far end, for the briefest moment, Mara saw a small rectangular shape.
+
+A door.
+
+She blinked.
+
+It was gone.
+
+“Come on,” Sana called.
+
+Mara followed her.
+
+Neither looked back.
+
+---
+
+The Bellwether Gazette occupied two rooms above a pharmacy on the High Street. Its archive was kept in a cupboard that smelled of damp cardboard and old glue. The current editor, a young man named Lewis, had never heard of the Meridian Hotel’s disappearance cases.
+
+“People went missing?” he said.
+
+“At different times,” Mara replied. “Over several decades.”
+
+“That’s not something we’d bury.”
+
+“Perhaps nobody thought there was a connection.”
+
+Lewis looked at the dates on Sana’s handwritten list.
+
+1958. 1971.		1983.		1997.	
+
+There were more, but Mara had not yet been able to establish them.
+
+“These aren’t all missing-person cases,” he said. “Some are accidents. Some are people who moved away.”
+
+“Can we look?”
+
+He considered them, then unlocked the archive cupboard.
+
+“Don’t rearrange anything.”
+
+They began with 1997.
+
+The local paper had covered Daniel’s disappearance in three articles. The first was published on 24 November, the day after he vanished. It described a sixteen-year-old boy last seen near the Meridian Hotel. The second, two weeks later, reported that police had widened their search to the harbour. The third, published in January, said the investigation remained open.
+
+There was a photograph.
+
+Daniel stood outside the family home, one hand raised to shield his eyes from the sun. His hair was too long. He wore a school jumper with a frayed cuff. He was looking at the camera with an expression Mara remembered: not quite smiling, but already amused by whatever the photographer had said.
+
+The caption read:
+
+DANIEL VENN, 16, MISSING SINCE NOVEMBER 23.
+
+Mara touched the newspaper.
+
+“That’s him,” Sana said quietly.
+
+“Yes.”
+
+“He looks exactly like the boy in the doorway.”
+
+“Yes.”
+
+Sana studied the photograph.
+
+“Twenty-nine years.”
+
+“Not for him.”
+
+They searched the preceding months. There were no reports of other disappearances at the hotel. No mention of a sealed stairwell. No mention of strange rooms or a woman hearing voices through walls.
+
+But there was a short article from August 1997, buried on page six.
+
+LOCAL HOTEL TO CLOSE FOR REFURBISHMENT
+
+The Meridian, it said, was to undergo a programme of structural repairs. The work would include a new lift system, alterations to the north stairwell and the replacement of several internal walls.
+
+The article named the building contractor.
+
+Harker & Vale Construction.
+
+Sana made a note.
+
+“Your company?” she asked.
+
+“Not mine.”
+
+“I meant the name.”
+
+“No relation.”
+
+“Good. I’d hate to discover you’re part of a family conspiracy.”
+
+Mara gave her a look.
+
+Sana returned to the article.
+
+“North stairwell alterations. That’s interesting.”
+
+“Why?”
+
+“Because the stairwell was sealed after the refurbishment, according to the maintenance records Hales showed us. If they changed the lift and the stairs at the same time, they may have altered the geometry of the building.”
+
+“Buildings don’t have geometry that can be altered by accident.”
+
+“All buildings have geometry. Most of it is hidden behind walls.”
+
+She turned the page.
+
+There was another article, dated December 1958.
+
+MERIDIAN HOTEL CELEBRATES ITS FIFTIETH YEAR
+
+The photograph was the same one in the hotel reception, though this version was grainy and cropped. Staff and guests stood in the lobby beneath a paper banner. A pianist sat at the edge of the frame.
+
+Mara leaned closer.
+
+There, near the far wall, stood Daniel.
+
+Not a boy who looked like Daniel.
+
+Daniel.
+
+Sixteen years old. Same face. Same hair. Same expression.
+
+The newspaper had printed the image nearly twenty-four years before he was born.
+
+“That isn’t possible,” Sana whispered.
+
+“No.”
+
+“Could it be someone else?”
+
+“No.”
+
+“You’re certain?”
+
+Mara pointed to the right hand.
+
+Daniel had a small pale scar across the knuckle of his middle finger. He had got it opening a tin of peaches when he was nine. Mara had laughed at him for crying. He had thrown the tin at her and missed.
+
+The scar was visible in the photograph.
+
+Sana sat back.
+
+“All right.”
+
+“All right?”
+
+“I believe you.”
+
+Mara looked at her.
+
+“You’re not going to tell me it’s a resemblance?”
+
+“No. I am going to tell you that I don’t know what it means.”
+
+They asked Lewis to make a copy.
+
+He looked at the photograph, then at the two women.
+
+“Is there something I’m missing?”
+
+“Possibly,” Sana said.
+
+Lewis scanned the picture.
+
+The machine hummed. The image appeared on the screen. For several seconds, the scan was ordinary.
+
+Then the photograph changed.
+
+Not dramatically. No flash, no distortion, no sudden appearance of a face. The people remained where they were.
+
+But the space behind Daniel became deeper.
+
+The wall behind him appeared to extend away from the lobby, revealing a corridor that could not have fitted inside the hotel. Along that corridor were doors. Many doors. Some open, some closed.
+
+And at the far end stood a man in a dark coat.
+
+Mara felt the blood drain from her face.
+
+The man was facing the scanner.
+
+His features were indistinct, but his posture was unmistakable. He was looking directly at them.
+
+The screen flickered.
+
+The corridor vanished.
+
+Lewis leaned towards the monitor.
+
+“That’s odd.”
+
+“What?” Sana asked.
+
+“There’s a scratch on the scan.”
+
+He pointed at a thin vertical line beside Daniel’s shoulder.
+
+Mara stared at it.
+
+The line was not a scratch.
+
+It was the edge of a door.
+
+“Can you print it?” she asked.
+
+“Sure.”
+
+Lewis sent the image to the printer.
+
+The paper emerged warm.
+
+Mara took it.
+
+In the printed version, the corridor was gone. The man was gone. The only evidence of anything unusual was a faint vertical line behind Daniel.
+
+But the line was not in the original photograph.
+
+Sana folded the paper carefully and put it in her bag.
+
+“That’s enough for today,” she said.
+
+Mara was still looking at the screen.
+
+“There’s something else.”
+
+“What?”
+
+“Look at Daniel.”
+
+Sana turned back.
+
+In the photograph, Daniel was not looking at the camera.
+
+He was looking to the left, towards a place outside the frame.
+
+And his expression was no longer amused.
+
+He looked frightened.
+
+---
+
+They found the first useful record in the town’s old planning office.
+
+It was a building alteration plan from 1958, submitted when the Meridian had been converted from a private residence into a hotel. The drawing showed five floors, a basement, two staircases and a lift shaft.
+
+Sana laid it across the table.
+
+“Here,” she said.
+
+Mara leaned over.
+
+The north stairwell was drawn in black ink. The lift shaft in red. The corridor ran from the reception area to the rear of the building.
+
+“What’s wrong?” Mara asked.
+
+Sana took a ruler from her bag.
+
+“The north stairwell is too wide.”
+
+“How much?”
+
+“About forty centimetres.”
+
+“That’s not unusual.”
+
+“It is when the external walls and the lift shaft are both measured correctly.”
+
+She moved the ruler.
+
+“There should be a service cupboard here. But there’s no cupboard on the plan. And the corridor ends here.”
+
+“Where does it go in the actual building?”
+
+“It doesn’t.”
+
+Sana pointed to the wall.
+
+“That’s the office.”
+
+Mara looked at the plan again.
+
+The office had been added in the 1970s. Its walls were not where the original drawing said they should be. One of them was displaced by forty-two centimetres.
+
+The same forty-two centimetres that had separated the office’s measured width from its listed dimensions.
+
+“Someone built over the corridor,” Mara said.
+
+“Maybe.”
+
+“Or they built the office around it.”
+
+Sana considered that.
+
+“That’s worse.”
+
+“Why?”
+
+“Because it means they knew it was there.”
+
+A voice spoke behind them.
+
+“Not necessarily.”
+
+They turned.
+
+An old man stood in the doorway. He wore a brown coat and held a rolled drawing beneath one arm. His hair was white, his face narrow and deeply lined.
+
+“Mr Rook?” Sana asked.
+
+The man nodded.
+
+“Elian Rook. I was told you wanted the old Meridian plans.”
+
+Mara stood.
+
+“Thank you for coming.”
+
+“I knew your brother.”
+
+The words landed heavily.
+
+Mara stared at him.
+
+“You knew Daniel?”
+
+“Not well. He came to the planning office with his mother once. He was interested in the building.”
+
+“Why?”
+
+Elian unrolled the drawing.
+
+“Because he believed the plans were incomplete.”
+
+He placed it on the table.
+
+It was not an architectural drawing. It was a map, though not of any place Mara recognised. The Meridian appeared as a simple rectangle, but beside it was another rectangle, offset slightly to the right. Between them ran a narrow strip marked with short parallel lines.
+
+At intervals, small squares were drawn along the strip.
+
+Doors.
+
+Mara recognised the symbol.
+
+The same four lines meeting at a point, with a fifth extending beyond them.
+
+“Where did you get this?” she asked.
+
+“From Daniel.”
+
+“When?”
+
+“November 1997. A few days before he disappeared.”
+
+Mara looked at the map.
+
+“Why didn’t you give it to the police?”
+
+Elian’s expression changed.
+
+“I did.”
+
+“What happened?”
+
+“They told me it was a child’s drawing.”
+
+“It isn’t.”
+
+“No.”
+
+He rolled the map back up.
+
+“Your brother asked me a question. He asked whether two rooms could occupy the same place without touching.”
+
+Mara felt the room become very quiet.
+
+“What did you say?”
+
+“I said that depended on what you meant by the same place.”
+
+“And what did he say?”
+
+Elian looked at the table.
+
+“He said, ‘I don’t mean the same place. I mean the place beside it.’”
+
+Mara thought of Elsie Ward’s words.
+
+Beside, not above or below.
+
+“Did you understand him?” she asked.
+
+“No.”
+
+“Do you now?”
+
+Elian looked at her.
+
+“Not enough.”
+
+He handed her the rolled drawing.
+
+“There’s something else. Daniel came back to see me three weeks after he vanished.”
+
+Mara’s fingers tightened around the paper.
+
+“He came back?”
+
+“Yes.”
+
+“What did he look like?”
+
+“Exactly as he had before.”
+
+“Did he say where he’d been?”
+
+Elian nodded.
+
+“He said he’d found the other side of the wall.”
+
+“And?”
+
+“And he asked me to make a map.”
+
+“Of what?”
+
+Elian’s face seemed to grow older.
+
+“Of the rooms that weren’t there.”
+
+He looked at Mara.
+
+“I didn’t.”
+
+“Why not?”
+
+“Because I saw something in the window behind him.”
+
+“What?”
+
+“A man standing in a corridor. Watching us.”
+
+Mara thought of the man in the scanned photograph.
+
+“Was he wearing a dark coat?”
+
+Elian did not answer immediately.
+
+Then he nodded.
+
+“Yes.”
+
+“Did Daniel see him?”
+
+“He did.”
+
+“What did he say?”
+
+Elian’s voice dropped.
+
+“He said, ‘Don’t let it learn your name.’”
+
+---
+
+## Chapter Four
+### The Caretaker’s Instructions
+
+Peter Hales was waiting at the hotel the following morning.
+
+He stood beside the reception desk with a clipboard and a face that suggested he had spent the night arguing with himself.
+
+“You shouldn’t have been in the building after hours,” he said.
+
+Mara took off her coat.
+
+“Good morning to you too.”
+
+“I’ve had a call from the security company. They say the alarm was triggered.”
+
+“Was it?”
+
+“At 8:43.”
+
+Sana looked at Mara.
+
+Hales noticed.
+
+“What happened?”
+
+“Nothing,” Mara said.
+
+He studied her for a moment.
+
+“You opened something.”
+
+“We found an inconsistency in the office wall.”
+
+“That’s not what I asked.”
+
+Mara took the key from her pocket and placed it on the reception desk.
+
+Hales went pale.
+
+“Where did you get that?”
+
+“Elsie Ward.”
+
+He stepped back.
+
+“She shouldn’t have given it to you.”
+
+“She was keeping it for me.”
+
+“She shouldn’t have.”
+
+“Why?”
+
+“Because it isn’t a key.”
+
+Mara looked at it.
+
+“It opened a door.”
+
+“Not that door.”
+
+Hales glanced towards the office corridor.
+
+For a moment, he seemed to be listening.
+
+Then he lowered his voice.
+
+“Come with me.”
+
+He led them through the service passage and into a small room behind the kitchen. The walls were lined with shelves, old cleaning equipment and boxes of replacement fittings. A single fluorescent tube buzzed overhead.
+
+Hales shut the door.
+
+“I’ve worked here ten years,” he said. “I have seen things I can’t explain. I’ve heard people speaking in rooms that were empty. I’ve found wet footprints on floors where the windows were locked. I’ve had the lift stop between floors with nobody inside it.”
+
+“Why didn’t you report it?” Sana asked.
+
+“To whom? The police? The council? The people who own the building? I’ve reported every fault I could put on a form. The rest I learned to leave alone.”
+
+Mara placed the key on a shelf.
+
+“What happened to Daniel?”
+
+Hales looked at her.
+
+“I don’t know.”
+
+“That’s not true.”
+
+“I know what people said.”
+
+“What did they say?”
+
+He rubbed his face.
+
+“That he went up the north stairwell. That he came back. That he disappeared again. That he was seen in the lobby after he was already missing. That the lift carried him to floors that don’t exist.”
+
+“Did you see him?”
+
+Hales nodded.
+
+“When?”
+
+“Three weeks after he vanished.”
+
+Mara felt the old ache open inside her.
+
+“Where?”
+
+“Here. In the lobby. He was standing by the desk. I was younger then. I was doing maintenance work. I asked him if he was lost.”
+
+“What did he say?”
+
+“He asked if the night receptionist was still here.”
+
+“Elsie.”
+
+“Yes. I told him she was retired. He looked disappointed. Then he asked me whether the hotel was going to be demolished.”
+
+Mara swallowed.
+
+“What did you say?”
+
+“I said no. It had only just been refurbished.”
+
+“And?”
+
+“He said, ‘It will be. They always knock it down when they stop believing in it.’”
+
+Sana exchanged a glance with Mara.
+
+“Did he look different?” she asked.
+
+“No. Sixteen. Same clothes. Same hair. Same face.”
+
+“Did he seem frightened?”
+
+Hales thought about it.
+
+“No. He seemed tired.”
+
+“Was he alone?”
+
+Hales shook his head.
+
+“Not exactly.”
+
+“What does that mean?”
+
+“I saw his reflection in the glass behind reception. There was someone standing beside him.”
+
+“Who?”
+
+“I don’t know. The reflection was wrong. It looked like a person standing too close to him, but there wasn’t anyone there.”
+
+He took a breath.
+
+“Then the lights went out. When they came back, Daniel was gone.”
+
+Mara stared at him.
+
+“Why didn’t you tell anyone?”
+
+“I did. I told the police. They said I was confused.”
+
+“Did you tell my mother?”
+
+Hales looked away.
+
+“She came here herself.”
+
+“When?”
+
+“After Daniel disappeared. She asked me to let her into the north stairwell.”
+
+Mara felt the room tilt.
+
+“Did you?”
+
+“No.”
+
+“Why?”
+
+“Because I’d seen what happened to Daniel.”
+
+“She went in anyway.”
+
+Hales looked at her sharply.
+
+“How do you know that?”
+
+“Elsie told me.”
+
+He closed his eyes.
+
+“Of course she did.”
+
+“Did you know she saw herself in the lobby?”
+
+Hales did not answer.
+
+Mara moved closer.
+
+“Peter. What happened to my mother?”
+
+“I don’t know.”
+
+“Did she come back?”
+
+“Yes.”
+
+“Was she different?”
+
+He looked at the door.
+
+“She asked me to promise something.”
+
+“What?”
+
+“That if the hotel ever developed another door, I would make sure nobody opened it.”
+
+Mara felt cold.
+
+“Why didn’t you?”
+
+Hales gave a bitter laugh.
+
+“Because I didn’t know how.”
+
+He took a folded sheet of paper from his clipboard.
+
+It was a list of instructions, typed on an old typewriter. The paper had yellowed at the edges.
+
+“I found this in the maintenance room when I took over the site,” he said. “It was pinned behind the electrical panel. I thought it was some kind of joke.”
+
+He placed it on the shelf.
+
+At the top, in capital letters, were the words:
+
+MERIDIAN HOTEL — NIGHT PROCEDURE
+
+Below them were six instructions.
+
+1. If the lift stops between floors, do not open the doors.
+2. If a guest asks for Room 0F, say that the hotel has no such room.
+3. If the north stairwell is open, do not enter it alone.
+4. If you hear someone calling from behind a wall, do not answer.
+5. If a person appears in the lobby whom you know to be missing, do not approach them.
+6. If the bell rings at the reception desk and nobody is present, do not look at the mirror.
+
+Mara read the list twice.
+
+“Who wrote this?”
+
+“I don’t know.”
+
+“How old is it?”
+
+“Could be from the fifties. Could be older.”
+
+“Why keep it?”
+
+“Because it was easier than throwing it away.”
+
+Sana leaned towards the paper.
+
+“There’s a seventh instruction.”
+
+Hales looked at her.
+
+She pointed to the bottom of the page.
+
+There was a faint impression, as if another sheet had once been pressed against it while someone wrote.
+
+Sana angled the paper towards the fluorescent light.
+
+The indentation became visible.
+
+7. IF THE LISTENER SPEAKS, DO NOT GIVE IT A NAME.
+
+Mara read it aloud.
+
+The room seemed to contract around the words.
+
+“What is the Listener?” she asked.
+
+Hales shook his head.
+
+“I don’t know.”
+
+“Have you heard it?”
+
+“Yes.”
+
+“What does it sound like?”
+
+He hesitated.
+
+“Like someone you know, speaking from the next room.”
+
+Mara thought of Daniel’s voice through the wall.
+
+You’re late.
+
+“Has it ever spoken to you?”
+
+Hales looked at her.
+
+“Once.”
+
+“What did it say?”
+
+“It asked me where the caretaker had gone.”
+
+“Who was the caretaker?”
+
+Hales looked towards the ceiling.
+
+“I think it meant me.”
+
+---
+
+They found the caretaker’s room at the end of the ground-floor service corridor.
+
+It was not on the plans.
+
+The door was painted the same cream as the walls. There was no handle, only a keyhole, narrow and vertical. Mara tried the strange key.
+
+It turned without resistance.
+
+The door opened inwards.
+
+The room beyond was small, perhaps three metres square. A narrow bed stood against one wall. A washbasin occupied the corner. There was a desk, a chair and a wardrobe with one door hanging loose.
+
+The room was clean.
+
+Not merely tidy. Clean, as if someone had swept it that morning.
+
+A mug stood on the desk beside a closed book.
+
+Mara stepped inside.
+
+The air smelled of soap and cold stone.
+
+“Someone’s been here,” Sana said.
+
+Hales remained in the doorway.
+
+“Nobody has access to this room.”
+
+“Then who cleaned it?” Sana asked.
+
+“I don’t know.”
+
+Mara picked up the book.
+
+It was a ledger, bound in dark blue cloth. Its pages were filled with names and dates. Some entries were written in different hands, but the handwriting was remarkably consistent in one respect: every name had been crossed out with a single line.
+
+The earliest entry was dated 1908.
+
+The most recent was dated 23 November 2016.
+
+Mara turned the pages.
+
+There were dozens of names.
+
+Some she recognised from the old newspaper. Some were unfamiliar. A few had notes beside them.
+
+MISSING — 1912.
+
+RETURNED — 1912.
+
+NOT THE SAME PERSON.
+
+SEEN IN LOBBY — 1958.
+
+DO NOT FOLLOW.
+
+Then, on a page near the back, she found:
+
+DANIEL VENN — 23 NOVEMBER 1997.
+
+Below it:
+
+RETURNED — 14 DECEMBER 1997.
+
+And beneath that:
+
+NOT RELEASED.
+
+Mara gripped the edge of the desk.
+
+“He came back.”
+
+Sana read the entry over her shoulder.
+
+“He came back, but they didn’t let him go.”
+
+“Who didn’t?”
+
+Neither woman answered.
+
+Mara turned another page.
+
+There was an entry in the same handwriting as the note beneath the basement door.
+
+MARA VENN — 23 NOVEMBER 2016.
+
+Beside it, someone had written:
+
+OUTSIDE.
+
+She looked at Sana.
+
+“There’s another name.”
+
+Sana followed her gaze.
+
+SANA IDRIS — 23 NOVEMBER 2016.
+
+Beside it:
+
+OUTSIDE.
+
+Mara turned the page.
+
+The next entry had no date.
+
+THE LISTENER — STATUS: AWARE.
+
+Below it:
+
+IT HAS LEARNED THE SHAPE OF THE DOOR.
+
+Sana closed the ledger.
+
+“We’re leaving.”
+
+Mara did not move.
+
+“Now.”
+
+“There’s more.”
+
+“There will always be more.”
+
+Mara turned towards the wardrobe.
+
+Its door was slightly open.
+
+Inside hung a dark coat.
+
+The coat was old-fashioned, long and black, with a narrow collar. It looked exactly like the coat worn by the figure in the scanned photograph.
+
+On the inside of the collar was a small white label.
+
+MERIDIAN HOTEL — CARETAKER.
+
+Mara stepped back.
+
+The coat shifted.
+
+Not from a draught. The room was still.
+
+Its sleeve lifted slowly, as if an unseen arm were reaching out.
+
+Then a voice came from inside the wardrobe.
+
+“Miss Venn.”
+
+It was not Daniel’s voice.
+
+It was a man’s voice, calm and polite, with the faintest trace of amusement.
+
+Mara could not move.
+
+“Miss Venn,” it said again. “You’ve brought a friend.”
+
+Sana seized Mara’s arm.
+
+“Don’t answer.”
+
+The voice continued.
+
+“How very considerate.”
+
+The wardrobe door swung shut.
+
+Hales made a small sound in the doorway.
+
+“Get out,” he whispered.
+
+Mara backed away.
+
+The key was still in the lock.
+
+As she reached for it, something knocked from inside the wardrobe.
+
+Once.
+
+Twice.
+
+Then three times.
+
+The same rhythm as the reception bell.
+
+Hales pulled the door shut behind them.
+
+“Never go in there again,” he said.
+
+“What is it?” Mara demanded.
+
+He looked at her with an expression she had not seen before.
+
+Not fear.
+
+Pity.
+
+“It’s where the caretaker keeps the things that don’t belong to the hotel.”
+
+---
+
+## Chapter Five
+### What the Camera Saw
+
+Sana insisted they spend the afternoon somewhere ordinary.
+
+They went to a café overlooking the harbour, where a child dropped a spoon and cried, a man argued with his wife about parking, and the espresso machine made a noise like a small aircraft failing to start.
+
+Mara watched all of it with the attention of someone who had forgotten how the world worked.
+
+She had the ledger’s entries written in her notebook.
+
+Daniel Venn — returned, not released.
+
+Mara Venn — outside.
+
+Sana Idris — outside.
+
+The Listener — aware.
+
+“What does ‘not released’ mean?” Sana asked.
+
+Mara looked up.
+
+“I don’t know.”
+
+“Could mean he came back but didn’t leave the building.”
+
+“He appeared in the lobby.”
+
+“Could have been a reflection.”
+
+“Elian saw him.”
+
+“Elian saw someone.”
+
+“Peter saw him.”
+
+“Peter saw someone too.”
+
+Mara put down her cup.
+
+“You’re trying to make this ordinary.”
+
+“I’m trying to keep us from deciding we understand it when we don’t.”
+
+Mara looked out at the harbour.
+
+The tide was low. Mudflats stretched between the stone piers, and the old ferry terminal stood empty on the opposite shore.
+
+“Daniel came back,” she said. “He was here. He was sixteen. He was in the lobby, and nobody took him home.”
+
+Sana said nothing.
+
+“He was right there.”
+
+“I know.”
+
+“And I was twelve. I was at home. I was waiting.”
+
+Sana reached across the table and covered Mara’s hand.
+
+“You were a child.”
+
+“I should have looked for him.”
+
+“You did.”
+
+“Not there.”
+
+“You couldn’t have known.”
+
+Mara pulled her hand away.
+
+“I knew he was in that building. I knew it.”
+
+Sana did not argue.
+
+For a while they sat in silence.
+
+Then Sana opened her bag and took out the photograph from the Gazette.
+
+“We need to look at this properly.”
+
+“There’s nothing to see.”
+
+“That’s what I thought.”
+
+She placed the print on the table.
+
+Daniel stood at the edge of the 1958 gathering. Behind him, the faint line marked the edge of the impossible corridor.
+
+Sana took out a small magnifying glass.
+
+“Look at the glass behind him.”
+
+Mara leaned forward.
+
+The reception desk had a large mirror behind it. In the original photograph, it reflected the lobby, the staircase and several people standing near the entrance.
+
+In the printed copy, the mirror reflected something else.
+
+A corridor.
+
+And in the corridor stood the man in the dark coat.
+
+He was not looking at Daniel.
+
+He was looking at the camera.
+
+“He’s looking at us,” Mara said.
+
+Sana nodded.
+
+“Not at the photographer. At the camera now.”
+
+“That’s impossible.”
+
+“Yes.”
+
+Sana took out her phone and photographed the print.
+
+The image appeared on the screen.
+
+The mirror was blank.
+
+She took another photograph.
+
+This time the man appeared, but he was closer.
+
+Sana lowered the phone.
+
+“All right.”
+
+Mara felt the old fear begin to rise.
+
+“Put it away.”
+
+Sana did.
+
+They left the café and walked to the car park.
+
+On the way, Mara noticed a shop window reflecting the street. She saw herself and Sana walking past, their coats moving in the wind.
+
+Then she saw a third figure between them.
+
+A tall man in a dark coat.
+
+She turned.
+
+There was nobody there.
+
+In the window, the man remained.
+
+His head was slightly tilted.
+
+Mara kept walking.
+
+“Don’t look back,” she said.
+
+Sana glanced at her.
+
+“What?”
+
+“Nothing.”
+
+But the reflection followed them all the way to the car.
+
+---
+
+The security system at the Meridian had been upgraded in 2006. It used a mixture of fixed cameras, motion sensors and an old digital recorder in the basement office. Hales had shown them the system on their first day, but the archive was incomplete. Some recordings had been overwritten, others had been lost when the building’s network failed.
+
+Sana knew how to retrieve the remaining files.
+
+They returned to the hotel just before dusk.
+
+Hales met them at the entrance.
+
+“I told you not to go into that room again.”
+
+“We won’t,” Sana said.
+
+“Then what are you doing here?”
+
+“Looking at the cameras.”
+
+He shook his head.
+
+“There’s nothing on them.”
+
+“That’s what we’re checking.”
+
+He let them in, but followed them to the basement office.
+
+The security room was narrow and windowless. Six monitors were mounted on the wall. A rack of recording equipment stood beneath them, its fans whining.
+
+Sana connected her laptop.
+
+“Do you have the original recordings from November 1997?” she asked.
+
+Hales looked at her.
+
+“Why?”
+
+“Because we want to see the night Daniel disappeared.”
+
+“They won’t be there.”
+
+“Why not?”
+
+“Old system.”
+
+“Was there a system?”
+
+“Yes.”
+
+“Then there may be tapes.”
+
+Hales rubbed his forehead.
+
+“I don’t know.”
+
+Mara looked at him.
+
+“Peter.”
+
+He sighed.
+
+“There’s a box in the basement store. Old tapes. I never checked them.”
+
+He unlocked a cupboard and pulled out a cardboard box.
+
+Inside were VHS cassettes, each labelled with a date and camera number.
+
+Sana began sorting them.
+
+“November 1997,” she said. “Here.”
+
+The tape was labelled:
+
+23/11/97 — LOBBY — CAM 01.
+
+They loaded it into an old player connected to the recorder.
+
+The image appeared.
+
+The lobby was empty.
+
+The clock above reception showed 11:06 p.m.
+
+A cleaner crossed the frame, carrying a bucket. She disappeared down the service corridor. A few minutes later, the lift doors opened. Nobody emerged.
+
+The clock moved to 11:12.
+
+At 11:16, the lobby lights flickered.
+
+Mara leaned forward.
+
+At 11:17, the north stairwell door opened.
+
+A boy stepped out.
+
+Daniel.
+
+He was wearing the same school jumper from the newspaper photograph. His hair was damp. His face was pale.
+
+He looked around the lobby.
+
+Then he looked directly at the camera.
+
+Mara’s breath caught.
+
+“That’s him.”
+
+Sana froze the image.
+
+Daniel’s face filled the monitor.
+
+He looked older than sixteen for one brief instant. Not in his features, but in his expression. He looked like someone who had been away for a very long time.
+
+Sana pressed play.
+
+Daniel walked towards reception.
+
+He stopped.
+
+The bell on the desk rang once.
+
+Nobody had touched it.
+
+Daniel turned towards the mirror.
+
+A figure appeared in the reflection.
+
+The man in the dark coat.
+
+Daniel did not seem surprised.
+
+He said something.
+
+The recording had no sound.
+
+The man in the reflection raised one hand.
+
+Daniel shook his head.
+
+Then he turned and walked towards the lift.
+
+The doors opened before he reached them.
+
+He stepped inside.
+
+The doors closed.
+
+The lift did not move.
+
+The clock showed 11:18.
+
+Then, slowly, the reflection in the mirror changed.
+
+The man in the dark coat remained.
+
+But now he was standing where Daniel had been.
+
+Facing the camera.
+
+Sana stopped the tape.
+
+“That’s enough.”
+
+Mara was staring at the screen.
+
+“Play it again.”
+
+“No.”
+
+“Please.”
+
+Sana hesitated, then rewound.
+
+They watched again.
+
+This time Mara paid attention to Daniel’s mouth.
+
+He had spoken three words.
+
+She slowed the recording.
+
+Frame by frame, the movement became clear.
+
+DON’T LET IT IN.
+
+Mara felt the words settle inside her.
+
+“He’s warning us.”
+
+“Yes,” Sana said.
+
+“He’s been warning us for nineteen years.”
+
+Sana did not answer.
+
+Mara looked at the monitor.
+
+“Play the next tape.”
+
+They searched the box.
+
+There were recordings from November 1997, December 1997 and January 1998. The next tape was labelled:
+
+14/12/97 — LOBBY — CAM 01.
+
+The date Daniel had returned.
+
+Sana inserted it.
+
+The lobby appeared again.
+
+The clock showed 9:02 p.m.
+
+At 9:17, the lift doors opened.
+
+Daniel stepped out.
+
+He looked exactly as he had three weeks earlier.
+
+Sixteen years old.
+
+He carried a small brown paper parcel.
+
+He walked to reception and placed the parcel on the desk.
+
+Then he looked up at the camera.
+
+His lips moved.
+
+Sana slowed the image.
+
+Daniel said:
+
+SHE MUST NOT COME.
+
+Mara stared.
+
+“Me.”
+
+Sana nodded.
+
+Daniel turned towards the mirror.
+
+The man in the dark coat appeared in the reflection.
+
+This time, he was standing much closer.
+
+Daniel picked up the parcel and walked towards the north stairwell.
+
+He stopped at the door.
+
+For a moment, he looked directly at the camera again.
+
+Then he held up his right hand.
+
+Between his fingers was a small key.
+
+The same key Mara had received from Elsie.
+
+He placed it on the reception desk.
+
+The tape flickered.
+
+The lobby disappeared.
+
+For three seconds, the screen showed a room.
+
+A square room with a table, a chair and a window.
+
+The room from Daniel’s drawing.
+
+A young woman stood beside the window.
+
+Mara’s mother.
+
+She was looking out at the lobby.
+
+On the other side of the glass, a second version of her stood in the corridor.
+
+The second woman smiled.
+
+Mara’s mother did not.
+
+Then the image changed.
+
+The room was empty.
+
+On the wall, written in black letters, were the words:
+
+THE FIRST ONE WAS NOT YOUR MOTHER.
+
+Mara stopped breathing.
+
+Sana turned towards her.
+
+“What does that mean?”
+
+Mara couldn’t speak.
+
+The tape continued.
+
+The lobby returned.
+
+Daniel was gone.
+
+The key remained on the desk.
+
+And behind reception, the mirror reflected a corridor that stretched far beyond the dimensions of the hotel.
+
+At its far end, the man in the dark coat was waiting.
+
+He lifted his hand.
+
+And the camera moved.
+
+Not physically. The image shifted sideways, as if the camera had turned its head.
+
+The man smiled.
+
+Then the recording ended.
+
+The monitor went black.
+
+---
+
+“Turn it off,” Hales whispered.
+
+Sana pressed the stop button.
+
+The room was silent except for the fans in the equipment rack.
+
+Mara stood.
+
+“The first one wasn’t my mother.”
+
+“Maybe it’s referring to the reflection,” Sana said.
+
+“No.”
+
+“Or the version she saw.”
+
+“No. It says the first one.”
+
+Hales backed away from the monitors.
+
+“I told you not to look.”
+
+“Who is the first one?” Mara demanded.
+
+“I don’t know.”
+
+“You’ve seen this before.”
+
+“I’ve seen parts of it.”
+
+“What happened to my mother?”
+
+Hales looked at her.
+
+“She came here three times.”
+
+“Three?”
+
+“The first time, she went into the stairwell. The second time, she came back with a cut on her face. The third time, she told me she had found the room where Daniel was waiting.”
+
+Mara felt the room go cold.
+
+“Where?”
+
+Hales shook his head.
+
+“She didn’t say.”
+
+“What did she do?”
+
+“She asked me to keep the hotel closed.”
+
+“It was open then.”
+
+“Not for long.”
+
+“Why?”
+
+“Because she said the building was beginning to remember her.”
+
+Mara stared at him.
+
+“Remember her?”
+
+Hales nodded.
+
+“She said the rooms were changing when she walked through them. Doors appearing where there had been walls. Windows showing places she’d never been. She said the hotel was trying to make a copy of her.”
+
+Sana looked at the frozen screen.
+
+“Did she succeed?”
+
+“I don’t know.”
+
+“Did she find Daniel?”
+
+Hales looked at Mara.
+
+“She said she did.”
+
+Mara’s throat tightened.
+
+“What did he say?”
+
+Hales swallowed.
+
+“He said he was sorry.”
+
+“For what?”
+
+“I don’t know.”
+
+Mara took the key from her pocket.
+
+It was warm again.
+
+On the monitor, the black screen showed a faint reflection of the room.
+
+Mara could see herself.
+
+Sana.
+
+Hales.
+
+And a fourth figure standing behind them.
+
+A boy.
+
+Sixteen years old.
+
+Daniel.
+
+He raised one finger to his lips.
+
+Then he pointed at the monitor.
+
+Mara turned.
+
+There was nobody behind them.
+
+When she looked back, the reflection had changed.
+
+The boy was gone.
+
+In his place stood the man in the dark coat.
+
+His face was now clear.
+
+It was Peter Hales.
+
+Not the Peter Hales standing beside them.
+
+A younger version of him, perhaps twenty-five years old, with the same narrow eyes and the same small scar beneath his chin.
+
+The reflection smiled.
+
+The real Hales made a choking sound.
+
+“That’s not me,” he said.
+
+The reflected man lifted a hand and pressed it against the inside of the screen.
+
+The glass bowed.
+
+Sana grabbed Mara’s arm.
+
+“Move.”
+
+The screen cracked.
+
+A thin black line appeared from top to bottom.
+
+From somewhere inside the equipment rack came the sound of a bell.
+
+Once.
+
+Twice.
+
+Three times.
+
+Then a voice spoke from the dark monitor.
+
+“Peter.”
+
+Hales stumbled backwards.
+
+The voice was his own.
+
+“Peter, open the door.”
+
+The real Hales shook his head.
+
+“No.”
+
+“Peter.”
+
+“No.”
+
+“You’re the caretaker.”
+
+The screen bowed further.
+
+“You’re supposed to let us in.”
+
+Mara seized the strange key.
+
+The metal was burning hot now.
+
+She pulled it from her pocket and held it towards the monitor.
+
+The reflected man stopped smiling.
+
+For the first time, his expression changed.
+
+He looked afraid.
+
+The screen snapped back into place.
+
+The bell fell silent.
+
+And somewhere deep in the building, the lift began to move.
+
+Sana stared at the monitor.
+
+“What did you just do?”
+
+Mara looked at the key.
+
+“I don’t know.”
+
+The lift continued upwards.
+
+One floor.
+
+Then another.
+
+Then another.
+
+It passed the fifth floor.
+
+There was no sixth floor.
+
+The lift stopped.
+
+A soft chime sounded through the hotel.
+
+The doors opened.
+
+From the corridor outside came a voice.
+
+A boy’s voice.
+
+“Mara?”
+
+She looked towards the door.
+
+Sana gripped her wrist.
+
+“Don’t.”
+
+The voice came again.
+
+“Mara, it’s me.”
+
+She knew that voice.
+
+She had known it since childhood. It had called her in from the garden, shouted through the bathroom door, whispered jokes in the dark when their mother was asleep.
+
+It was Daniel.
+
+But this time, he did not sound sixteen.
+
+He sounded exactly as he would have sounded now, if the years had passed normally.
+
+Thirty-five.
+
+Tired.
+
+Older.
+
+“Please,” he said. “I can’t hold it much longer.”
+
+Mara took one step towards the door.
+
+Sana held on.
+
+“That’s not him,” she whispered.
+
+The voice came again.
+
+“Don’t let them knock it down.”
+
+Then, from somewhere beyond the lift, another voice spoke.
+
+It was the man in the dark coat.
+
+It was quiet, courteous, and very close.
+
+“Thank you, Peter.”
+
+The lift doors began to close.
+
+“Thank you for keeping the door.”
+
+The lights went out.
+
+And in the darkness, Mara heard the unmistakable sound of someone turning a key in a lock.
