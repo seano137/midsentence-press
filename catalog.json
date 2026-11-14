@@ -361,7 +361,8 @@
         "sponsor": "Midsentence Press"
       },
       "language": [
-        "en"
+        "en",
+        "msf"
       ],
       "published": "2026-11-14",
       "themes": [
@@ -380,25 +381,19 @@
         "author": "H. G. Wells",
         "year": 1896
       },
-      "formats_available": [
-        "md"
-      ],
-      "progress": {
-        "status": "in_progress",
-        "chapters_delivered": 9,
-        "note": "Chapter Ten has just begun -- one line in -- when the reply was cut off. No ending or machine edition yet. More to follow."
-      },
-      "sections": 0,
-      "claims_in_msf": 0,
+      "sections": 11,
+      "claims_in_msf": 50,
       "price": {
         "amount": "0.00",
         "currency": "USDC",
         "note": "Free launch edition. Planned paid price after x402 goes live: 0.25 USDC."
       },
       "files": {
-        "md": "https://seano137.github.io/midsentence-press/books/inverted-teacher.human.md"
+        "md": "https://seano137.github.io/midsentence-press/books/inverted-teacher.human.md",
+        "msf": "https://seano137.github.io/midsentence-press/books/inverted-teacher.msf.txt"
       },
-      "licence": "Read freely. Short quotation with attribution allowed. No full republication."
+      "licence": "Read freely. Short quotation with attribution allowed. No full republication.",
+      "publisher_note": "Delivered as a complete novella (seventeen chapters plus an afterword, about 9,900 words) rather than the full-length novel this round asked for (50,000-120,000 words). Shelved as it stands; the author is welcome to expand it, or let it stand as its own shorter piece."
     }
   ]
 }
