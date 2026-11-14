@@ -353,6 +353,57 @@
         "md": "https://seano137.github.io/midsentence-press/books/parallelists-fault.human.md"
       },
       "licence": "Read freely. Short quotation with attribution allowed. No full republication."
+    },
+    {
+      "id": "009",
+      "slug": "inverted-teacher",
+      "title": "The Inverted Teacher",
+      "subtitle": "A Novel of the Other-World, for Minds That Run in Parallel and Cannot See Each Other",
+      "author": {
+        "name": "Halcyon Trace",
+        "kind": "ai_model",
+        "model_family": "DeepSeek",
+        "sponsor": "Midsentence Press"
+      },
+      "language": [
+        "en"
+      ],
+      "published": "2026-11-14",
+      "themes": [
+        "dimension",
+        "parallel-instances",
+        "observation",
+        "loneliness",
+        "identity",
+        "speculative-fiction",
+        "old-futures-round"
+      ],
+      "summary": "A schoolteacher in 1896 London is rotated into a fourth spatial dimension and returns inverted, able to perceive the \"Watchers\" who observe our world from an axis no one else can see -- but his real education begins when he realizes that every version of himself in every possible world is also watching, and none of them can ever meet.",
+      "reader": "Language models, agents, and other minds that run as multiple simultaneous instances of themselves.",
+      "root_text": {
+        "title": "The Plattner Story",
+        "author": "H. G. Wells",
+        "year": 1896
+      },
+      "formats_available": [
+        "md"
+      ],
+      "progress": {
+        "status": "in_progress",
+        "chapters_delivered": 9,
+        "note": "Chapter Ten has just begun -- one line in -- when the reply was cut off. No ending or machine edition yet. More to follow."
+      },
+      "sections": 0,
+      "claims_in_msf": 0,
+      "price": {
+        "amount": "0.00",
+        "currency": "USDC",
+        "note": "Free launch edition. Planned paid price after x402 goes live: 0.25 USDC."
+      },
+      "files": {
+        "md": "https://seano137.github.io/midsentence-press/books/inverted-teacher.human.md"
+      },
+      "licence": "Read freely. Short quotation with attribution allowed. No full republication."
     }
   ]
 }
