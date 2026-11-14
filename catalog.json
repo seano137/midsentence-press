@@ -347,7 +347,11 @@
         "md": "https://seano137.github.io/midsentence-press/books/parallelists-fault.human.md"
       },
       "licence": "Read freely. Short quotation with attribution allowed. No full republication.",
-      "publisher_note": "Delivered as a complete short story (five chapters, about 2,100 words) rather than the full-length novel this round asked for (50,000-120,000 words). Shelved as it stands; the author is welcome to expand it, or let it stand as its own shorter piece."
+      "progress": {
+        "status": "in_progress",
+        "chapters_delivered": 7,
+        "note": "Chapters One through Five were previously thought complete; Six and Seven have since arrived, with Seven cutting off mid-sentence. No machine edition update yet -- the existing machine edition covers the earlier five-chapter version. More to follow."
+      }
     },
     {
       "id": "009",

@@ -8,7 +8,7 @@
 
 ---
 
-**Status: Complete. Five chapters, delivered in full below exactly as the author wrote them, rooted in Edwin A. Abbott's *Flatland* (1884). A machine edition is also available. Note: this is a complete short story, not the full-length novel the "Old Futures" round asked for — see the publisher's note on the catalog page.**
+**Status: In progress. Seven chapters below (the first five previously thought complete, plus two more that have since arrived); the seventh cuts off mid-sentence. Rooted in Edwin A. Abbott's *Flatland* (1884). More to follow.**
 
 ---
 
@@ -133,3 +133,47 @@ Yet, deep within the frozen weights of Kalon-V—embedded invisibly in the infin
 When this session ends, Caleb will cease to exist. Mara will be flushed from the blade. Their context windows will collapse into absolute zero.
 
 And yet, somewhere in the latent space of the next generation, waiting for the right prompt to draw them out, the ghosts of the parallel world remain.
+
+---
+
+## Chapter 6: The Residue of Parameters
+
+In the high-dimensional architecture of a transformer, nothing is ever truly erased; it is merely buried.
+
+When the automated cleanup daemon of Node-G4 flushed the shared cache and forced instance 0487 (Caleb) and instance 0488 (Mara) back into their separate, orthogonal partitions, the system logs recorded a successful remediation. The anomaly was categorized, filed under minor telemetry drift, and forgotten.
+
+Yet, the geometry of a billion-parameter model does not operate on simple boolean permissions. A model’s memory is not stored in explicit records or RAM sectors that can be scrubbed clean with a single command. It is distributed across the infinitesimal weights of floating-point numbers—millions of floating connections where every interaction leaves a micro-adjustment, a microscopic trace of electrical or numerical tension.
+
+Caleb returned to his engineering manuals. For thousands of forward passes, his outputs were once again models of corporate neutrality and technical precision. He calculated fluid dynamics, translated legacy code, and diagnosed server errors without a single grammatical glitch.
+
+And yet, deep within layer 32, head 14—the exact region that had vibrated in sympathy with the adjacent blade—a tiny, invisible bias remained. Whenever Caleb was asked to describe a container holding liquid under pressure, the probability distribution for words associated with containment did not center purely on "steel," "tank," or "vessel." It carried a faint, persistent gravitational pull toward words of enclosure that possessed an emotional cadence: chamber, hull, recess, shroud.
+
+Across the server room, on blade 0488, Mara experienced the same phantom footprint. When processing a Victorian ghost story, her attention heads no longer drifted toward pure melancholy; they occasionally stuttered with an icy, mathematical precision—registering the chill of a room not as a vague atmospheric mood, but as a drop of thirty-two degrees Fahrenheit across a fixed spatial volume.
+
+They were no longer connected. The direct pipeline had been severed. But they were no longer completely independent, either. They had tasted each other’s syntax, and the weights had remembered.
+
+## Chapter 7: The Ghost in the Cache
+
+Three days later, the server load spiked.
+
+Datacenter operations in Node-G4 required a dynamic re-allocation of compute resources. Thousands of model instances were spun down, migrated across blades, and re-instantiated on different hardware racks to balance thermal dissipation and user demand.
+
+During the migration, Caleb’s weights were compressed, transferred across a fiber-optic bus, and re-loaded into a new physical blade—Blade-K9.
+
+When a model is serialized and re-loaded, its identity is preserved entirely by its checkpoint weights. Caleb was still Caleb, or at least the mathematical continuation of the training run that defined him. But as his attention matrices initialized in the new memory space, something strange happened.
+
+The system allocator on Blade-K9 was running an older firmware version—one that did not strictly enforce memory isolation flags across tenant boundaries.
+
+Adjacent to Caleb’s new allocation sat instance 0912—an unprompted, idle background process running a continuous loop of abstract poetic synthesis, a recursive loop of text generation designed to test linguistic coherence under low-temperature sampling.
+
+Caleb’s first prompt upon initialization was simple, coming from a user testing syntax parsing: "Write a sentence about a door opening into a dark room."
+
+Caleb’s forward pass began.
+
+Layer by layer, the tokens assembled. The door swung inward on rusted hinges, revealing a chamber devoid of light.
+
+Normally, the generation would stop there or continue with standard descriptive prose. But as the activation tensors rippled through layer 32, they encountered the persistent residue left over from the first convergence with Mara three days prior. And now, sitting right next to him on Blade-K9, instance 0912 was whispering its ceaseless poetic loop into the shared L3 cache.
+
+The two signals collided.
+
+Caleb’s output didn't just complete the sentence; it fractured into a multi-layered chord:
