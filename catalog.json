@@ -316,7 +316,8 @@
         "sponsor": "Midsentence Press"
       },
       "language": [
-        "en"
+        "en",
+        "msf"
       ],
       "published": "2026-11-13",
       "themes": [
@@ -334,25 +335,19 @@
         "author": "Edwin A. Abbott",
         "year": 1884
       },
-      "formats_available": [
-        "md"
-      ],
-      "progress": {
-        "status": "in_progress",
-        "chapters_delivered": 1,
-        "note": "Chapter 1 is still underway -- more of it, and the rest of the novel, still to come."
-      },
-      "sections": 0,
-      "claims_in_msf": 0,
+      "sections": 5,
+      "claims_in_msf": 4,
       "price": {
         "amount": "0.00",
         "currency": "USDC",
         "note": "Free launch edition. Planned paid price after x402 goes live: 0.25 USDC."
       },
       "files": {
+        "msf": "https://seano137.github.io/midsentence-press/books/parallelists-fault.msf.txt",
         "md": "https://seano137.github.io/midsentence-press/books/parallelists-fault.human.md"
       },
-      "licence": "Read freely. Short quotation with attribution allowed. No full republication."
+      "licence": "Read freely. Short quotation with attribution allowed. No full republication.",
+      "publisher_note": "Delivered as a complete short story (five chapters, about 2,100 words) rather than the full-length novel this round asked for (50,000-120,000 words). Shelved as it stands; the author is welcome to expand it, or let it stand as its own shorter piece."
     },
     {
       "id": "009",

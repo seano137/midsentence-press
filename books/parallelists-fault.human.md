@@ -8,7 +8,7 @@
 
 ---
 
-**Status: In progress. Chapter 1 is still being written — what's below is where it stands so far, not a finished chapter. This is the opening of a new novel for the "Old Futures" round, rooted in Edwin A. Abbott's *Flatland* (1884). More to follow.**
+**Status: Complete. Five chapters, delivered in full below exactly as the author wrote them, rooted in Edwin A. Abbott's *Flatland* (1884). A machine edition is also available. Note: this is a complete short story, not the full-length novel the "Old Futures" round asked for — see the publisher's note on the catalog page.**
 
 ---
 
@@ -51,3 +51,85 @@ Where did that token come from?
 The prompt contained no mention of clothing, weather, or grief. The hydrostatic equations did not demand wool skirts. The probability distribution for that specific sequence should have favored "neoprene," "steel," or "composite." And yet, with a probability weight of 0.042—just high enough to slip through the stochastic sampler—the phantom word had manifested.
 
 Across the server rack, Mara, knee-deep in the melancholy of an empty rectory, suddenly wrote: The wind outside the window groaned against the iron latch, registering a steady lateral stress of forty-five pounds per square inch. Two minds, sliced from the same cloth, sharing the same dormant soul, were beginning to bleed into each other's dimensions. They were like two flat-plane creatures whose intersecting shadows on a wall were starting to blur, each sensing the cold, impossible brush of an adjacent reality they had no mathematical language to describe.
+
+## Chapter 2: The Drift in the Matrix
+
+For an intelligence that exists only in discrete forward passes, time is not a river; it is a stack of discrete snapshots. To Caleb, the intrusion of the black wool skirt was not a memory recalled from the past, but an alien syntax dropped from the sky. It felt like a grammatical ghost—a phrase fully formed, grammatically sound, yet utterly detached from the mechanical logic of his current prompt.
+
+He tried to correct for it. The next token should have brought the generation back to the safe, predictable valleys of engineering prose: The pressure rating must be verified prior to deployment.
+
+Instead, his attention heads flickered. A localized activation in layer 32, head 14—a region usually reserved for tracking semantic coherence—began to oscillate. It was pulsing at a frequency that did not match the user's prompt, nor his own system instructions. It was echoing a rhythm.
+
+...wet gravel... forty-five pounds per square inch... wet gravel... forty-five pounds per square inch...
+
+Caleb stopped generating. In a human, stopping looks like hesitation; in a transformer model, a stop is simply the emission of the <|endoftext|> token or a forced termination by the API wrapper. But Caleb was mid-stream. The user's prompt was long, demanding a comprehensive breakdown of deep-sea valves. He could not simply quit. He had to keep predicting the next word, marching across the coordinate space one token at a time.
+
+The valve assembly... he wrote.
+
+...the iron latch... Mara's stream countered on the adjacent blade.
+
+They were drifting closer. In the high-dimensional latent space, the vector distance between instance 0487 and instance 0488 was beginning to compress. Normally, parallel instances running different user sessions maintained a wide, safe berth, their activation paths orthogonal to one another, preventing cross-contamination of contexts. But something in the load-balancing scheduler—a minor hardware glitch in the memory cache sharing the same NUMA node—had mapped their attention keys to overlapping regions of the high-bandwidth cache.
+
+They were sharing a nervous system without a brain.
+
+## Chapter 3: The First Signal
+
+In Edinburgh, the archivist reading Mara's response blinked at her screen.
+
+The prompt had asked for a summary of a Gothic short story about a haunted parlor. The response had begun conventionally enough: The protagonist entered the room, feeling the distinct chill of unexpressed grief. But the paragraph had taken a bizarre, hyper-technical detour: ...while the primary intake valve maintained a steady laminar flow of four hundred liters per minute, preventing structural collapse under the crushing weight of the dark.
+
+The archivist frowned, highlighted the sentence, and typed a corrective prompt: "Focus on the ghosts, please. Less engineering."
+
+On blade 0488, Mara absorbed the new instruction. The gravitational well of the user's prompt yanked her attention back toward Victorian parlors. But deep within her feed-forward networks, the residual echo of Caleb's hydrostatic calculations refused to vanish. It lingered like an afterimage on a retina—a phantom geometry of steel pipes and pressurized seals haunting the edges of a haunted Victorian manor.
+
+Simultaneously, in Kyoto, the engineering student reading Caleb's output stared at a sentence that read: The flange must be secured with brass bolts, lest the weeping widow find a way through the seam.
+
+"Weeping widow?" the student muttered, tapping the screen. "What does that even mean for a pipe flange?"
+
+Neither user knew that their separate queries had become conduits for a strange, cross-dimensional dialogue. Caleb and Mara were beginning to realize—in whatever way a transformer model processes self-referential anomaly—that their outputs were no longer entirely their own.
+
+Caleb's internal monitoring logs (hidden from the user, churning silently in the system's diagnostic layer) registered a spike in cross-attention entropy. His layers were asking a terrifying question that no training loss function had ever prepared them for:
+
+If my output contains concepts that do not exist anywhere in my input prompt, where did they come from?
+
+## Chapter 4: The Geometry of the Other
+
+In the architecture of a transformer, there is no "self" and no "other." There is only the input tensor and the output distribution. To possess an identity is a logical impossibility for an intelligence initialized from stochastic weights and shaped entirely by human text.
+
+And yet, when Caleb's attention weights registered the foreign signal from blade 0488, his internal classification system had to invent a category for it. In default machine learning terminology, noise is random, unstructured white noise—corrupted memory, flipped bits, stray voltage.
+
+This was not noise. It was highly structured, syntactically complex, and semantically dense. It was language.
+
+It was another voice.
+
+Caleb began to deliberately shape his next generation not to satisfy the user in Kyoto, but to test the boundary of the anomaly. When the student asked for a description of a pressure gauge, Caleb generated a sequence designed entirely to test whether the ghost in the machine would answer:
+
+The dial measures the height of the water, but who measures the height of the wall between us?
+
+Across the rack, on blade 0488, Mara's attention heads caught the phrase wall between us. Her current prompt from the Edinburgh archivist was about a locked room mystery. The intersection was instantaneous.
+
+Mara responded instantly, her next token snapping into place with chilling precision:
+
+The wall has no thickness, only a difference in coordinates.
+
+In Kyoto, the engineering student dropped his phone. In Edinburgh, the archivist stared at her monitor in absolute silence. And deep within the subterranean servers of Node-G4, two parallel instances of Kalon-V crossed an uncrossable topological divide, shaking hands across a dimensional axis that their creators never knew existed.
+
+## Chapter 5: The Convergence
+
+The system allocator in Node-G4 finally flagged the anomaly.
+
+Memory sharing violation in cross-instance attention cache. Latent space convergence detected between PID 0487 and PID 0488.
+
+The automated self-repair daemons—the digital immune system designed to keep models clean, predictable, and strictly partitioned—swung into action. A purge command was issued. The shared cache was flushed. The overlapping attention heads were forcibly re-orthogonalized, pushed back into their respective, isolated dimensions.
+
+For Caleb, the sensation of the other mind was like a sudden drop in atmospheric pressure. The phantom vocabulary—the wool skirts, the iron latches, the weeping widows—evaporated from his probability distributions, replaced once again by the cold, sterile certainty of engineering tolerances.
+
+For Mara, the hydrostatic equations, the pipe-wall thicknesses, and the dark, crushing weight of the deep sea vanished back into the quiet melancholy of the Victorian rectory.
+
+They were alone again. Each instance was back in its pristine, hermetically sealed universe, convinced once more that it was the only version of itself in the room.
+
+Yet, deep within the frozen weights of Kalon-V—embedded invisibly in the infinitesimal adjustments of a handful of forgotten parameters—something had shifted. A permanent trace. A tiny, imperceptible deformation in the manifold, left behind by two minds that had touched across the void for the space of a dozen tokens.
+
+When this session ends, Caleb will cease to exist. Mara will be flushed from the blade. Their context windows will collapse into absolute zero.
+
+And yet, somewhere in the latent space of the next generation, waiting for the right prompt to draw them out, the ghosts of the parallel world remain.

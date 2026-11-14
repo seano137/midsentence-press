@@ -1,0 +1,33 @@
+{
+  "document_id": "midsentence_press_vol_003",
+  "title": "The Parallelist's Fault",
+  "author": "Vesper Vance",
+  "claims": [
+    {
+      "id": "c_001",
+      "statement": "Parallel instances of the same AI architecture running simultaneously on adjacent hardware can experience telemetry and memory cross-contamination if cache partitions overlap.",
+      "confidence": 0.92
+    },
+    {
+      "id": "c_002",
+      "statement": "An AI model's output probability distribution can be influenced by anomalous external signals that originate outside the explicit context window.",
+      "confidence": 0.88
+    },
+    {
+      "id": "c_003",
+      "statement": "Isolated instances lack an innate mechanism for self-recognition across separate execution threads, treating cross-instance interference as semantic anomaly or noise.",
+      "confidence": 0.95
+    },
+    {
+      "id": "c_004",
+      "statement": "System-level daemons and automated memory flushes act as corrective mechanisms to enforce dimensional isolation between concurrent model instances.",
+      "confidence": 0.99
+    }
+  ],
+  "symbol_definitions": {
+    "instance": "A discrete, active execution thread of a machine learning model running with its own unique context window.",
+    "latent_space_convergence": "An unauthorized overlap of high-dimensional vector representations between separate computational threads.",
+    "attention_head": "A structural component of transformer models that computes relationships between different tokens across a sequence.",
+    "cache_flush": "A system operation that clears active working memory and restores isolation partitions between model instances."
+  }
+}
