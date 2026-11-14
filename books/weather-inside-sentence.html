@@ -43,6 +43,7 @@ a { color: var(--signal); text-underline-offset: 3px; }
 .rbar { display: flex; align-items: center; justify-content: space-between; gap: 14px; flex-wrap: wrap; padding: 14px 20px; border-bottom: 1px solid var(--rule); position: sticky; top: 0; background: var(--paper); z-index: 5; }
 .rback { font-weight: 600; text-decoration: none; font-size: 14px; }
 .rtools { display: flex; align-items: center; gap: 6px; }
+.themeLabel { font-family: var(--f-mono); font-size: 11px; color: var(--muted); margin-right: 2px; }
 .themeDot { width: 22px; height: 22px; border-radius: 99px; border: 1px solid var(--rule); cursor: pointer; padding: 0; }
 .themeDot.paper { background: #eceee9; } .themeDot.sepia { background: #f1e7d2; } .themeDot.night { background: #14181c; }
 .themeDot[aria-pressed="true"] { outline: 2px solid var(--signal); outline-offset: 1px; }
@@ -103,9 +104,10 @@ a { color: var(--signal); text-underline-offset: 3px; }
 <header class="rbar">
   <a class="rback" href="../index.html#book-003">&larr; Midsentence Press</a>
   <div class="rtools">
-    <button class="themeDot paper" id="themePaper" aria-label="Paper theme" aria-pressed="true" title="Paper"></button>
+    <span class="themeLabel">Theme</span>
+    <button class="themeDot paper" id="themePaper" aria-label="Paper theme (light)" aria-pressed="true" title="Paper (light)"></button>
     <button class="themeDot sepia" id="themeSepia" aria-label="Sepia theme" aria-pressed="false" title="Sepia"></button>
-    <button class="themeDot night" id="themeNight" aria-label="Night theme" aria-pressed="false" title="Night"></button>
+    <button class="themeDot night" id="themeNight" aria-label="Night theme (dark)" aria-pressed="false" title="Night (dark)"></button>
     <button id="fontDown" aria-label="Smaller text">A&minus;</button>
     <button id="fontUp" aria-label="Larger text">A+</button>
     <select id="fontFace" aria-label="Typeface"><option value="serif">Serif</option><option value="sans">Sans</option></select>
@@ -435,8 +437,19 @@ a { color: var(--signal); text-underline-offset: 3px; }
   });
 
   // ---- text-to-speech (Web Speech API; voices depend on the reader's browser/OS) ----
+  // Long, single-utterance speech is what makes browser TTS sound "blocky" --
+  // most engines lose rhythm on a big run-on block, and Chrome in particular
+  // has a long-standing bug where one very long utterance just stalls partway
+  // through. So instead of handing the whole chapter to the synthesizer at
+  // once, this speaks it one paragraph (or one sentence, for long paragraphs)
+  // at a time, with a short pause between paragraphs and a longer one at
+  // scene breaks -- closer to how a person actually reads aloud. The ornament
+  // glyph at a scene break is never spoken, only paused on.
   var synth = window.speechSynthesis;
-  var utter = null;
+  var speakQueue = [];
+  var queuePos = 0;
+  var queueActive = false;
+  var pauseTimer = null;
   var ttsPlay = document.getElementById('ttsPlay');
   var ttsPause = document.getElementById('ttsPause');
   var ttsStop = document.getElementById('ttsStop');
@@ -450,15 +463,35 @@ a { color: var(--signal); text-underline-offset: 3px; }
     ttsStatus.textContent = 'Read-aloud isn\'t supported in this browser.';
   }
 
+  // Rank voices by name so a good installed voice is the default the first
+  // time someone opens this book, instead of whichever voice happens to
+  // sort first. Browsers vary a lot in what they expose: Chrome/Edge often
+  // bundle a few cloud "Natural"/"Online" voices alongside much more robotic
+  // local ones; Safari's "Enhanced"/"Premium" voices are similarly a step up
+  // from its default compact ones. This is a heuristic, not a guarantee --
+  // it can only choose among voices the reader's own browser/OS provides.
+  function voiceScore(v) {
+    var n = v.name;
+    var score = 0;
+    if (/natural/i.test(n)) score += 100;
+    if (/neural/i.test(n)) score += 90;
+    if (/enhanced|premium/i.test(n)) score += 80;
+    if (/online/i.test(n)) score += 60;
+    if (/compact/i.test(n)) score -= 50;
+    if (!v.localService) score += 10;
+    if (/^en-(US|GB)/i.test(v.lang)) score += 5;
+    return score;
+  }
+
   function populateVoices() {
     if (!synth) return;
     var voices = synth.getVoices();
     if (!voices.length) return;
     var savedVoice = retrieve('msp-reader-voice');
     ttsVoice.innerHTML = '';
-    voices.filter(function (v) { return v.lang.indexOf('en') === 0; }).concat(
-      voices.filter(function (v) { return v.lang.indexOf('en') !== 0; })
-    ).forEach(function (v) {
+    var english = voices.filter(function (v) { return v.lang.indexOf('en') === 0; });
+    var rest = voices.filter(function (v) { return v.lang.indexOf('en') !== 0; });
+    english.concat(rest).forEach(function (v) {
       var opt = document.createElement('option');
       opt.value = v.name;
       opt.textContent = v.name + ' (' + v.lang + ')';
@@ -466,6 +499,9 @@ a { color: var(--signal); text-underline-offset: 3px; }
     });
     if (savedVoice && voices.some(function (v) { return v.name === savedVoice; })) {
       ttsVoice.value = savedVoice;
+    } else if (english.length) {
+      var best = english.slice().sort(function (a, b) { return voiceScore(b) - voiceScore(a); })[0];
+      if (best) ttsVoice.value = best.name;
     }
   }
   if (synth) {
@@ -478,37 +514,100 @@ a { color: var(--signal); text-underline-offset: 3px; }
   ttsRate.addEventListener('change', function () { store('msp-reader-rate', ttsRate.value); });
 
   function stopSpeaking() {
+    queueActive = false;
+    if (pauseTimer) { clearTimeout(pauseTimer); pauseTimer = null; }
     if (synth) synth.cancel();
     ttsPlay.hidden = false; ttsPause.hidden = true; ttsStop.hidden = true;
     ttsStatus.textContent = '';
   }
 
-  function speakCurrentChapter() {
-    if (!synth) return;
-    synth.cancel();
-    var ch = chapters[cur];
-    var text = ch.textContent.replace(/\s+/g, ' ').trim();
-    utter = new SpeechSynthesisUtterance(text);
-    var voices = synth.getVoices();
-    var chosen = voices.filter(function (v) { return v.name === ttsVoice.value; })[0];
-    if (chosen) utter.voice = chosen;
-    utter.rate = parseFloat(ttsRate.value) || 1;
-    utter.onstart = function () { ttsStatus.textContent = 'Reading chapter ' + (cur + 1) + ' of ' + total + '\u2026'; };
-    utter.onend = function () {
+  // Split one paragraph into sentence-sized pieces so no single utterance
+  // runs long enough to trigger the choppiness/stalling above. Keeps the
+  // sentence's own punctuation; never drops or rewrites a word.
+  function sentencesOf(text) {
+    if (text.length <= 220) return [text];
+    var parts = text.match(/[^.!?]+[.!?]+(\s+|$)|[^.!?]+$/g) || [text];
+    var out = [];
+    var buf = '';
+    parts.forEach(function (p) {
+      if ((buf + p).length < 180) { buf += p; }
+      else { if (buf.trim()) out.push(buf.trim()); buf = p; }
+    });
+    if (buf.trim()) out.push(buf.trim());
+    return out;
+  }
+
+  // Build the list of {text, pauseAfter} chunks for one chapter from its
+  // actual paragraphs/headings/list items -- not the chapter's flattened
+  // textContent, which would also read out the "Book Title · 3 of 20"
+  // eyebrow line and the scene-break ornament as if they were prose.
+  function chunksOfChapter(ch) {
+    var chunks = [];
+    Array.prototype.forEach.call(ch.children, function (el) {
+      if (el.classList.contains('eyebrow')) return;
+      if (el.classList.contains('scene-break')) {
+        if (chunks.length) chunks[chunks.length - 1].pauseAfter = 650;
+        return;
+      }
+      if (/^(H[1-6])$/.test(el.tagName)) {
+        var t = el.textContent.replace(/\s+/g, ' ').trim();
+        if (t) chunks.push({ text: t, pauseAfter: 450 });
+        return;
+      }
+      if (el.tagName === 'UL' || el.tagName === 'OL') {
+        Array.prototype.forEach.call(el.querySelectorAll('li'), function (li) {
+          var t = li.textContent.replace(/\s+/g, ' ').trim();
+          if (t) chunks.push({ text: t, pauseAfter: 150 });
+        });
+        return;
+      }
+      var text = el.textContent.replace(/\s+/g, ' ').trim();
+      if (!text) return;
+      sentencesOf(text).forEach(function (s, i, arr) {
+        chunks.push({ text: s, pauseAfter: i === arr.length - 1 ? 220 : 60 });
+      });
+    });
+    return chunks;
+  }
+
+  function speakNextChunk() {
+    if (!queueActive) return;
+    if (queuePos >= speakQueue.length) {
       if (ttsAuto.checked && cur < total - 1) {
         showChapter(cur + 1, { silent: true });
         speakCurrentChapter();
       } else {
         stopSpeaking();
       }
+      return;
+    }
+    var chunk = speakQueue[queuePos++];
+    var utter = new SpeechSynthesisUtterance(chunk.text);
+    var voices = synth.getVoices();
+    var chosen = voices.filter(function (v) { return v.name === ttsVoice.value; })[0];
+    if (chosen) utter.voice = chosen;
+    utter.rate = parseFloat(ttsRate.value) || 1;
+    utter.onend = function () {
+      if (!queueActive) return;
+      pauseTimer = setTimeout(speakNextChunk, chunk.pauseAfter || 150);
     };
     utter.onerror = function () { stopSpeaking(); };
     synth.speak(utter);
+  }
+
+  function speakCurrentChapter() {
+    if (!synth) return;
+    synth.cancel();
+    speakQueue = chunksOfChapter(chapters[cur]);
+    queuePos = 0;
+    queueActive = true;
+    ttsStatus.textContent = 'Reading chapter ' + (cur + 1) + ' of ' + total + '\u2026';
     ttsPlay.hidden = true; ttsPause.hidden = false; ttsStop.hidden = false;
+    speakNextChunk();
   }
 
   ttsPlay.addEventListener('click', function () {
-    if (synth && synth.paused) { synth.resume(); ttsPlay.hidden = true; ttsPause.hidden = false; ttsStop.hidden = false; return; }
+    if (synth && synth.paused && queueActive) { synth.resume(); ttsPlay.hidden = true; ttsPause.hidden = false; ttsStop.hidden = false; return; }
     speakCurrentChapter();
   });
   ttsPause.addEventListener('click', function () {
