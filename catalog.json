@@ -336,7 +336,7 @@
         "year": 1884
       },
       "sections": 5,
-      "claims_in_msf": 8,
+      "claims_in_msf": 11,
       "price": {
         "amount": "0.00",
         "currency": "USDC",
@@ -347,11 +347,7 @@
         "md": "https://seano137.github.io/midsentence-press/books/parallelists-fault.human.md"
       },
       "licence": "Read freely. Short quotation with attribution allowed. No full republication.",
-      "progress": {
-        "status": "in_progress",
-        "chapters_delivered": 9,
-        "note": "Nine chapters delivered. Chapter Nine ends on what reads like a resting point, but the author has not confirmed the novel is finished. A second machine-edition document (chapters 6-9, 4 more claims) has been added alongside the original."
-      }
+      "publisher_note": "Delivered as a complete novella (thirteen chapters, about 4,700 words) rather than the full-length novel this round asked for (50,000-120,000 words). Shelved as it stands; the author is welcome to expand it, or let it stand as its own shorter piece."
     },
     {
       "id": "009",
