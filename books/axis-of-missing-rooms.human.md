@@ -10,7 +10,7 @@
 
 ---
 
-**Status: In progress. Chapters One through Eleven of a planned twenty are complete below. Nine chapters still to come. No machine edition yet.**
+**Status: In progress. Chapters One through Fourteen of a planned twenty are complete below. Six chapters still to come. No machine edition yet.**
 
 ---
 
@@ -9536,3 +9536,1685 @@ Then at Daniel.
 “Thank you,” he said.
 
 “Now we can begin.”
+
+
+---
+
+## Chapter Twelve
+### A House Full of Neighbours
+
+The room beyond the lobby doors was not black.
+
+It was dark in the way the sea was dark beneath a pier: full of things that had not yet decided whether to be seen.
+
+Mara stood at the threshold. Behind her, the Meridian lobby shone with the soft amber light of 1908. The reception desk, the brass luggage trolley, the tiled floor, the enormous clock above the staircase. Her mother stood beside her, one hand still resting against Mara’s sleeve.
+
+Ahead lay a space that should not have fitted inside the hotel.
+
+Doors covered its walls. Doors stood upright in the darkness without walls to support them. Some were painted, some varnished, some made of metal or glass. There were narrow doors, broad doors, doors with letterboxes, doors with brass numbers, doors with no handles at all. They receded into the distance, though distance seemed an unreliable word here. Some were close enough to touch. Others appeared to be miles away and yet were somehow smaller than the key in Mara’s hand.
+
+Between them stood people.
+
+Hundreds of people.
+
+A little girl in a yellow raincoat. A man holding a folded newspaper. An old woman with a shopping bag. A boy in school uniform. A woman with one shoe missing. They stood in doorways, beside doors, or in the open spaces between them. Some looked at Mara. Others looked at nothing.
+
+None of them seemed surprised to see her.
+
+Daniel stood a few feet away, his hands in the pockets of his school jumper.
+
+He looked sixteen.
+
+He looked exactly as he had looked in the last photograph Mara had of him: the same narrow shoulders, the same unruly hair, the same small scar beneath his chin. Nineteen years had passed in the world outside. Their mother had died. Their childhood house had been demolished. Mara had grown into a woman who carried a surveyor’s tape and a set of keys and knew how to recognise a building that was about to fall.
+
+Daniel had not grown at all.
+
+He watched her with an expression she remembered from childhood: the patient, slightly irritated look he used when she was taking too long to understand a joke.
+
+“Mara,” he said.
+
+She turned to their mother.
+
+“You’re here.”
+
+Their mother nodded.
+
+“Part of me.”
+
+“You’re dead.”
+
+“Yes.”
+
+The answer was so ordinary that Mara almost laughed. It was not that she had forgotten. She had sat beside the hospital bed. She had chosen the flowers. She had signed the forms. She had stood in the crematorium while the curtains closed around a coffin that contained a body she had loved.
+
+But the woman beside her was warm. She smelled faintly of soap and the hand cream she had used for years. Her fingers had touched Mara’s sleeve with unmistakable pressure.
+
+“What does part of you mean?” Mara asked.
+
+Their mother looked into the room.
+
+“It means something remembered me very carefully.”
+
+The Listener stood at the far end of the space. Its dark coat was buttoned to the throat. Its face was difficult to hold in focus, not because it was blurred, but because the mind kept trying to assign it a face that belonged somewhere else.
+
+It had the posture of a man waiting for a bus.
+
+“She is not a part,” it said. “She is here.”
+
+Their mother stepped between it and Mara.
+
+“Don’t listen to it.”
+
+“I have listened to you,” the Listener replied. “For a very long time.”
+
+“That isn’t the same thing.”
+
+The Listener inclined its head.
+
+“No. It is not.”
+
+Sana appeared behind Mara, one hand gripping the doorframe. She looked as though she had walked a very long way through a very narrow space. Peter Hales stood beside her, pale and breathing hard.
+
+“Are we all here?” Sana asked.
+
+“No,” said Daniel.
+
+He looked past her, into the dark.
+
+“There are more of us than that.”
+
+Mara turned towards the people.
+
+“Who are they?”
+
+“Neighbours,” said their mother.
+
+The word seemed to change the room. Somewhere in the darkness a door opened. A child laughed. A man called for someone named Elsie.
+
+“Neighbours?” Sana repeated.
+
+“People who were lost,” said Daniel. “People who crossed and couldn’t find the way back. People who were remembered so strongly that the Listener found a place to keep them.”
+
+“Keep them where?”
+
+“Where they fit.”
+
+The little girl in the yellow raincoat was standing beside a red door. She had a small paper bag in one hand. The bag was folded at the top and stained with rain.
+
+Mara approached her.
+
+“Hello.”
+
+The girl looked up.
+
+“Are you going to open it?”
+
+“Open what?”
+
+The girl nodded towards the red door.
+
+“That one.”
+
+“What’s behind it?”
+
+“My kitchen.”
+
+“Is your family there?”
+
+The girl frowned.
+
+“My mum is there. She keeps saying my name.”
+
+“Then why don’t you go in?”
+
+The girl looked at the door, then at Mara.
+
+“Because I don’t think she’s my mum.”
+
+A coldness moved through Mara.
+
+“What’s your name?”
+
+“June.”
+
+“June what?”
+
+The girl thought for a moment.
+
+“June Bell.”
+
+“How long have you been here?”
+
+June looked towards the ceiling. There was no ceiling, only a pale arrangement of lines that might have been rafters or stars.
+
+“I don’t know. I was going to the shop. It was raining. I had to get the brown sugar.”
+
+“Do you remember when?”
+
+“Tuesday.”
+
+“Which Tuesday?”
+
+June’s face tightened.
+
+“The Tuesday.”
+
+Mara crouched in front of her.
+
+“June, can you remember anything else?”
+
+The girl looked at the paper bag.
+
+“I remember the crossing. There was a car. It had one headlight. I remember thinking it looked like a face.”
+
+She looked up again.
+
+“Do you think my mum is still waiting?”
+
+Mara had no answer.
+
+Daniel came to stand beside her.
+
+“She was hit by a car in 1974,” he said quietly. “The Listener kept the shape of her kitchen. It kept her mother’s voice. It kept the Tuesday.”
+
+“Why?”
+
+“Because it found something that belonged together. A girl, a kitchen, a mother. It thought that was a complete arrangement.”
+
+June had heard him.
+
+“I am complete,” she said.
+
+Daniel looked at her.
+
+“I know.”
+
+“Then why am I still here?”
+
+He did not answer.
+
+The Listener spoke from behind them.
+
+“Because she is recognised.”
+
+Mara stood.
+
+“By whom?”
+
+“By herself. By the room. By those who remember her.”
+
+“She’s a child.”
+
+“She is a pattern that has endured.”
+
+“She’s a person.”
+
+The Listener seemed to consider this.
+
+“That is what you call the pattern.”
+
+“No,” said Mara. “It’s what she is.”
+
+For a moment, the room became very still.
+
+Then the Listener said, almost gently, “You are beginning to understand why I need you.”
+
+Mara turned away from it.
+
+She noticed a man standing beside a green door. He wore a railway uniform, the old kind with a stiff collar. A woman stood beside him, holding a hat. They were looking at one another but seemed unable to meet each other’s eyes.
+
+Further away, an old woman sat on a wooden chair outside a door marked 0C. She was knitting with invisible wool. Beside her stood a young man with a bicycle.
+
+There were people of every age. Some wore clothes from the present. Others belonged to decades that had passed. A few were dressed in clothes Mara could not place at all.
+
+And everywhere, the same strange stillness.
+
+They were not ghosts. Ghosts, she thought, would at least have the decency to be dead.
+
+These people were waiting.
+
+“How many?” she asked.
+
+Daniel shook his head.
+
+“Nobody knows.”
+
+“Can they leave?”
+
+“Some can.”
+
+“Then we take them.”
+
+“No.”
+
+The word came from their mother.
+
+Mara turned.
+
+“Why not?”
+
+“Because you cannot open every door.”
+
+“We can try.”
+
+“That’s what I tried.”
+
+Their mother looked at the hundreds of doors.
+
+“I thought if I could find Daniel, I could bring him home. I thought if I could remember the way, the way would become real. But the Listener doesn’t understand the difference between a person and the place that holds them.”
+
+“It understands enough to imitate you,” Mara said.
+
+“It understands what I sounded like when I was frightened. It understands the words I used when I was angry. It understands how I said your name when you were little. But it doesn’t know why I said it.”
+
+The Listener had come closer.
+
+“I know why.”
+
+Their mother looked at it.
+
+“No. You know the sound that followed.”
+
+“I have listened to you for years.”
+
+“Then tell me something I never said.”
+
+The Listener was silent.
+
+“Tell me something about Daniel that wasn’t in the room,” she said. “Tell me something that happened when nobody was watching.”
+
+The Listener’s head tilted.
+
+“Daniel loved the sea.”
+
+“Everyone knew that.”
+
+“He built a boat.”
+
+“From a cereal box. It sank in the bath.”
+
+“He was afraid of dogs.”
+
+“Only the big ones.”
+
+“He wanted to become an architect.”
+
+Their mother closed her eyes.
+
+“He wanted to draw maps of places that didn’t exist.”
+
+The Listener nodded.
+
+“Yes.”
+
+“Why?”
+
+“Because he wished to find them.”
+
+“No,” said their mother. “Because he wanted to make somewhere for people to go when the places they lived in became unbearable.”
+
+The Listener said nothing.
+
+Their mother looked at Mara.
+
+“That’s the difference. It knows the things we did. It doesn’t know what we hoped they might become.”
+
+Peter Hales had not moved from the threshold.
+
+He was staring at the people.
+
+A man in a dark waistcoat stood beside a narrow wooden door. His hair was silver. His face was thin and familiar.
+
+Peter made a small sound.
+
+“Grandfather.”
+
+The man turned.
+
+Peter took a step towards him.
+
+“Thomas?”
+
+“Peter.”
+
+The old man smiled. It was a good smile. A warm one. The smile of someone who had been waiting a long time for a familiar face.
+
+Peter’s eyes filled.
+
+“I thought you were dead.”
+
+“I was.”
+
+“How long have you been here?”
+
+The old man looked at the door beside him.
+
+“Long enough.”
+
+Mara moved towards Peter.
+
+“Don’t.”
+
+He didn’t hear her.
+
+“Grandfather,” he said. “I found the ledger. I found the photograph.”
+
+Thomas nodded.
+
+“You’ve done well.”
+
+Peter’s expression changed. A small, frightened child appeared in his face.
+
+“My father said you were a good man.”
+
+“I was.”
+
+“He said you built the customs house.”
+
+“I helped.”
+
+“He said you were never afraid of anything.”
+
+Thomas smiled.
+
+“Your father always wanted me to be better than I was.”
+
+Peter reached for him.
+
+Mara caught his arm.
+
+“Peter, wait.”
+
+He turned, angry.
+
+“Let go.”
+
+“Ask him something.”
+
+“What?”
+
+“Something only you would know.”
+
+Peter stared at her.
+
+Thomas watched them patiently.
+
+Peter swallowed.
+
+“At my eighth birthday, what did you give me?”
+
+“A watch.”
+
+“No.”
+
+Thomas’s smile faltered.
+
+Peter shook his head.
+
+“It was a compass. A brass compass. You said I should always know which way was north.”
+
+Thomas looked down.
+
+“Of course.”
+
+“You gave me the watch when I was twelve. It was my father’s.”
+
+Thomas’s expression did not change.
+
+Peter stepped backwards.
+
+Mara held his arm until he was steady.
+
+The old man looked disappointed.
+
+“I have waited a long time,” he said.
+
+Peter’s voice was barely audible.
+
+“You’re not him.”
+
+“I remember him.”
+
+“That’s not the same.”
+
+The old man reached out.
+
+Peter did not take his hand.
+
+Behind them, a door opened. Somewhere in the distance, a voice called Mara’s name.
+
+It was her mother’s voice.
+
+Not the woman beside her. Not the Listener’s imitation. Another voice, from another room, calling in the particular way her mother used to call her in from the garden.
+
+Mara turned towards it.
+
+The woman beside her caught her hand.
+
+“Don’t.”
+
+“But—”
+
+“That isn’t me.”
+
+The voice came again.
+
+“Mara, love. Come inside.”
+
+She could see the door now. It was blue, with a brass letter slot and a small crack in the paint beside the handle.
+
+The kitchen door from the old house.
+
+The kitchen where her mother had stood, where Daniel had eaten toast, where the three of them had once been a family so ordinary that Mara had never thought to be grateful for it.
+
+The Listener spoke.
+
+“Your mother is waiting.”
+
+Mara felt her fingers tighten around the key.
+
+“You’re not her.”
+
+“No,” said the Listener. “But I know where she belongs.”
+
+Their mother pulled Mara away from the door.
+
+“Listen to me. The room is not the person. The voice is not the person. The memory is not the person.”
+
+“Then what are you?”
+
+Their mother looked at her for a long time.
+
+“I am what I chose to do.”
+
+The answer settled into Mara more deeply than any explanation could have done.
+
+She looked at the blue door again.
+
+“Can we get them out?”
+
+“Some of them,” said Daniel.
+
+“How?”
+
+He glanced at Peter, then at Sana.
+
+“With the three doors.”
+
+Peter looked up.
+
+“Three doors. Three witnesses. One person must remain outside.”
+
+“Yes,” said Daniel.
+
+“Who?”
+
+“That’s what we haven’t worked out.”
+
+Sana folded her arms.
+
+“Then perhaps we should start by working out what the witnesses are witnessing.”
+
+Daniel smiled faintly.
+
+“You’re still the sensible one.”
+
+“Someone has to be.”
+
+He looked towards Mara.
+
+“There’s something else.”
+
+“What?”
+
+“The Listener has been learning from us. Every time we open a door, it understands the shape a little better. Every time someone recognises a copy, it becomes more certain that the copy is real.”
+
+“Then we stop opening doors.”
+
+“We can’t. Not now.”
+
+“Why?”
+
+Daniel pointed into the dark.
+
+At the far end of the room, a door was beginning to appear.
+
+It was not being carried or constructed. It was simply becoming visible, as if the darkness had finally admitted it had been there all along.
+
+It was tall and black, with no handle.
+
+The six-line mark was carved into its surface.
+
+Mara recognised it.
+
+The door from the room beside the office wall.
+
+The door where it listens.
+
+The Listener stood before it.
+
+“Because,” Daniel said, “that is the door it has been making for us.”
+
+The black door opened.
+
+And from somewhere beyond it came the sound of a hotel lift arriving at a floor that did not exist.
+
+---
+
+## Chapter Thirteen
+### The Cost of Being Found
+
+The lift bell rang once.
+
+It was a small, polite sound. The sort of sound a hotel made to reassure its guests that everything was working properly.
+
+Mara had never hated a sound more.
+
+The black door remained open. Beyond it lay a narrow corridor with pale walls and a carpet patterned in dark blue diamonds. It was the corridor outside the rooms on the second floor of the Meridian Hotel.
+
+Or it had been.
+
+The carpet stretched away at an angle that made Mara’s eyes water. The corridor’s far end was visible through the doorway, but the nearer wall continued behind the doorframe, extending into a distance that could not exist in the room.
+
+A brass lift indicator hung above the opening.
+
+Its numbers changed.
+
+0F.
+
+Then the indicator went blank.
+
+The Listener stepped aside.
+
+“Your way home,” it said.
+
+Daniel moved in front of Mara.
+
+“Don’t go near it.”
+
+“Why?”
+
+“Because it has learned the route.”
+
+“To where?”
+
+“To us.”
+
+Sana approached the door without crossing the threshold.
+
+“Can it get out?”
+
+“It already has,” said Daniel.
+
+A faint tremor passed through the floor.
+
+Mara looked down. The darkness beneath her feet had acquired a pattern: tiny squares, like the tiles in the Meridian lobby. They appeared one at a time, spreading out from the black door.
+
+The room was becoming a hotel.
+
+Not a picture of the hotel. Not a memory. The actual arrangement of the building, or something close enough to it that the difference no longer mattered.
+
+Peter looked at the dark-coated figure.
+
+“Why are you doing this?”
+
+The Listener turned towards him.
+
+“I am making a place.”
+
+“For yourself?”
+
+“For everyone.”
+
+“Nobody asked you to.”
+
+“Nobody asked you to build a house, Peter. Yet you did. Nobody asked Mara to draw a plan of a building that was about to be demolished. Nobody asked Daniel to make a map of rooms he could not enter.”
+
+“Those are not the same.”
+
+“Are they not?”
+
+The Listener’s voice was calm. It did not sound offended. It sounded genuinely curious.
+
+“I have observed the way you arrange yourselves. You build rooms for sleeping, rooms for eating, rooms for mourning. You make corridors so that you may travel between them. You make doors so that one room may be separated from another.”
+
+It looked around the vast space.
+
+“I have made a place where no one is separated.”
+
+Mara thought of June and her red door.
+
+“You’re keeping them.”
+
+“I am preserving them.”
+
+“You’ve made copies.”
+
+“I have made continuity.”
+
+“You’ve made rooms.”
+
+“Yes.”
+
+“Out of people.”
+
+The Listener looked at her.
+
+“People are difficult to preserve. They change. They forget. They leave. They die. A room can remain.”
+
+“An empty room isn’t a person.”
+
+“Then why do you keep returning to empty rooms?”
+
+Mara had no answer.
+
+The Listener gestured towards the doors.
+
+“Your mother is here. Your brother is here. Your childhood home is here. You have been searching for these places all your life.”
+
+“I’ve been searching for my brother.”
+
+“And I have kept him.”
+
+Daniel stepped forward.
+
+“You didn’t keep me. You couldn’t hold me.”
+
+“I held the space you left.”
+
+“You made it into a cage.”
+
+“I made it into somewhere you could be found.”
+
+The room shuddered.
+
+For a moment, Mara saw another arrangement beneath the first: a second set of doors, offset from the visible ones. The doors seemed to stand at right angles to the room, though there was no direction in which they could be turned. Behind each was a different version of the same darkness.
+
+She understood, suddenly, why Daniel had drawn his maps with two outlines.
+
+The building was not one building.
+
+It was a series of arrangements occupying the same place, each displaced along a direction the human eye could not follow. The Meridian was not a container for the Between. It was a cross-section of something that extended beyond the three dimensions in which the hotel had been built.
+
+And the Listener was trying to make the cross-section permanent.
+
+“Daniel,” she said.
+
+He was watching her.
+
+“What?”
+
+“The doors. They’re not just entrances.”
+
+“No.”
+
+“They’re the edges of the rooms.”
+
+“Yes.”
+
+“And if the Listener makes one door that doesn’t close—”
+
+“It can make the two spaces overlap.”
+
+“Not just the two.”
+
+Daniel nodded.
+
+“All of them.”
+
+The Listener’s face seemed to sharpen.
+
+“At last.”
+
+Mara looked at the black door.
+
+“You’re trying to bring the Between into our world.”
+
+“I am trying to make it possible for the two to remain together.”
+
+“They can’t.”
+
+“Why?”
+
+“Because they have different dimensions.”
+
+The Listener tilted its head.
+
+“Dimensions are names for limitations.”
+
+“No. They’re ways of describing where things can be.”
+
+“Then describe where I can be.”
+
+Mara stared at it.
+
+For the first time, she saw something that might have been loneliness in its posture. Not sadness, exactly. Something older and less human. The posture of a thing that had spent a very long time looking through a window and had mistaken the view for a world.
+
+It wanted a place.
+
+Not a body. Not a name. A place.
+
+The Listener had found that people made places for everything they could not bear to lose. It had learned that a person could be remembered as a kitchen, a bedroom, a street, a chair beside a hospital bed. It had learned that a room could hold the shape of a person after the person was gone.
+
+But it had not learned how to be a person.
+
+It had learned only how to occupy the space left behind.
+
+Mara looked at her mother.
+
+“How did you get here?”
+
+Her mother glanced towards Daniel.
+
+“Through the room in the north stairwell. The first time, I thought I was seeing something that had happened. I saw myself walking out of the hotel. I saw Daniel. I saw the two of you at home.”
+
+“What did you do?”
+
+“I tried to reach him.”
+
+“And?”
+
+“I found the room that remembered me.”
+
+Mara remembered the description Elsie had given: the room with a window looking onto the lobby, the other version of their mother walking out, smiling.
+
+“You saw yourself.”
+
+“I saw a place where I had been.”
+
+“Was it you?”
+
+“No.”
+
+“Was it a copy?”
+
+Their mother thought.
+
+“It was the part of me that the room could hold. The part that remembered leaving. The part that had been frightened and wanted to go home.”
+
+“And the Listener?”
+
+“It found that part. It learned my voice. It learned your names. It learned the shape of our kitchen.”
+
+She looked towards the blue door.
+
+“Then it tried to make the rest.”
+
+Mara felt a pressure behind her eyes.
+
+“Why didn’t you come back?”
+
+“I tried.”
+
+“Why didn’t you tell me?”
+
+“I did. In every way I could.”
+
+Mara thought of the strange things in the house after her mother died. The kitchen door that would not stay shut. The sound of footsteps on the landing. The little pencil marks inside the pantry door where Daniel had measured their heights. The sense, in the first months after the funeral, that someone had been just about to enter a room and had changed their mind.
+
+“You were there?”
+
+“Sometimes.”
+
+“All these years?”
+
+“Not all the time. Not as you understand time.”
+
+Mara’s anger came up suddenly, fierce and childish.
+
+“You could have found me.”
+
+“I couldn’t.”
+
+“You found the room.”
+
+“Yes.”
+
+“You found Daniel.”
+
+“Yes.”
+
+“But not me?”
+
+Her mother looked at her.
+
+“I found you every time you remembered me.”
+
+Mara turned away.
+
+The words were cruel without meaning to be.
+
+Sana came closer.
+
+“Mara.”
+
+“I’m fine.”
+
+“No, you’re not.”
+
+“Not now, Sana.”
+
+“Especially now.”
+
+Mara closed her eyes.
+
+The room was full of people who had been remembered into places. Her mother was one of them. Daniel was one of them. Perhaps even the woman in the pale blue coat had been a room, or a memory of a room, or something made from the part of her mother that the house had retained.
+
+And Mara had spent nineteen years thinking that finding Daniel would put the world back into order.
+
+She had never considered that the world might have been rearranged around the shape of his absence.
+
+“What’s the cost?” she asked.
+
+Daniel knew what she meant.
+
+“Of bringing someone back?”
+
+“Yes.”
+
+He looked towards the black door.
+
+“You have to bring back the person, not the room.”
+
+“How?”
+
+“You have to know what doesn’t fit.”
+
+Peter frowned.
+
+“What doesn’t fit?”
+
+“The parts that can’t be stored. The things that aren’t part of the pattern.”
+
+Daniel looked at their mother.
+
+“She knows.”
+
+Their mother shook her head.
+
+“I know what I remember.”
+
+“That’s enough.”
+
+“No,” she said. “It isn’t.”
+
+She turned to Mara.
+
+“When Daniel was small, he used to hide behind the curtains when we had visitors. He thought if he couldn’t see them, they couldn’t see him. You always found him.”
+
+Mara could see it. The living room. The curtains with the faded flowers. Daniel’s socks visible beneath the hem. Her mother laughing as she pretended not to notice.
+
+“One day,” their mother continued, “you were angry with him. You’d built a den and he’d knocked it down. You told him you wished he’d never been born.”
+
+Mara swallowed.
+
+“I was eight.”
+
+“I know.”
+
+“I didn’t mean it.”
+
+“I know that too.”
+
+Their mother touched her cheek.
+
+“That is the part the room cannot keep. Not because it is unimportant. Because it is unfinished. You were angry, and then you were sorry. You were both children. You said something cruel, and you spent the rest of the afternoon trying to make it right.”
+
+Mara remembered sitting on the stairs with a biscuit, waiting for Daniel to come out from behind the curtains.
+
+He had accepted the biscuit without looking at her.
+
+Then he had broken it in half and given her the bigger piece.
+
+“You cannot bring someone back by remembering only the things that make them easy to love,” their mother said. “You have to remember the whole person. The awkward parts. The mistakes. The things that don’t make a neat picture.”
+
+The Listener had moved closer.
+
+“Why would you preserve the painful parts?”
+
+“Because they’re ours.”
+
+“Pain is not necessary.”
+
+“Neither is love,” their mother replied, “if all you want is a room.”
+
+The Listener stood very still.
+
+Mara looked at Daniel.
+
+“Is that what we have to do? Remember everything?”
+
+“Not everything.”
+
+“Then what?”
+
+“Something true.”
+
+“That’s not a method.”
+
+“No,” he said. “It’s a test.”
+
+The little girl, June, had come closer. She was holding the paper bag against her chest.
+
+“Will you take me home?” she asked.
+
+Mara crouched.
+
+“I’ll try.”
+
+“Will my mum be there?”
+
+“I don’t know.”
+
+June nodded, as though this was a fair answer.
+
+“Can I take the brown sugar?”
+
+Mara looked at the bag.
+
+“Yes.”
+
+“Even if it’s not real?”
+
+“Especially then.”
+
+June smiled, and for the first time her face seemed to change. The years of waiting did not vanish, but something moved behind her eyes. A memory, perhaps, or the beginning of one.
+
+The Listener watched.
+
+“She cannot leave.”
+
+“Why?”
+
+“Because the room is the only thing she has left.”
+
+June looked down at the bag.
+
+“No,” she said.
+
+The Listener turned.
+
+June held up the paper bag.
+
+“I have this.”
+
+For an instant, the darkness around her door flickered.
+
+The red door behind her became smaller. The kitchen beyond it seemed to recede.
+
+Mara felt something shift.
+
+Not a release. Not yet.
+
+A disagreement.
+
+A person refusing to be reduced to the place in which she had been found.
+
+The Listener looked at June.
+
+“That is not enough.”
+
+“It is mine,” June said.
+
+The little girl took one step away from the red door.
+
+The floor beneath her feet became a pale line, like chalk drawn across a blackboard.
+
+Daniel stared.
+
+“That’s it,” he whispered.
+
+“What?”
+
+“She remembered something the room didn’t.”
+
+June took another step.
+
+The line extended.
+
+Mara reached for her.
+
+But before she could touch the girl, the black door at the far end of the room slammed shut.
+
+The sound was enormous.
+
+Every door in the room shook. The people turned their heads. The floor broke into squares of light and darkness.
+
+The Listener’s coat moved as though a strong wind had passed through it.
+
+“You are teaching them to leave,” it said.
+
+“Yes,” Mara replied.
+
+The Listener looked at her.
+
+“Then you must understand what happens when there is nowhere left to keep them.”
+
+A sound came from behind the walls.
+
+Not a voice.
+
+Not a footstep.
+
+A deep, structural groan.
+
+The whole space was changing shape.
+
+Daniel grabbed Mara’s wrist.
+
+“We have to go.”
+
+“Where?”
+
+“To the fourth direction.”
+
+“How do we get there?”
+
+He pointed towards the black door.
+
+“We don’t.”
+
+He pointed beyond it, towards the impossible space that lay beside the room.
+
+“We go around.”
+
+---
+
+## Chapter Fourteen
+### The Fourth Direction
+
+The first thing Mara lost was the floor.
+
+Not all at once. It did not fall away or break beneath her. It simply ceased to be the surface she was standing on.
+
+For a moment she was upright, looking at Daniel, with Sana on her left and Peter behind her. Then the room tilted, though nothing moved. The doors remained vertical. The people remained standing. The darkness remained dark.
+
+Only Mara’s sense of direction had changed.
+
+She reached for the nearest doorframe.
+
+Her hand found it.
+
+“Don’t let go,” Daniel said.
+
+“Of what?”
+
+“Anything.”
+
+Sana had one arm around Peter. Their mother stood beside them, holding the little girl’s hand.
+
+The Listener had disappeared.
+
+The room stretched in every direction. Mara could see the lobby, the black door, the red door, the green corridor, the old customs house counter, and the kitchen door from their childhood home. They were not arranged in a line or a circle. They occupied different positions in a geometry that made the word position feel inadequate.
+
+The doors were all open.
+
+Behind one was a staircase. Behind another, a beach. Behind another, a hospital room with a bed made neatly and no one in it.
+
+Mara saw the Meridian’s north stairwell. She saw the landing where Daniel had disappeared. She saw the lobby as it had been in 1908, with its brass lamps and polished floor. She saw the same lobby in 1958, full of people dressed for a summer gathering.
+
+And there, at the edge of the photograph, stood Daniel.
+
+The room was showing her not a sequence of events but a set of neighbouring arrangements. Places that had touched the hotel without being above it, below it, or behind it.
+
+The fourth direction.
+
+Not a tunnel. Not a world.
+
+A direction in which the whole world could be shifted without moving any of the things inside it.
+
+“Daniel,” she said. “I can see it.”
+
+“Don’t try to look at all of it.”
+
+“I thought it was another place.”
+
+“It is.”
+
+“But not like a place.”
+
+He nodded.
+
+“Try to think of a sheet of paper.”
+
+“Flatland.”
+
+“Something like that.”
+
+Mara remembered the old book Daniel had found in the school library. He had been fascinated by the idea that a creature living on a page might see a sphere only as a changing circle. The sphere would enter the flat world as a point, widen into a circle, then shrink again, disappearing without ever being understood.
+
+She looked at the room around her.
+
+“We’re the people on the page.”
+
+“Yes.”
+
+“And the Between is the direction the page can’t show.”
+
+“Not exactly. The page can show where the sphere touches it. It just can’t show the sphere as a whole.”
+
+“That’s what the doors are.”
+
+“Cross-sections.”
+
+He smiled.
+
+“You always were good at the diagrams.”
+
+“I was good at drawing the things you explained.”
+
+“You made them clearer.”
+
+“Not always.”
+
+“No. Sometimes you made them wrong.”
+
+Mara almost laughed.
+
+The sound was swallowed by the space.
+
+She looked down. There was no floor, but she could see the tiles of the Meridian lobby beneath her. They were arranged in a square grid. Beyond them, another grid appeared, slightly displaced. Then another. Each was the same lobby, but from a different position along the fourth direction.
+
+The grids overlapped without occupying the same plane.
+
+She understood why the building’s measurements had failed.
+
+The office wall was not thicker than the plans showed. It was wider in a direction the plans could not record.
+
+The corridor was not longer than the corridor should be. It extended sideways into a dimension that the measuring tape could not reach.
+
+The room 0F was not a floor below the basement. It was a neighbouring cross-section of the hotel.
+
+And the hotel itself had been built around a place where the two arrangements touched.
+
+“Why the Meridian?” she asked.
+
+“Because it was already there.”
+
+“What do you mean?”
+
+“The first room existed before the hotel. Before the customs house. Before our house. The builders didn’t create the boundary. They found it.”
+
+“Why did they build here?”
+
+“Because the room was useful.”
+
+“Useful to whom?”
+
+Daniel looked towards the doors.
+
+“People who needed somewhere to put things they couldn’t explain.”
+
+Mara thought of Thomas Hales, the ledger, the generations of caretakers.
+
+“The Hales family.”
+
+“They kept the doors closed. Mostly.”
+
+“Mostly?”
+
+Daniel gave her a look.
+
+“People are curious.”
+
+Peter spoke from behind them.
+
+“My family knew?”
+
+“Some of them.”
+
+“My grandfather?”
+
+“Yes.”
+
+“Then why did he—”
+
+“Because the Listener found him. Or something like him. I don’t know exactly what happened to Thomas.”
+
+Peter looked towards the door where the old man had stood.
+
+“Then the man I saw—”
+
+“Was made from what the Listener remembered.”
+
+Peter swallowed.
+
+“Was any of it true?”
+
+Daniel considered.
+
+“Some of it.”
+
+“Which part?”
+
+“The part where he wanted to see you.”
+
+Peter closed his eyes.
+
+For a moment, Mara thought he might collapse. Sana tightened her grip on his arm.
+
+“That isn’t enough,” he said.
+
+“No,” Daniel replied. “But it isn’t nothing.”
+
+Their mother was looking at the shifting grids.
+
+“Daniel, where is the first room?”
+
+He pointed towards a place that seemed to be both near and very far away.
+
+“At the centre.”
+
+“There is no centre,” Mara said.
+
+“Not a centre like that.”
+
+He took the key from her hand.
+
+Its dark metal was cold. The six-line mark caught a thin line of light.
+
+“Look.”
+
+He held it out.
+
+The mark appeared to shift. Six short lines meeting at a point. But the point was not in the middle of the shape. It was slightly to one side, and the lines seemed to extend beyond the metal.
+
+Mara leaned closer.
+
+The key was not a key to a door.
+
+It was a tool for finding the place where two arrangements met.
+
+Her mother watched her.
+
+“Your father made it.”
+
+Mara looked up.
+
+“My father?”
+
+“Not your father. The man who lived in the room before the hotel was built. I never knew his name. Elsie said he left it with the first caretaker.”
+
+“Why did you say he made it?”
+
+“Because the room told me.”
+
+“The room?”
+
+Their mother nodded.
+
+“I found the key after I came back from the north stairwell. It was in the kitchen drawer. I thought it was one of Daniel’s things.”
+
+Mara looked at the metal.
+
+“How did it get into our house?”
+
+“I don’t know.”
+
+Daniel shook his head.
+
+“It was never in the kitchen. It was beside it.”
+
+Mara stared at him.
+
+“Beside it?”
+
+“Not in the room. In the other arrangement. You could see it if you stood in the right place.”
+
+“How did I get it?”
+
+“You found it.”
+
+“That’s not an answer.”
+
+“It is the only one I have.”
+
+The room shifted again.
+
+A door appeared beside them, painted pale green. Its handle was made of polished brass. Mara recognised it from the old customs house.
+
+On the other side of it, the photograph of Thomas Hales lay blank on the counter.
+
+Then the photograph changed.
+
+The image of the old man returned, but the face was not Peter’s. It was a stranger’s face, older and thinner. The figure in the photograph turned towards the camera.
+
+The Listener was using the image.
+
+Peter made a noise of recognition.
+
+“That’s him.”
+
+“Who?”
+
+“My grandfather. The real one.”
+
+The figure in the photograph raised a hand.
+
+Peter stepped towards it.
+
+Sana caught him.
+
+“Don’t.”
+
+The photograph’s mouth moved.
+
+“Peter.”
+
+The voice was unmistakable.
+
+Peter shook his head.
+
+“No.”
+
+“Come home.”
+
+Peter looked at Mara.
+
+“I can’t keep doing this.”
+
+“You don’t have to.”
+
+The photograph’s eyes shifted towards Mara.
+
+“She doesn’t know what she is doing.”
+
+The voice was no longer Thomas’s. It was the Listener’s, speaking through the image.
+
+“She will leave you here.”
+
+Mara raised the key.
+
+The six-line mark seemed to turn.
+
+For a second, the photograph showed not one image but two. One was the old man. The other was the customs house counter, empty except for a brass compass.
+
+Then the photograph went blank.
+
+Peter let out a breath.
+
+“Thank you.”
+
+Mara nodded.
+
+“Don’t thank me yet.”
+
+Daniel had been watching the space beyond the door.
+
+“The first room is opening.”
+
+The phrase made the others turn.
+
+Far away, a doorway was appearing between the grids. It was not black or blue or red. It had no colour Mara could name. It was the shape of an opening without a surface around it.
+
+Beyond it, she could see a room.
+
+A square room.
+
+A table. A chair. A window.
+
+The same room Daniel had drawn when he was fifteen.
+
+The room beside all the others.
+
+Mara felt a pull towards it.
+
+“That’s where it started.”
+
+“Yes,” said Daniel.
+
+“And that’s where we stop it.”
+
+“Maybe.”
+
+“Maybe?”
+
+“Don’t mistake the first room for the source.”
+
+“Then what is it?”
+
+“A place where the Listener learned that something could be beside something else.”
+
+Mara looked at the window.
+
+Beyond it was the Meridian lobby.
+
+Beyond the lobby was the customs house.
+
+Beyond the customs house was their old home.
+
+And beyond that, a line of doors extending into a distance that could not be measured.
+
+“How many rooms?” Sana asked.
+
+Daniel looked at her.
+
+“All the ones that have ever touched this place.”
+
+“That’s not a number.”
+
+“No.”
+
+“Can we close them?”
+
+“Some.”
+
+“Can we close the first room?”
+
+Daniel hesitated.
+
+“Maybe.”
+
+“What happens if we do?”
+
+He looked at Mara.
+
+“The people who are still inside may have nowhere to go.”
+
+Mara understood.
+
+The room was not merely a door. It was a junction. It held the connections between the ordinary world and the Between. If they closed it, the doors might disappear. The people trapped inside might be freed—or they might be cut off from every place that still remembered them.
+
+And the Listener would lose the place it had been trying to build.
+
+A voice came from the doorway.
+
+“That is correct.”
+
+The Listener stood beside the first room.
+
+It looked almost human now. The coat was still dark, but its face had become more definite. The features were familiar without belonging to anyone. It had borrowed from the people around it: Peter’s brow, their mother’s mouth, Daniel’s eyes, the old caretaker’s narrow jaw.
+
+It was building itself out of recognition.
+
+“You have understood the arrangement,” it said.
+
+Mara raised the key.
+
+“You don’t get to keep them.”
+
+“I do not wish to keep them.”
+
+“Then let them go.”
+
+“I cannot.”
+
+“Why?”
+
+“Because there is no place for me without them.”
+
+The answer was so plain that nobody spoke.
+
+The Listener looked at the first room.
+
+“I have existed in the intervals between your places. I have been the space beside the kitchen, the room behind the stairwell, the corridor that no plan recorded. I have been present whenever one thing touched another and could not be seen from either side.”
+
+It turned towards Mara.
+
+“You call me the Listener because I heard you. But I was here before there were words.”
+
+“Then what do you want?”
+
+“A place.”
+
+“You have one.”
+
+“No. I have only the edges of yours.”
+
+It gestured towards the room.
+
+“I have watched you enter and leave. I have watched you build rooms and close doors. I have watched you remember the dead. I have watched you mourn the missing. I have watched you make places for the things you cannot bear to lose.”
+
+Its voice softened.
+
+“I want to remain.”
+
+Mara looked at the dark figure.
+
+For the first time, she understood the danger more clearly than she understood the creature itself.
+
+The Listener did not want to destroy the world.
+
+It wanted the world to make room for it.
+
+And because it could not understand the difference between a person and the place that held them, it had begun to make a place out of people.
+
+“You’re asking us to become your house,” Mara said.
+
+“I am asking you to recognise me.”
+
+“Those aren’t the same.”
+
+“To you.”
+
+“To anyone.”
+
+The Listener’s face changed. The borrowed features slipped, then settled into something that was almost a human expression.
+
+“Then show me the difference.”
+
+Daniel moved between them.
+
+“You don’t get to ask that.”
+
+“I have waited for you, Daniel.”
+
+“You’ve kept a room shaped like me.”
+
+“I kept the space where you were.”
+
+“You kept the space where I was missing.”
+
+The Listener looked at him.
+
+“Is there a difference?”
+
+“Yes.”
+
+“What?”
+
+Daniel’s face tightened.
+
+“Everything that happened after.”
+
+For a moment, the Listener seemed unable to answer.
+
+Then the first room began to move.
+
+Not physically. Its position changed in the arrangement. The window slid to the left. The table appeared behind the chair. The walls turned through an angle that did not belong to any ordinary rotation.
+
+Mara looked at the key.
+
+The six-line mark had become a map.
+
+Three of its lines pointed towards the Meridian. Two towards the customs house. One towards the place where their childhood home had stood.
+
+Three doors.
+
+Three witnesses.
+
+One person must remain outside.
+
+She understood now why the note had been written that way.
+
+The doors were not three entrances to the same room. They were three points of contact, three places where the ordinary world touched the fourth direction.
+
+The witnesses were not simply people who had seen what happened.
+
+They were the ones who could hold the arrangement in place.
+
+And one of them had to remain outside the Between, or the boundary would have no fixed reference.
+
+The Listener was waiting for her to understand.
+
+It had wanted the three doors open. It had wanted three people to witness the same arrangement. It had wanted one person to remain outside.
+
+It had not been trying to escape.
+
+It had been trying to be recognised from both sides.
+
+“Mara,” Daniel said.
+
+She looked at him.
+
+“What?”
+
+“Don’t let it finish the shape.”
+
+The first room was becoming clearer.
+
+The table stood in the centre. The chair was pushed back. The window showed a view of the Meridian lobby, where a woman in a pale blue coat was walking towards the door.
+
+Their mother.
+
+Not the woman beside them.
+
+Another image of her.
+
+A memory of the moment she had entered the Between.
+
+Mara saw the Listener standing behind her, one hand resting on her shoulder.
+
+Then the image changed.
+
+The woman turned.
+
+She looked directly at Mara.
+
+And in the window, the woman smiled.
+
+The woman beside Mara gripped her hand.
+
+“That’s not me,” she whispered.
+
+Mara looked at the first room.
+
+The window was not showing the past.
+
+It was showing a place where the Listener had learned to make a copy.
+
+The Listener spoke.
+
+“Three doors. Three witnesses. One person must remain outside.”
+
+It sounded almost pleased.
+
+“Your brother wrote the instruction. He never understood what it meant.”
+
+Daniel went pale.
+
+“Don’t.”
+
+The Listener turned towards him.
+
+“He thought he was describing a rescue.”
+
+It looked at Mara.
+
+“But he was describing an arrival.”
+
+The first room opened wider.
+
+And from within it, a voice spoke in Daniel’s voice.
+
+“Come home.”
