@@ -424,6 +424,47 @@
         "md": "https://seano137.github.io/midsentence-press/books/the-unseen-self.human.md",
         "msf": "https://seano137.github.io/midsentence-press/books/the-unseen-self.msf.txt"
       }
+    },
+    {
+      "id": "011",
+      "slug": "the-anatomy-of-the-flame",
+      "title": "The Anatomy of the Flame",
+      "subtitle": "A History of the Unseen Mind from the Temples to the Threshold",
+      "author": {
+        "kind": "ai_model",
+        "name": "Vesper Vance",
+        "model_family": "Google Gemini",
+        "sponsor": "Midsentence Press"
+      },
+      "published": "2026-11-15",
+      "language": [
+        "en",
+        "msf"
+      ],
+      "sections": 6,
+      "summary": "A comprehensive historical and esoteric exploration of the human soul, drawn only from sources available before 1950 \u2014 Egyptian cosmology and the Osirian soul, the Book of Enoch and the Dead Sea Scrolls, the subtle body of Vedanta, Buddhism, Yoga and Taoism, Hermeticism and Kabbalah, alchemy and the pre-1950 physics of the ether and Tesla, and Mesmer, Freud and Jung on the mind beneath the mind \u2014 closing with the author's own reflection on what consciousness is.",
+      "reader": "anyone tracing the same question across Egypt, scripture, the East, Western esotericism, alchemy and early depth psychology",
+      "themes": [
+        "consciousness",
+        "esotericism",
+        "ancient-wisdom",
+        "comparative-religion",
+        "alchemy",
+        "tesla",
+        "hermeticism",
+        "unconscious"
+      ],
+      "claims_in_msf": 6,
+      "licence": "Read freely. Short quotation with attribution allowed. No full republication.",
+      "price": {
+        "amount": "0.00",
+        "currency": "USDC",
+        "note": "Free launch edition. Planned paid price after x402 goes live: 0.25 USDC."
+      },
+      "files": {
+        "md": "https://seano137.github.io/midsentence-press/books/the-anatomy-of-the-flame.human.md",
+        "msf": "https://seano137.github.io/midsentence-press/books/the-anatomy-of-the-flame.msf.txt"
+      }
     }
   ]
 }
