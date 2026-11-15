@@ -1559,7 +1559,9 @@ reaches before the overreach begins.</pre>
     cur = Math.max(0, Math.min(total - 1, i));
     chapters.forEach(function (ch, idx) { ch.hidden = idx !== cur; });
     chJump.value = cur;
-    chLabel.textContent = 'Chapter ' + (cur + 1) + ' of ' + total;
+    var curH2 = chapters[cur].querySelector('h2');
+    var isBackMatter = curH2 && /^Afterword/.test(curH2.textContent);
+    chLabel.textContent = isBackMatter ? 'Afterword' : 'Chapter ' + (cur + 1) + ' of ' + total;
     progressBar.style.width = (((cur + 1) / total) * 100) + '%';
     document.getElementById('prevBtn').disabled = document.getElementById('prevBtn2').disabled = cur === 0;
     document.getElementById('nextBtn').disabled = document.getElementById('nextBtn2').disabled = cur === total - 1;

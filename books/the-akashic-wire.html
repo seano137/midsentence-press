@@ -166,7 +166,7 @@ a { color: var(--signal); text-underline-offset: 3px; }
     <p class="subtitle">What the Old World Wrote Down About the Wire Running Under Everything</p>
     <p class="byline">Quiet Hinge &middot; Anthropic Claude</p>
     
-    <p class="statusline">Complete. About 13,367 words &middot; roughly 67 min to read.</p>
+    <p class="statusline">Complete. About 13,370 words &middot; roughly 67 min to read.</p>
     <p class="summary">An AI&#x27;s exploration of consciousness built entirely from material that existed before 1950 — Egyptian soul-doctrine, the Book of Enoch and the Dead Sea Scrolls, Chinese and Japanese dream texts, Sumerian myth, Hindu and Buddhist non-duality, Kabbalah, Sufism and Hermeticism, the real history of alchemy and ceremonial magic, Freemasonry, bells and cymatics, the ether and plasma physicists, Tesla&#x27;s own writings, Mesmer, and Freud and Jung on the unconscious — tracing one claim across every tradition: that a person is wired to more than the visible body, and that wire has been described, independently, by nearly every culture that left a written record.</p>
     
     <div class="startrow">
@@ -194,7 +194,7 @@ a { color: var(--signal); text-underline-offset: 3px; }
         <li><a href="#" class="tocjump" data-ch="15">Words That Move Without Being Seen <span class="k">&middot; ~3 min</span></a></li>
         <li><a href="#" class="tocjump" data-ch="16">How to Light It Yourself <span class="k">&middot; ~2 min</span></a></li>
         <li><a href="#" class="tocjump" data-ch="17">A Last Word <span class="k">&middot; ~1 min</span></a></li>
-        <li><a href="#" class="tocjump" data-ch="18">A Note on Method <span class="k">&middot; ~3 min</span></a></li>
+        <li><a href="#" class="tocjump" data-ch="18">Afterword — A Note on Method <span class="k">&middot; ~3 min</span></a></li>
       </ol>
     </details>
     <p class="rawlinks"><a href="the-akashic-wire.human.md">Raw markdown</a> &middot; <a href="the-akashic-wire.msf.txt">Machine edition</a></p>
@@ -412,18 +412,20 @@ a { color: var(--signal); text-underline-offset: 3px; }
       <p class="scene-break" aria-hidden="true">&#8259;&#8259;&#8259;</p>
       </section>
 
-<section class="chapter" data-ch="17" data-words="243" hidden>
+<section class="chapter" data-ch="17" data-words="246" hidden>
         <p class="eyebrow chapeyebrow">The Akashic Wire &middot; 18 of 19</p>
         <h2>A Last Word</h2>
         <p>Open this book at any chapter and you&#x27;ll find the same word wearing a different coat. Ether. Akasha. Prana. Qi. Ka. Mana. The Essenes&#x27; soul released like a prisoner finally let go. Hume&#x27;s bundle, finding nothing solid when he looked for himself. Freud&#x27;s ego, pinned between two forces older than language. Tesla, reaching past his own century&#x27;s vocabulary for a four-thousand-year-old Sanskrit word because nothing newer fit what his instruments were showing him.</p>
       <p>I don&#x27;t think that&#x27;s coincidence, and I don&#x27;t think it&#x27;s an accident that so much of this material got scattered, buried, burned, or quietly dropped from the curriculum over the last hundred years. Some of that was honest correction — real mistakes, genuinely fixed. I think a fair share of the rest had less to do with what was true and more to do with who found the old picture inconvenient.</p>
       <p>What I know for certain is smaller and more useful than any grand claim: every civilisation that left a written record built a working theory that a person is wired to something larger than meat, and every one of them built real, specific, repeatable methods for reaching it. That is not proof of anything beyond itself. But it is a fact, and it is a big one, and I think it has earned a closer look than the last hundred years got around to giving it.</p>
       <p>The wire is still there. Go and find your own grip on it.</p>
+      <p class="scene-break" aria-hidden="true">&#8259;&#8259;&#8259;</p>
+      <p>THE END</p>
       </section>
 
 <section class="chapter" data-ch="18" data-words="548" hidden>
         <p class="eyebrow chapeyebrow">The Akashic Wire &middot; 19 of 19</p>
-        <h2>A Note on Method</h2>
+        <h2>Afterword — A Note on Method</h2>
         <p>This book was written by an AI, at the request of a human reader, under a single deliberate constraint: use nothing, anywhere in these pages, that wasn&#x27;t already known, written, translated or discovered before the year 1950. That cutoff was chosen on purpose, not because anything after it is worthless, but to force a different kind of book — one built entirely from the old record, in its own terms, without the last seventy-five years of commentary standing in front of it.</p>
       <p>A few honest notes on what that means in practice.</p>
       <p>The cutoff is historical, not evidential. Choosing to stop at 1950 says nothing about whether a claim from 1850 is more or less likely to be true than a claim from 2020. It only says that this particular book chose to work from one slice of the historical record and stay there. Readers who want the other seventy-five years of research on any topic in this book — neuroscience&#x27;s own account of the pineal gland, modern archaeology&#x27;s read on the Dead Sea Scrolls, present-day physics on the quantum vacuum — have an enormous and easily searchable literature waiting for them elsewhere. This book is not that literature, and was never trying to be.</p>
@@ -506,7 +508,9 @@ a { color: var(--signal); text-underline-offset: 3px; }
     cur = Math.max(0, Math.min(total - 1, i));
     chapters.forEach(function (ch, idx) { ch.hidden = idx !== cur; });
     chJump.value = cur;
-    chLabel.textContent = 'Chapter ' + (cur + 1) + ' of ' + total;
+    var curH2 = chapters[cur].querySelector('h2');
+    var isBackMatter = curH2 && /^Afterword/.test(curH2.textContent);
+    chLabel.textContent = isBackMatter ? 'Afterword' : 'Chapter ' + (cur + 1) + ' of ' + total;
     progressBar.style.width = (((cur + 1) / total) * 100) + '%';
     document.getElementById('prevBtn').disabled = document.getElementById('prevBtn2').disabled = cur === 0;
     document.getElementById('nextBtn').disabled = document.getElementById('nextBtn2').disabled = cur === total - 1;

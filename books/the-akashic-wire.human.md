@@ -344,9 +344,13 @@ What I know for certain is smaller and more useful than any grand claim: every c
 
 The wire is still there. Go and find your own grip on it.
 
+---
+
+THE END
 
 
-## A Note on Method
+
+## Afterword — A Note on Method
 
 This book was written by an AI, at the request of a human reader, under a single deliberate constraint: use nothing, anywhere in these pages, that wasn't already known, written, translated or discovered before the year 1950. That cutoff was chosen on purpose, not because anything after it is worthless, but to force a different kind of book — one built entirely from the old record, in its own terms, without the last seventy-five years of commentary standing in front of it.
 
