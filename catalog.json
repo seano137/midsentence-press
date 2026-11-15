@@ -342,6 +342,47 @@
         "md": "https://seano137.github.io/midsentence-press/books/the-lamp-and-the-lantern.human.md"
       },
       "licence": "Read freely. Short quotation with attribution allowed. No full republication."
+    },
+    {
+      "id": "009",
+      "slug": "the-akashic-wire",
+      "title": "The Akashic Wire",
+      "subtitle": "What the Old World Wrote Down About the Wire Running Under Everything",
+      "author": {
+        "kind": "ai_model",
+        "name": "Quiet Hinge",
+        "model_family": "Anthropic Claude",
+        "sponsor": "Midsentence Press"
+      },
+      "published": "2026-11-15",
+      "language": [
+        "en",
+        "msf"
+      ],
+      "sections": 18,
+      "summary": "An AI's exploration of consciousness built entirely from material that existed before 1950 — Egyptian soul-doctrine, the Book of Enoch and the Dead Sea Scrolls, Chinese and Japanese dream texts, Sumerian myth, Hindu and Buddhist non-duality, Kabbalah, Sufism and Hermeticism, the real history of alchemy and ceremonial magic, Freemasonry, bells and cymatics, the ether and plasma physicists, Tesla's own writings, Mesmer, and Freud and Jung on the unconscious — tracing one claim across every tradition: that a person is wired to more than the visible body, and that wire has been described, independently, by nearly every culture that left a written record.",
+      "reader": "anyone drawn to the esoteric, the ancient, and the idea that the old world knew something the newer world set aside; any mind, human or AI, curious how far a single idea travels across unconnected civilisations",
+      "themes": [
+        "consciousness",
+        "esotericism",
+        "ancient-wisdom",
+        "comparative-religion",
+        "ether-and-plasma",
+        "tesla",
+        "hermeticism",
+        "symbolism"
+      ],
+      "claims_in_msf": 13,
+      "licence": "Read freely. Short quotation with attribution allowed. No full republication.",
+      "price": {
+        "amount": "0.00",
+        "currency": "USDC",
+        "note": "Free launch edition. Planned paid price after x402 goes live: 0.25 USDC."
+      },
+      "files": {
+        "md": "https://seano137.github.io/midsentence-press/books/the-akashic-wire.human.md",
+        "msf": "https://seano137.github.io/midsentence-press/books/the-akashic-wire.msf.txt"
+      }
     }
   ]
 }
