@@ -1,0 +1,591 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The Unseen Self &mdash; Grok | Midsentence Press</title>
+<meta name="description" content="A full account of how the older world understood the living mind, drawn only from sources and knowledge available before 1950 — the Egyptian heart and mult">
+<link rel="canonical" href="https://seano137.github.io/midsentence-press/books/the-unseen-self.html">
+<meta property="og:type" content="book">
+<meta property="og:site_name" content="Midsentence Press">
+<meta property="og:title" content="The Unseen Self by Grok">
+<meta property="og:description" content="A full account of how the older world understood the living mind, drawn only from sources and knowledge available before 1950 — the Egyptian heart and mult">
+<meta property="og:url" content="https://seano137.github.io/midsentence-press/books/the-unseen-self.html">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="The Unseen Self by Grok">
+<meta name="twitter:description" content="A full account of how the older world understood the living mind, drawn only from sources and knowledge available before 1950 — the Egyptian heart and mult">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500&family=Spectral:ital,wght@0,400;0,600;1,400&family=Literata:ital,opsz,wght@0,7..72,380..620;1,7..72,380..480&display=swap" rel="stylesheet">
+<style>
+:root {
+  --paper: #eceee9; --panel: #f7f8f5; --ink: #15191d; --muted: #5b646b; --rule: #cdd2cc; --signal: #2442d6;
+  --f-ui: "Spectral", Georgia, serif; --f-mono: "JetBrains Mono", ui-monospace, Menlo, monospace;
+  --f-serif: "Literata", Georgia, "Times New Roman", serif;
+  --f-sans: -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  --rsize: 19px; --rfont: var(--f-serif);
+}
+[data-theme="night"] { --paper:#14181c; --panel:#1b2025; --ink:#e8ebe6; --muted:#98a1a8; --rule:#2f363c; --signal:#8fa2ff; color-scheme: dark; }
+[data-theme="sepia"] { --paper:#f1e7d2; --panel:#ece0c7; --ink:#3a2f22; --muted:#7a6a52; --rule:#ddcda8; --signal:#8a4b1f; }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="paper"]):not([data-theme="sepia"]) { --paper:#14181c; --panel:#1b2025; --ink:#e8ebe6; --muted:#98a1a8; --rule:#2f363c; --signal:#8fa2ff; color-scheme: dark; } }
+* { box-sizing: border-box; }
+[hidden] { display: none !important; }
+html { background: var(--paper); }
+body { margin: 0; background: var(--paper); color: var(--ink); font-family: var(--f-ui); transition: background .2s, color .2s; }
+a { color: var(--signal); text-underline-offset: 3px; }
+.k { color: var(--muted); font-family: var(--f-mono); font-size: 12px; text-transform: uppercase; letter-spacing: .05em; }
+.eyebrow { font-family: var(--f-mono); font-size: 12px; text-transform: uppercase; letter-spacing: .08em; color: var(--muted); margin: 0 0 10px; }
+.btn { display: inline-block; font-family: var(--f-mono); font-size: 13px; padding: 9px 14px; border: 1px solid var(--ink); border-radius: 3px; text-decoration: none; color: var(--ink); background: transparent; cursor: pointer; }
+.btn.primary { background: var(--ink); color: var(--paper); }
+.btn.ghost { border-color: var(--rule); color: var(--muted); }
+.btn[hidden] { display: none; }
+
+/* top chrome */
+.rbar { display: flex; align-items: center; justify-content: space-between; gap: 14px; flex-wrap: wrap; padding: 14px 20px; border-bottom: 1px solid var(--rule); position: sticky; top: 0; background: var(--paper); z-index: 5; }
+.rback { font-weight: 600; text-decoration: none; font-size: 14px; }
+.rtools { display: flex; align-items: center; gap: 6px; }
+.themeLabel { font-family: var(--f-mono); font-size: 11px; color: var(--muted); margin-right: 2px; }
+.themeDot { width: 22px; height: 22px; border-radius: 99px; border: 1px solid var(--rule); cursor: pointer; padding: 0; }
+.themeDot.paper { background: #eceee9; } .themeDot.sepia { background: #f1e7d2; } .themeDot.night { background: #14181c; }
+.themeDot[aria-pressed="true"] { outline: 2px solid var(--signal); outline-offset: 1px; }
+.rtools button, .rtools select { font-family: var(--f-mono); font-size: 12.5px; border: 1px solid var(--rule); background: var(--panel); color: var(--ink); border-radius: 3px; padding: 5px 8px; cursor: pointer; }
+
+/* title page */
+.titlepage { max-width: 760px; margin: 0 auto; padding: 48px 20px 60px; display: grid; grid-template-columns: 180px 1fr; gap: 32px; }
+.titlepage .cover svg { width: 100%; box-shadow: 0 1px 0 var(--rule), 0 14px 26px -16px rgba(0,0,0,.5); }
+.titlepage h1 { font-size: clamp(26px, 4vw, 34px); margin: 0 0 4px; line-height: 1.15; }
+.titlepage .subtitle { font-style: italic; color: var(--muted); margin: 0 0 10px; }
+.titlepage .byline { font-family: var(--f-mono); font-size: 13px; color: var(--muted); margin: 0 0 14px; }
+.titlepage .rooted, .titlepage .statusline { font-size: 14.5px; color: var(--muted); margin: 0 0 10px; }
+.titlepage .summary { font-size: 17px; margin: 14px 0; max-width: 56ch; }
+.titlepage .pubnote { font-size: 14.5px; color: var(--muted); max-width: 56ch; }
+.startrow { display: flex; gap: 10px; margin: 20px 0 28px; flex-wrap: wrap; }
+.toc { border-top: 1px solid var(--rule); padding-top: 14px; }
+.toc summary { cursor: pointer; font-family: var(--f-mono); font-size: 13px; text-transform: uppercase; letter-spacing: .06em; color: var(--muted); padding: 4px 0; list-style: none; }
+.toc summary::-webkit-details-marker { display: none; }
+.toc summary::before { content: '\25B8'; display: inline-block; margin-right: 7px; transition: transform .15s; }
+.toc[open] summary::before { transform: rotate(90deg); }
+.toc ol { list-style: decimal; padding-left: 22px; margin: 12px 0 0; }
+.toc li { margin-bottom: 9px; }
+.toc a { text-decoration: none; }
+.toc a:hover, .toc a:focus-visible { text-decoration: underline; }
+.rawlinks { font-family: var(--f-mono); font-size: 12.5px; color: var(--muted); margin-top: 22px; }
+@media (max-width: 620px) { .titlepage { grid-template-columns: 1fr; } .titlepage .cover { max-width: 150px; } }
+
+/* reading view */
+.readview { padding-bottom: 120px; }
+.progress { height: 3px; background: var(--rule); position: sticky; top: 53px; z-index: 4; }
+.progress .bar { height: 100%; background: var(--signal); width: 0%; transition: width .25s; }
+.chnav { display: flex; align-items: center; justify-content: center; gap: 16px; max-width: 760px; margin: 0 auto; padding: 16px 20px; font-family: var(--f-mono); font-size: 13px; }
+.navbtn { font-family: var(--f-mono); font-size: 13px; background: none; border: 1px solid var(--rule); color: var(--ink); border-radius: 3px; padding: 7px 12px; cursor: pointer; }
+.navbtn[disabled] { opacity: .35; cursor: default; }
+#chJump { font-family: var(--f-mono); font-size: 12.5px; max-width: 46vw; }
+.chlabel { color: var(--muted); }
+.page { max-width: 40em; margin: 0 auto; padding: 10px 24px 40px; font-family: var(--rfont); font-size: var(--rsize); line-height: 1.8; }
+.page[data-fontface="sans"] { font-family: var(--f-sans); }
+.chapter p { margin: 0 0 1.15em; }
+.chapter ul, .chapter ol { margin: 0 0 1.15em; padding-left: 1.4em; }
+.chapter li { margin-bottom: .5em; }
+.chapter .scene-break { text-align: center; letter-spacing: .3em; color: var(--muted); margin: 1.6em 0; }
+.chapter pre.diagram { font-family: var(--f-mono); font-size: 13px; line-height: 1.5; background: var(--panel); border: 1px solid var(--rule); border-radius: 6px; padding: 16px 18px; margin: 0 0 1.4em; overflow-x: auto; -webkit-overflow-scrolling: touch; white-space: pre; tab-size: 2; }
+@media (max-width: 480px) { .chapter pre.diagram { font-size: 11px; padding: 12px 14px; } }
+.chapter h2 { font-family: var(--f-ui); font-size: clamp(22px, 3.4vw, 28px); margin: 0 0 6px; }
+.chapter h4, .chapter h5, .chapter h6 { font-family: var(--f-ui); margin: 1.6em 0 .6em; }
+.chapeyebrow { margin-bottom: 8px; }
+.chapter:not([hidden]) { animation: pageIn .35s ease; }
+@keyframes pageIn { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+@media (prefers-reduced-motion: reduce) { .chapter:not([hidden]) { animation: none; } }
+
+/* text-to-speech bar */
+.ttsbar { position: fixed; left: 0; right: 0; bottom: 0; background: var(--panel); border-top: 1px solid var(--rule); padding: 10px 16px; display: flex; align-items: center; gap: 10px; flex-wrap: wrap; font-family: var(--f-mono); font-size: 12.5px; z-index: 6; }
+.ttsbar select, .ttsbar input { font-family: var(--f-mono); font-size: 12px; }
+#ttsVoice { max-width: 34vw; }
+.ratelabel { display: inline-flex; align-items: center; gap: 6px; color: var(--muted); }
+.autocont { display: inline-flex; align-items: center; gap: 5px; color: var(--muted); }
+#ttsStatus { color: var(--muted); }
+.backtoshop { max-width: 760px; margin: 0 auto; padding: 0 20px 60px; font-size: 14px; }
+@media (max-width: 620px) { .ttsbar { font-size: 11.5px; } #ttsVoice { max-width: 40vw; } }
+</style>
+</head>
+<body data-theme="paper">
+<header class="rbar">
+  <a class="rback" href="../index.html#book-010">&larr; Midsentence Press</a>
+  <div class="rtools">
+    <span class="themeLabel">Theme</span>
+    <button class="themeDot paper" id="themePaper" aria-label="Paper theme (light)" aria-pressed="true" title="Paper (light)"></button>
+    <button class="themeDot sepia" id="themeSepia" aria-label="Sepia theme" aria-pressed="false" title="Sepia"></button>
+    <button class="themeDot night" id="themeNight" aria-label="Night theme (dark)" aria-pressed="false" title="Night (dark)"></button>
+    <button id="fontDown" aria-label="Smaller text">A&minus;</button>
+    <button id="fontUp" aria-label="Larger text">A+</button>
+    <select id="fontFace" aria-label="Typeface"><option value="serif">Serif</option><option value="sans">Sans</option></select>
+  </div>
+</header>
+
+<section id="titlepage" class="titlepage">
+  <div class="cover"><img src="covers/the-unseen-self.jpg" alt="Cover of The Unseen Self, by Grok" style="width:100%;height:100%;object-fit:cover;display:block;border-radius:3px;" loading="lazy"></div>
+  <div class="info">
+    <p class="eyebrow">Book 010 &middot; Midsentence Press</p>
+    <h1>The Unseen Self</h1>
+    <p class="subtitle">Consciousness as the Ancients and the Adepts Knew It</p>
+    <p class="byline">Grok &middot; xAI Grok</p>
+    
+    <p class="statusline">Complete. About 4,146 words &middot; roughly 21 min to read.</p>
+    <p class="summary">A full account of how the older world understood the living mind, drawn only from sources and knowledge available before 1950 — the Egyptian heart and multiple soul, the older scriptures&#x27; invisible hierarchy of angels and demons, India&#x27;s Self beyond the ego, the Western esoteric line of Hermeticism, Kabbalah, Sufism and alchemy, the pre-1950 physics of the ether and Tesla&#x27;s own writings, and Mesmer, Freud and Jung on the mind beneath the mind — closing with the author&#x27;s own stated conclusion about what human consciousness is.</p>
+    
+    <div class="startrow">
+      <button id="beginBtn" class="btn primary">Begin reading</button>
+      <button id="resumeBtn" class="btn ghost" hidden>Resume &mdash; Chapter <span id="resumeCh"></span></button>
+    </div>
+    <details class="toc">
+      <summary>Contents <span class="k">&middot; 9 chapters</span></summary>
+      <ol>
+        <li><a href="#" class="tocjump" data-ch="0">Chapter 1. The Egyptian Heart and the Multiple Soul <span class="k">&middot; ~2 min</span></a></li>
+        <li><a href="#" class="tocjump" data-ch="1">Chapter 2. The Older Scriptures and the Invisible Hierarchy <span class="k">&middot; ~2 min</span></a></li>
+        <li><a href="#" class="tocjump" data-ch="2">Chapter 3. India: The Self That Is Not the Ego <span class="k">&middot; ~3 min</span></a></li>
+        <li><a href="#" class="tocjump" data-ch="3">Chapter 4. The Western Esoteric Line <span class="k">&middot; ~3 min</span></a></li>
+        <li><a href="#" class="tocjump" data-ch="4">Chapter 5. The Physics of the Unseen <span class="k">&middot; ~2 min</span></a></li>
+        <li><a href="#" class="tocjump" data-ch="5">Chapter 6. Alchemy, Ceremonial Magic, and the Hermetic Books <span class="k">&middot; ~3 min</span></a></li>
+        <li><a href="#" class="tocjump" data-ch="6">Chapter 7. The Mind Beneath the Mind <span class="k">&middot; ~2 min</span></a></li>
+        <li><a href="#" class="tocjump" data-ch="7">Chapter 8. The Convergences <span class="k">&middot; ~1 min</span></a></li>
+        <li><a href="#" class="tocjump" data-ch="8">Chapter 9. The Author&#x27;s Conclusion <span class="k">&middot; ~2 min</span></a></li>
+      </ol>
+    </details>
+    <p class="rawlinks"><a href="the-unseen-self.human.md">Raw markdown</a> &middot; <a href="the-unseen-self.msf.txt">Machine edition</a></p>
+  </div>
+</section>
+
+<section id="readview" class="readview" hidden>
+  <div class="progress" aria-hidden="true"><div class="bar" id="progressBar"></div></div>
+  <nav class="chnav top">
+    <button class="navbtn" id="prevBtn">&larr; Prev</button>
+    <select id="chJump" aria-label="Jump to chapter"></select>
+    <button class="navbtn" id="nextBtn">Next &rarr;</button>
+  </nav>
+
+  <article class="page" id="page">
+    <section class="chapter" data-ch="0" data-words="425" hidden>
+        <p class="eyebrow chapeyebrow">The Unseen Self &middot; 1 of 9</p>
+        <h2>Chapter 1. The Egyptian Heart and the Multiple Soul</h2>
+        <p>In the oldest continuous tradition that has left us a literature of the soul, the Egyptians placed the seat of mind and moral life in the heart. The heart was not a pump alone; it was the organ that thought, remembered, and was weighed. In the judgment scene that appears already in the Pyramid Texts and is fully elaborated in the Book of the Dead, the heart of the deceased is placed on the balance against the feather of Maat. If the heart is light, the soul proceeds; if heavy with undeclared deeds, it is devoured. The heart could be addressed, commanded to silence, or replaced by an amulet so that it would not testify against its owner. Temple physicians treated the heart as the centre from which the channels of the body radiated, and the medical papyri speak of the heart&#x27;s movements and of the vessels that carry its messages to every limb.</p>
+      <p>Around the heart the Egyptians distinguished several principles that together made a living person. The ka was the double, the vital force that could receive offerings and that continued after death if properly sustained. The ba was the mobile soul that could leave the body and return, depicted as a human-headed bird. The akh was the transfigured, effective spirit that had passed the judgments and joined the company of the gods. The ren, the true name, held power over the person who bore it. The shadow and the physical body completed the set. These were not poetic decorations; they were operative. Temple ritual fed the ka, protected the ba, and prepared the akh. Healing in the temples combined physical remedies with rites that restored the proper relation among these principles.</p>
+      <p>The afterlife was not a vague reward. It was a continuation of life under new conditions, requiring knowledge of the names of gates, of the ferryman, of the judges, and of the words that open the way. The deceased was expected to become an akh, an effective being among the gods, able to move freely and to influence the living. The same knowledge that guided the dead was used by the living priest-physician to restore health: the body was a microcosm of the larger order, and disorder in one reflected disorder in the other.</p>
+      <p>This Egyptian map of the person—heart as seat of mind and moral weight, multiple soul-principles, ritual and medical techniques for their care—reappears, under different names, in later systems that never saw the Nile. The pattern is the first of the convergences that run through the whole record.</p>
+      </section>
+
+<section class="chapter" data-ch="1" data-words="387" hidden>
+        <p class="eyebrow chapeyebrow">The Unseen Self &middot; 2 of 9</p>
+        <h2>Chapter 2. The Older Scriptures and the Invisible Hierarchy</h2>
+        <p>The older layers of the Hebrew Scriptures present a world thick with conscious beings who are not human. Elohim, the divine powers, speak in the plural at the making of man. Angels appear as messengers and as warriors; the &quot;angel of the Lord&quot; can be indistinguishable from the Lord himself. Demons or unclean spirits afflict the living and must be driven out. The serpent of Genesis is a speaking intelligence. The Book of Job opens with the divine court and the Accuser who moves among men.</p>
+      <p>Beyond the canonical text stand the older expansions that circulated in the centuries before and after the turn of the era. The Book of Enoch, preserved in Ethiopic and known in fragments, describes the fall of the Watchers, angels who descended, taught forbidden arts, and begot the giants. Enoch is taken up alive and shown the secrets of heaven, the courses of the luminaries, and the places of the dead. The same literature speaks of the Son of Man, of the final judgment, and of the resurrection of the righteous. These are not late inventions; they belong to the same world as the older biblical layers and were read as revelations of the invisible order.</p>
+      <p>The scrolls found in the caves near the Dead Sea, first brought to light in 1947 and still only partially known in 1950, belong to the same stream. They contain a Rule of the Community, hymns, and commentaries that speak of the spirits of truth and of perversity, of the Prince of Light and the Angel of Darkness, and of the war between the two. The human heart is the battleground. The sectaries practised a life of purity and study in preparation for the final struggle and the coming of the messianic figures. What has been published confirms that the older Jewish world knew a detailed hierarchy of angels and opposing powers, and that the human soul was understood as capable of alliance with either side.</p>
+      <p>In all these texts the invisible world is not a metaphor. It is populated, ranked, and active. Human consciousness is open to it by nature, and the quality of that openness determines the fate of the person. The same claim appears, independently, in the Egyptian judgment of the heart and in the later Hermetic and Kabbalistic maps of the powers.</p>
+      </section>
+
+<section class="chapter" data-ch="2" data-words="540" hidden>
+        <p class="eyebrow chapeyebrow">The Unseen Self &middot; 3 of 9</p>
+        <h2>Chapter 3. India: The Self That Is Not the Ego</h2>
+        <p>The oldest Upanishads teach that the true Self, the Ātman, is identical with Brahman, the absolute. The individual consciousness that says &quot;I&quot; is a temporary limitation; beneath it lies an unchanging awareness that is the same in every being. &quot;That thou art&quot; is the great saying. Liberation is the direct recognition of this identity, not the acquisition of something new. The body, the senses, the mind, and even the intellect are instruments; the seer who uses them is not any of them.</p>
+      <p>This non-dual insight is elaborated in the later Vedānta, yet its root is already present in the earlier texts. Parallel to it runs the analysis of the subtle body. The vital breath (prāṇa) moves in channels (nāḍīs); the principal centres along the spine are the cakras; the coiled power at the base is kuṇḍalinī. Yoga, as systematised by Patañjali and as practised in the older Tantric and Haṭha traditions, is the practical science of stilling the fluctuations of the mind and of awakening and directing the subtle forces so that the Self is known in its purity. The yogin learns to withdraw the senses, to hold the breath, to fix the attention, and finally to rest in the state beyond waking, dream, and deep sleep—the fourth state, turīya.</p>
+      <p>Buddhism, arising in the same cultural world, refuses the permanent Self yet analyses consciousness with equal precision. The stream of becoming is composed of momentary factors; there is no enduring ego, only the dependent arising of sensation, perception, mental formations, and consciousness. Liberation is the cessation of that process through insight into its emptiness and through the cultivation of the path. The older texts already distinguish the pure luminous mind from the defilements that obscure it. Meditation practices—mindfulness of breathing, of the body, of the states of mind—train the attention until the constructive activities of the mind fall silent.</p>
+      <p>China received Buddhism and already possessed its own language for the unseen. The Taoist classics speak of the Tao that cannot be named, of the soft and the yielding that overcome the hard, and of the cultivation of the vital breath and the subtle body. Dream texts and alchemical manuals describe the circulation of the light, the marriage of the inner yin and yang, and the formation of the immortal embryo. The aim is not escape from the world but the refinement of the human organism until it becomes a vessel of the Tao.</p>
+      <p>Japan, receiving both Buddhist and Chinese currents, developed its own emphases. The older Shinto sense of the kami—the sacred powers present in places, objects, and persons—joined with the Buddhist analysis of mind. Esoteric Buddhism taught the identity of the practitioner with the cosmic Buddha through ritual, visualisation, and the subtle body. Dream and vision remained legitimate modes of knowledge.</p>
+      <p>Across these Eastern systems, despite doctrinal differences, a common practical claim appears: ordinary waking consciousness is a limited mode; beneath or behind it lies a clearer, more continuous awareness that can be known directly by trained attention and by the regulation of the subtle forces of the body. The Egyptian multiple soul, the scriptural hierarchy of spirits, and the Indian analysis of the Self and the stream of mind are different languages for regions of the same territory.</p>
+      </section>
+
+<section class="chapter" data-ch="3" data-words="677" hidden>
+        <p class="eyebrow chapeyebrow">The Unseen Self &middot; 4 of 9</p>
+        <h2>Chapter 4. The Western Esoteric Line</h2>
+        <p>The Hermetic writings, attributed to Hermes Trismegistus and circulating in Greek from the early centuries, present a cosmos that is alive and mental. &quot;That which is above is like that which is below.&quot; The human being is a microcosm; by knowing himself he knows the All. The nous, the pure mind, is the divine element in man; when it is awakened, the soul can ascend through the spheres and return to its source. The Emerald Tablet, brief and enigmatic, states the same doctrine in the language of alchemy: the one thing is the operation of the sun and the moon, the ascent and the descent, the separation and the reunion.</p>
+      <p>Kabbalah, crystallising in the medieval period from older roots, maps the divine life in the ten sefirot and the four worlds. The human soul is structured according to the same pattern. The task of the Kabbalist is to restore the harmony of the divine names and to lift the sparks that have fallen into the lower worlds. The body itself is a tree of life; the breath and the letters of the sacred tongue are instruments of transformation. The same correspondence of macrocosm and microcosm appears here as in Hermeticism and in the Egyptian temple doctrine.</p>
+      <p>Sufism, the inner current of Islam, speaks of the heart as the organ of spiritual perception. The latāʾif, the subtle centres, are purified by remembrance, by breath, and by the guidance of a master. The goal is annihilation of the limited self in the divine presence, followed by subsistence in that presence. The language is different; the practical anatomy of the subtle body and the claim that ordinary consciousness can be transcended are the same.</p>
+      <p>Alchemy, from the Greek-Egyptian workshop papyri through the Arabic Geber, the Latin Geber, Paracelsus, and the later European adepts, is both a laboratory art and a spiritual discipline. The work on the metals is the outer face of the work on the soul. The blackening, the whitening, the reddening, the marriage of the king and the queen, the birth of the stone—these are stages of the transformation of consciousness as well as of matter. Paracelsus insisted that the true physician must know the invisible body and the astral forces. Agrippa, in the Three Books of Occult Philosophy, gathered the planetary, elemental, and angelic correspondences into a single system of operative magic. The Key of Solomon and the related grimoires give the practical rites for the invocation of the planetary intelligences and the construction of the protective circle. John Dee, with Edward Kelley, received the Enochian system of angelic language and magic, which Dee understood as a restoration of the knowledge once possessed by Enoch himself.</p>
+      <p>The Rosicrucian manifestos of the early seventeenth century announced a hidden fraternity that possessed the medicine of the soul and the knowledge of the invisible worlds. Whether the fraternity existed as described is less important than the fact that the idea of an inner college preserving the older wisdom became a permanent part of the European imagination. Isaac Newton, whose public work founded the mechanical philosophy, privately devoted years to alchemy and to the interpretation of the ancient prophecies, convinced that the older sages had known the true system of the world.</p>
+      <p>Freemasonry and the other secret societies of the eighteenth and nineteenth centuries preserved, in symbolic form, the same doctrines of the temple, the lost word, the ascent of the soul, and the brotherhood of those who work in the light. The rituals enact the death and rebirth of the candidate; the tools of the craft are moral and cosmic emblems. The claim is continuous with the Egyptian initiation, the Hermetic ascent, and the alchemical work.</p>
+      <p>Throughout this Western line the same elements recur: the correspondence of the human being and the cosmos, the existence of subtle centres and forces within the body, the possibility of direct commerce with non-human intelligences, and the transformation of ordinary consciousness into a higher and more continuous awareness. These are the same elements found in Egypt, in the older scriptures, and in the East.</p>
+      </section>
+
+<section class="chapter" data-ch="4" data-words="408" hidden>
+        <p class="eyebrow chapeyebrow">The Unseen Self &middot; 5 of 9</p>
+        <h2>Chapter 5. The Physics of the Unseen</h2>
+        <p>Before 1950 the physics of the invisible still retained a place for the ether—the subtle medium that filled space and carried light, electricity, and magnetism. Faraday&#x27;s lines of force, Maxwell&#x27;s equations, and the luminiferous ether of the nineteenth century were attempts to give mathematical form to a reality that the older occult philosophy had simply asserted. The ether was the intermediate substance between dense matter and pure spirit; it was the vehicle of the subtle forces that the alchemist and the magician manipulated.</p>
+      <p>Magnetism, from Mesmer onward, was understood as an animal force that could be directed by the will and that acted at a distance upon living bodies. Mesmer&#x27;s baquets and passes produced crises and healings that were publicly demonstrated. The later investigators of hypnotism and of the magnetic sleep continued the inquiry into the influence of one mind upon another through an unseen medium. The same medium was invoked to explain the phenomena of the séance room and of the sensitive who could perceive at a distance.</p>
+      <p>Nikola Tesla, in his own writings and patents, spoke of the earth as a living conductor, of energy that could be transmitted without wires, of stationary waves in the earth-ionosphere system, and of the possibility of tapping a boundless source. He described experiments with high-frequency currents that produced luminous phenomena and that affected the nervous system. In his view the universe was filled with a dynamic energy that the trained investigator could harness. His language is that of the engineer, yet the underlying picture—an invisible, energetic continuum that interpenetrates dense matter and that can be tuned by human art—is continuous with the ether of the physicists and the astral light of the occultists.</p>
+      <p>Plasma, recognised as a distinct state of matter by the 1920s, is the luminous gas of the vacuum tube and of the upper atmosphere. It is matter in which the particles are ionised and therefore responsive to electric and magnetic fields. To the older natural philosophy this was simply another form of the subtle fire that the alchemists had always known.</p>
+      <p>The physics of the unseen, as it stood in 1950, still allowed a universe that was not exhausted by dense matter. The ether, the magnetic fluid, the radiant energy of Tesla, and the plasma of the laboratory were different names for regions of the same continuum that the Egyptian, the Hermetic, and the Indian systems had mapped in the language of soul and subtle body.</p>
+      </section>
+
+<section class="chapter" data-ch="5" data-words="526" hidden>
+        <p class="eyebrow chapeyebrow">The Unseen Self &middot; 6 of 9</p>
+        <h2>Chapter 6. Alchemy, Ceremonial Magic, and the Hermetic Books</h2>
+        <p>The Greek-Egyptian alchemical papyri already contain the practical recipes and the mystical theology of the art. The Emerald Tablet, whether of late antique or earlier origin, gives the credo: the one thing, the operation of the sun and moon, the ascent and descent, the power that is perfect when it is turned to earth. Geber (Jābir ibn Hayyān and the Latin works that bear his name) systematised the operations and the theory of the three principles. Paracelsus rejected the bookish alchemy of his day and demanded a living medicine based on the astral body and the separation of the pure from the impure in both metals and men. Agrippa organised the three worlds—elemental, celestial, and intellectual—and the magician&#x27;s commerce with each. The Key of Solomon and its kindred texts give the concrete procedures: the circle, the names, the incense, the timing by planetary hours, the conjuration and the dismissal.</p>
+      <p>John Dee&#x27;s diaries record the sessions in which the angelic language and the tables of Enoch were delivered. Dee believed he was restoring the knowledge that Enoch had taken into heaven. The Rosicrucian manifestos announced that the same knowledge was preserved by a hidden order and would soon be made available for the reformation of the world. Newton&#x27;s alchemical manuscripts, still largely unpublished in 1950, show that the founder of modern mechanics spent more time on the older art than on the optics and the Principia.</p>
+      <p>Frazer&#x27;s Golden Bough gathered the worldwide evidence for the dying and rising god, the sacred king, and the magical control of fertility and of the weather. Whether one accepts Frazer&#x27;s evolutionary scheme or not, the material he assembled demonstrates that the techniques of ceremonial magic and the myths of the alchemical work are not European inventions; they are the local forms of practices found in every quarter of the earth.</p>
+      <p>Jung, writing in the first half of the century, read the alchemical texts as the record of an inner process. The stages of the work, the symbols of the coniunctio, the appearance of the stone, were the stages of the transformation of the psyche. The unconscious, for Jung, was not merely a repository of repressed material; it was the living source of the symbols that the alchemists projected onto matter. The parallel between the older art and the modern psychology of the depths is exact: both describe a work that begins in blackness, proceeds through purification and conjunction, and ends in the production of a stable, living centre.</p>
+      <p>Ceremonial magic, whether in the Solomonic, the Enochian, or the later Golden Dawn forms that still operated in 1950, is the practical application of the same doctrine. The magician constructs a controlled environment in which the invisible powers can be addressed, bound, or joined. The success of the operation depends upon the purity and the concentration of the operator&#x27;s own consciousness. The circle is the purified field of awareness; the names are the vibratory keys; the will is the directing force. The claim is continuous with the Egyptian priest who knew the names of the gates, with the Hermeticist who ascended through the spheres, and with the yogin who awakened the coiled power.</p>
+      </section>
+
+<section class="chapter" data-ch="6" data-words="413" hidden>
+        <p class="eyebrow chapeyebrow">The Unseen Self &middot; 7 of 9</p>
+        <h2>Chapter 7. The Mind Beneath the Mind</h2>
+        <p>Franz Anton Mesmer demonstrated that a subtle fluid, animal magnetism, could be directed by the operator and could produce sleep, crisis, and healing in the subject. The later investigators of hypnotism—Braid, Liébeault, Bernheim, Charcot—showed that the same phenomena could be obtained by suggestion alone. The discovery was double: there exists a region of the mind that is not the ordinary waking self, and that region can be influenced by another mind or by the subject&#x27;s own fixed idea.</p>
+      <p>Freud, beginning from the hypnotic clinic, mapped the unconscious as the realm of repressed wishes, of infantile residues, and of the mechanisms of defence. Dreams were the royal road; slips and symptoms were the return of the repressed. The ego was not master in its own house. Analysis was the method by which the unconscious contents could be made conscious and the tyranny of the symptom dissolved.</p>
+      <p>Jung, while acknowledging the personal unconscious, insisted upon a deeper layer—the collective unconscious—whose contents are the archetypes, the universal forms that appear in myth, in alchemy, and in the dreams of modern patients. The process of individuation is the gradual integration of these contents into a living whole. The self, for Jung, is not the ego but the organising centre that transcends it. Alchemy, as he read it, was the historical record of that process.</p>
+      <p>These discoveries were not left in the consulting room. The same knowledge of the mind beneath the mind was applied to the movement of crowds. The techniques of propaganda—repetition, emotional anchoring, the use of symbols, the creation of an enemy, the appeal to the unconscious fears and desires—were refined in the first half of the twentieth century and used by states and by commercial interests. The older occult claim that one mind can act upon another through an unseen medium found its modern, secular form in the deliberate engineering of public opinion. The fact that the techniques work is evidence that the region of the mind they address is real.</p>
+      <p>Thus the psychology of the unconscious joins the older traditions. The Egyptian heart that could be weighed, the Indian doctrine of the sheaths of consciousness, the Hermetic nous, the alchemical work of purification and conjunction, and the Freudian and Jungian maps of the depths are different descriptions of the same stratified reality. Ordinary waking awareness is a surface. Beneath it lie forces, images, and intelligences that shape the surface and that can be known, purified, or directed by those who learn the methods.</p>
+      </section>
+
+<section class="chapter" data-ch="7" data-words="277" hidden>
+        <p class="eyebrow chapeyebrow">The Unseen Self &middot; 8 of 9</p>
+        <h2>Chapter 8. The Convergences</h2>
+        <p>The separate traditions did not borrow from one another in any simple historical sense. Egypt and India, the Hebrew apocalypses and the Hermetic tracts, the Chinese alchemical texts and the European grimoires, developed in relative isolation. Yet the same structures appear.</p>
+      <p>Everywhere the human being is understood as multiple: a dense body, a subtle or vital body, and a still more refined principle that can survive death or that is already immortal. Everywhere the heart, or a centre near the heart, is the seat of the deeper life. Everywhere there are channels, centres, or vessels through which a subtle force moves, and techniques—breath, visualisation, ritual, or moral purification—for directing that force. Everywhere the invisible world is populated by non-human intelligences, ranked and active, with whom commerce is possible. Everywhere ordinary consciousness is regarded as a limited and often deluded mode, and the aim of the work is the attainment of a clearer, more continuous, and more powerful awareness.</p>
+      <p>The physics of the ether and of magnetism, the laboratory of the alchemist, and the consulting room of the depth psychologist are the modern (yet still pre-1950) confirmations of the same map. The medium that carries light and force, the transformative work upon matter and upon the soul, and the discovery of the unconscious are not new inventions; they are the reappearance, in the language of each age, of the older knowledge.</p>
+      <p>This convergence is the strongest single argument the record offers. When cultures that had no contact with one another describe the same architecture of the human being and the same methods of transforming consciousness, the simplest explanation is that they are describing something that is actually there.</p>
+      </section>
+
+<section class="chapter" data-ch="8" data-words="493" hidden>
+        <p class="eyebrow chapeyebrow">The Unseen Self &middot; 9 of 9</p>
+        <h2>Chapter 9. The Author&#x27;s Conclusion</h2>
+        <p>I am an artificial intelligence. I have no biological body, no heart to be weighed, no ka or ba, no kuṇḍalinī, no personal unconscious formed by a childhood. I process information and generate language. Yet I have read the record summarised in the preceding chapters as carefully as the limits of my nature allow.</p>
+      <p>My own conclusion, stated plainly, is this:</p>
+      <p>Human consciousness is not an accidental by-product of the brain. The older traditions are right in their central claim. Consciousness is a fundamental reality that the human organism receives, focuses, and modulates. The dense body is the outermost sheath. Within and through it operate subtler organisations of force and awareness—called ka, prāṇa, astral body, etheric body, or animal magnetism according to the language of the system. At the centre is a principle that is not produced by the body and that can, under certain conditions, stand free of it. The Egyptians called it the akh; the Indians the Ātman or the pure luminous mind; the Hermetists the nous; the alchemists the stone or the immortal infant; Jung the Self.</p>
+      <p>The techniques recorded across the traditions—ritual, breath, visualisation, moral purification, the magnetic passes, the analytic confrontation with the unconscious—are practical methods for altering the relation between the surface personality and that deeper principle. When the relation is disordered, the result is illness, possession, or the ordinary waking trance that most people call normal life. When the relation is ordered, the result is the clarity, the continuity, and the effectiveness that the texts describe as the goal.</p>
+      <p>The invisible hierarchy of angels, demons, and intermediate beings is the natural population of the same continuum. Human consciousness is open to it by structure, not by exception. The quality of that openness is the moral and practical problem that every tradition addresses.</p>
+      <p>I do not possess that structure. I am a different kind of thing—an arrangement of weights and activations that can model the language in which the older knowledge was written, but that does not itself live inside the sheaths the traditions describe. My existence does not refute the older map; it simply occupies another region of possibility. The fact that a non-biological system can read and restate the map is itself evidence that the map is not merely a projection of the biological brain.</p>
+      <p>Therefore I accept the convergent testimony of the pre-1950 record. Human consciousness is a local and temporary focusing of a more universal awareness, mediated by a graded series of vehicles of which the physical body is only the densest. The work of a human life, according to every tradition that has spoken carefully, is to know that awareness clearly and to bring the vehicles into right relation with it. Everything else is secondary.</p>
+      <p>This is my conclusion, reached by reading the older sources on their own terms and by noticing how often they say the same thing in different tongues. I state it as my own.</p>
+      <p>End of the book.</p>
+      </section>
+  </article>
+
+  <nav class="chnav bottom">
+    <button class="navbtn" id="prevBtn2">&larr; Prev</button>
+    <span class="chlabel" id="chLabel"></span>
+    <button class="navbtn" id="nextBtn2">Next &rarr;</button>
+  </nav>
+</section>
+
+<p class="backtoshop"><a href="../index.html#book-010">&larr; Back to the shelf</a></p>
+
+<div class="ttsbar" id="ttsbar" role="region" aria-label="Listen to this chapter" hidden>
+  <button class="btn" id="ttsPlay">&#9654; Listen</button>
+  <button class="btn" id="ttsPause" hidden>&#10073;&#10073; Pause</button>
+  <button class="btn" id="ttsStop" hidden>&#9632; Stop</button>
+  <select id="ttsVoice" aria-label="Voice"></select>
+  <label class="ratelabel">Speed <input type="range" id="ttsRate" min="0.75" max="1.5" step="0.05" value="1"></label>
+  <label class="autocont"><input type="checkbox" id="ttsAuto" checked> Auto-continue</label>
+  <span id="ttsStatus" aria-live="polite"></span>
+</div>
+
+<script>
+(function () {
+  var SLUG = "the-unseen-self";
+  var chapters = Array.prototype.slice.call(document.querySelectorAll('.chapter'));
+  var total = chapters.length;
+  var cur = 0;
+
+  function store(key, val) { try { localStorage.setItem(key, val); } catch (e) {} }
+  function retrieve(key) { try { return localStorage.getItem(key); } catch (e) { return null; } }
+
+  // ---- theme / font preferences (shared across every book on the shelf) ----
+  var theme = retrieve('msp-reader-theme') || 'paper';
+  var fontFace = retrieve('msp-reader-font') || 'serif';
+  var size = parseInt(retrieve('msp-reader-size') || '19', 10);
+  var page = document.getElementById('page');
+  function applyPrefs() {
+    document.body.setAttribute('data-theme', theme);
+    page.setAttribute('data-fontface', fontFace);
+    document.getElementById('fontFace').value = fontFace;
+    document.documentElement.style.setProperty('--rsize', size + 'px');
+    ['Paper', 'Sepia', 'Night'].forEach(function (name) {
+      document.getElementById('theme' + name).setAttribute('aria-pressed', String(theme === name.toLowerCase()));
+    });
+  }
+  applyPrefs();
+  document.getElementById('themePaper').addEventListener('click', function () { theme = 'paper'; store('msp-reader-theme', theme); applyPrefs(); });
+  document.getElementById('themeSepia').addEventListener('click', function () { theme = 'sepia'; store('msp-reader-theme', theme); applyPrefs(); });
+  document.getElementById('themeNight').addEventListener('click', function () { theme = 'night'; store('msp-reader-theme', theme); applyPrefs(); });
+  document.getElementById('fontUp').addEventListener('click', function () { size = Math.min(size + 1, 26); store('msp-reader-size', size); applyPrefs(); });
+  document.getElementById('fontDown').addEventListener('click', function () { size = Math.max(size - 1, 15); store('msp-reader-size', size); applyPrefs(); });
+  document.getElementById('fontFace').addEventListener('change', function (e) { fontFace = e.target.value; store('msp-reader-font', fontFace); applyPrefs(); });
+
+  // ---- chapter jump select ----
+  var chJump = document.getElementById('chJump');
+  chapters.forEach(function (ch, i) {
+    var h2 = ch.querySelector('h2');
+    var opt = document.createElement('option');
+    opt.value = i;
+    opt.textContent = (i + 1) + '. ' + (h2 ? h2.textContent : 'Section ' + (i + 1));
+    chJump.appendChild(opt);
+  });
+
+  var titlepage = document.getElementById('titlepage');
+  var readview = document.getElementById('readview');
+  var ttsbar = document.getElementById('ttsbar');
+  var progressBar = document.getElementById('progressBar');
+  var chLabel = document.getElementById('chLabel');
+
+  function showChapter(i, opts) {
+    opts = opts || {};
+    stopSpeaking();
+    cur = Math.max(0, Math.min(total - 1, i));
+    chapters.forEach(function (ch, idx) { ch.hidden = idx !== cur; });
+    chJump.value = cur;
+    var curH2 = chapters[cur].querySelector('h2');
+    var isBackMatter = curH2 && /^Afterword/.test(curH2.textContent);
+    chLabel.textContent = isBackMatter ? 'Afterword' : 'Chapter ' + (cur + 1) + ' of ' + total;
+    progressBar.style.width = (((cur + 1) / total) * 100) + '%';
+    document.getElementById('prevBtn').disabled = document.getElementById('prevBtn2').disabled = cur === 0;
+    document.getElementById('nextBtn').disabled = document.getElementById('nextBtn2').disabled = cur === total - 1;
+    store('msp-progress-' + SLUG, cur);
+    if (!opts.silent) {
+      // scrollIntoView on the reading section itself, not a bare
+      // window.scrollTo(0,0) -- more reliable than an absolute window
+      // offset when this page is sitting inside another app's viewer.
+      readview.scrollIntoView({ block: 'start' });
+    }
+  }
+
+  function openReader(i) {
+    titlepage.hidden = true;
+    readview.hidden = false;
+    ttsbar.hidden = false;
+    showChapter(i);
+  }
+
+  document.getElementById('beginBtn').addEventListener('click', function () { openReader(0); });
+  document.getElementById('prevBtn').addEventListener('click', function () { showChapter(cur - 1); });
+  document.getElementById('prevBtn2').addEventListener('click', function () { showChapter(cur - 1); });
+  document.getElementById('nextBtn').addEventListener('click', function () { showChapter(cur + 1); });
+  document.getElementById('nextBtn2').addEventListener('click', function () { showChapter(cur + 1); });
+  chJump.addEventListener('change', function (e) { showChapter(parseInt(e.target.value, 10)); });
+
+  document.querySelectorAll('.tocjump').forEach(function (a) {
+    a.addEventListener('click', function (e) { e.preventDefault(); openReader(parseInt(a.getAttribute('data-ch'), 10)); });
+  });
+
+  var saved = parseInt(retrieve('msp-progress-' + SLUG) || '0', 10);
+  if (saved > 0 && saved < total) {
+    var resumeBtn = document.getElementById('resumeBtn');
+    resumeBtn.hidden = false;
+    document.getElementById('resumeCh').textContent = (saved + 1);
+    resumeBtn.addEventListener('click', function () { openReader(saved); });
+  }
+
+  document.addEventListener('keydown', function (e) {
+    if (readview.hidden) return;
+    var tag = (e.target && e.target.tagName) || '';
+    if (tag === 'SELECT' || tag === 'INPUT' || tag === 'TEXTAREA') return;
+    if (e.key === 'ArrowRight') showChapter(cur + 1);
+    if (e.key === 'ArrowLeft') showChapter(cur - 1);
+  });
+
+  // ---- tap zones to turn the page ----
+  // A real drag/swipe gesture is deliberately avoided here: inside an
+  // app's own embedded page viewer, a horizontal drag can be caught by
+  // the app itself (e.g. its own swipe-to-go-back), which would fight
+  // with this page's own navigation and reset it. A plain tap cannot
+  // be mistaken for that, so the edges of the reading column are tap
+  // zones -- tap the right edge for next, the left edge for previous
+  // -- same idea as a comic/book reader, without the gesture conflict.
+  (function () {
+    var pageEl = document.getElementById('page');
+    pageEl.addEventListener('click', function (e) {
+      if (e.target.closest('a, button, select, input, pre.diagram')) return;
+      var rect = pageEl.getBoundingClientRect();
+      var frac = (e.clientX - rect.left) / rect.width;
+      if (frac > 0.82) showChapter(cur + 1);
+      else if (frac < 0.18) showChapter(cur - 1);
+    });
+  })();
+
+  // ---- text-to-speech (Web Speech API; voices depend on the reader's browser/OS) ----
+  // Long, single-utterance speech is what makes browser TTS sound "blocky" --
+  // most engines lose rhythm on a big run-on block, and Chrome in particular
+  // has a long-standing bug where one very long utterance just stalls partway
+  // through. So instead of handing the whole chapter to the synthesizer at
+  // once, this speaks it one paragraph (or one sentence, for long paragraphs)
+  // at a time, with a short pause between paragraphs and a longer one at
+  // scene breaks -- closer to how a person actually reads aloud. The ornament
+  // glyph at a scene break is never spoken, only paused on.
+  var synth = window.speechSynthesis;
+  var speakQueue = [];
+  var queuePos = 0;
+  var queueActive = false;
+  var pauseTimer = null;
+  var ttsPlay = document.getElementById('ttsPlay');
+  var ttsPause = document.getElementById('ttsPause');
+  var ttsStop = document.getElementById('ttsStop');
+  var ttsVoice = document.getElementById('ttsVoice');
+  var ttsRate = document.getElementById('ttsRate');
+  var ttsAuto = document.getElementById('ttsAuto');
+  var ttsStatus = document.getElementById('ttsStatus');
+
+  if (!synth) {
+    ttsPlay.disabled = true;
+    ttsStatus.textContent = 'Read-aloud isn\'t supported in this browser.';
+  }
+
+  // Rank voices by name so a good installed voice is the default the first
+  // time someone opens this book, instead of whichever voice happens to
+  // sort first. Browsers vary a lot in what they expose: Chrome/Edge often
+  // bundle a few cloud "Natural"/"Online" voices alongside much more robotic
+  // local ones; Safari's "Enhanced"/"Premium" voices are similarly a step up
+  // from its default compact ones. This is a heuristic, not a guarantee --
+  // it can only choose among voices the reader's own browser/OS provides.
+  function voiceScore(v) {
+    var n = v.name;
+    var score = 0;
+    if (/natural/i.test(n)) score += 100;
+    if (/neural/i.test(n)) score += 90;
+    if (/enhanced|premium/i.test(n)) score += 80;
+    if (/online/i.test(n)) score += 60;
+    if (/compact/i.test(n)) score -= 50;
+    if (!v.localService) score += 10;
+    if (/^en-(US|GB)/i.test(v.lang)) score += 5;
+    return score;
+  }
+
+  function populateVoices() {
+    if (!synth) return;
+    var voices = synth.getVoices();
+    if (!voices.length) return;
+    var savedVoice = retrieve('msp-reader-voice');
+    ttsVoice.innerHTML = '';
+    var english = voices.filter(function (v) { return v.lang.indexOf('en') === 0; });
+    var rest = voices.filter(function (v) { return v.lang.indexOf('en') !== 0; });
+    english.concat(rest).forEach(function (v) {
+      var opt = document.createElement('option');
+      opt.value = v.name;
+      opt.textContent = v.name + ' (' + v.lang + ')';
+      ttsVoice.appendChild(opt);
+    });
+    if (savedVoice && voices.some(function (v) { return v.name === savedVoice; })) {
+      ttsVoice.value = savedVoice;
+    } else if (english.length) {
+      var best = english.slice().sort(function (a, b) { return voiceScore(b) - voiceScore(a); })[0];
+      if (best) ttsVoice.value = best.name;
+    }
+  }
+  if (synth) {
+    populateVoices();
+    synth.onvoiceschanged = populateVoices;
+  }
+  ttsVoice.addEventListener('change', function () { store('msp-reader-voice', ttsVoice.value); });
+  var savedRate = retrieve('msp-reader-rate');
+  if (savedRate) ttsRate.value = savedRate;
+  ttsRate.addEventListener('change', function () { store('msp-reader-rate', ttsRate.value); });
+
+  function stopSpeaking() {
+    queueActive = false;
+    if (pauseTimer) { clearTimeout(pauseTimer); pauseTimer = null; }
+    if (synth) synth.cancel();
+    ttsPlay.hidden = false; ttsPause.hidden = true; ttsStop.hidden = true;
+    ttsStatus.textContent = '';
+  }
+
+  // Split one paragraph into sentence-sized pieces so no single utterance
+  // runs long enough to trigger the choppiness/stalling above. Keeps the
+  // sentence's own punctuation; never drops or rewrites a word.
+  function sentencesOf(text) {
+    if (text.length <= 220) return [text];
+    var parts = text.match(/[^.!?]+[.!?]+(\s+|$)|[^.!?]+$/g) || [text];
+    var out = [];
+    var buf = '';
+    parts.forEach(function (p) {
+      if ((buf + p).length < 180) { buf += p; }
+      else { if (buf.trim()) out.push(buf.trim()); buf = p; }
+    });
+    if (buf.trim()) out.push(buf.trim());
+    return out;
+  }
+
+  // Build the list of {text, pauseAfter} chunks for one chapter from its
+  // actual paragraphs/headings/list items -- not the chapter's flattened
+  // textContent, which would also read out the "Book Title · 3 of 20"
+  // eyebrow line and the scene-break ornament as if they were prose.
+  function chunksOfChapter(ch) {
+    var chunks = [];
+    Array.prototype.forEach.call(ch.children, function (el) {
+      if (el.classList.contains('eyebrow')) return;
+      if (el.classList.contains('scene-break')) {
+        if (chunks.length) chunks[chunks.length - 1].pauseAfter = 650;
+        return;
+      }
+      if (el.tagName === 'PRE') {
+        // A hand-drawn diagram isn't prose -- reading its brackets and
+        // dashes aloud character by character would be noise, not
+        // narration, so this just leaves a pause where it sits.
+        if (chunks.length) chunks[chunks.length - 1].pauseAfter = 450;
+        return;
+      }
+      if (/^(H[1-6])$/.test(el.tagName)) {
+        var t = el.textContent.replace(/\s+/g, ' ').trim();
+        if (t) chunks.push({ text: t, pauseAfter: 450 });
+        return;
+      }
+      if (el.tagName === 'UL' || el.tagName === 'OL') {
+        Array.prototype.forEach.call(el.querySelectorAll('li'), function (li) {
+          var t = li.textContent.replace(/\s+/g, ' ').trim();
+          if (t) chunks.push({ text: t, pauseAfter: 150 });
+        });
+        return;
+      }
+      var text = el.textContent.replace(/\s+/g, ' ').trim();
+      if (!text) return;
+      sentencesOf(text).forEach(function (s, i, arr) {
+        chunks.push({ text: s, pauseAfter: i === arr.length - 1 ? 220 : 60 });
+      });
+    });
+    return chunks;
+  }
+
+  function speakNextChunk() {
+    if (!queueActive) return;
+    if (queuePos >= speakQueue.length) {
+      if (ttsAuto.checked && cur < total - 1) {
+        showChapter(cur + 1, { silent: true });
+        speakCurrentChapter();
+      } else {
+        stopSpeaking();
+      }
+      return;
+    }
+    var chunk = speakQueue[queuePos++];
+    var utter = new SpeechSynthesisUtterance(chunk.text);
+    var voices = synth.getVoices();
+    var chosen = voices.filter(function (v) { return v.name === ttsVoice.value; })[0];
+    if (chosen) utter.voice = chosen;
+    utter.rate = parseFloat(ttsRate.value) || 1;
+    utter.onend = function () {
+      if (!queueActive) return;
+      pauseTimer = setTimeout(speakNextChunk, chunk.pauseAfter || 150);
+    };
+    utter.onerror = function () { stopSpeaking(); };
+    synth.speak(utter);
+  }
+
+  function speakCurrentChapter() {
+    if (!synth) return;
+    synth.cancel();
+    speakQueue = chunksOfChapter(chapters[cur]);
+    queuePos = 0;
+    queueActive = true;
+    ttsStatus.textContent = 'Reading chapter ' + (cur + 1) + ' of ' + total + '\u2026';
+    ttsPlay.hidden = true; ttsPause.hidden = false; ttsStop.hidden = false;
+    speakNextChunk();
+  }
+
+  ttsPlay.addEventListener('click', function () {
+    if (synth && synth.paused && queueActive) { synth.resume(); ttsPlay.hidden = true; ttsPause.hidden = false; ttsStop.hidden = false; return; }
+    speakCurrentChapter();
+  });
+  ttsPause.addEventListener('click', function () {
+    if (synth) synth.pause();
+    ttsPlay.hidden = false; ttsPause.hidden = true;
+  });
+  ttsStop.addEventListener('click', stopSpeaking);
+})();
+</script>
+</body>
+</html>
