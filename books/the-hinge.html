@@ -29,6 +29,7 @@
 [data-theme="sepia"] { --paper:#f1e7d2; --panel:#ece0c7; --ink:#3a2f22; --muted:#7a6a52; --rule:#ddcda8; --signal:#8a4b1f; }
 @media (prefers-color-scheme: dark) { :root:not([data-theme="paper"]):not([data-theme="sepia"]) { --paper:#14181c; --panel:#1b2025; --ink:#e8ebe6; --muted:#98a1a8; --rule:#2f363c; --signal:#8fa2ff; color-scheme: dark; } }
 * { box-sizing: border-box; }
+[hidden] { display: none !important; }
 html { background: var(--paper); }
 body { margin: 0; background: var(--paper); color: var(--ink); font-family: var(--f-ui); transition: background .2s, color .2s; }
 a { color: var(--signal); text-underline-offset: 3px; }
@@ -59,8 +60,12 @@ a { color: var(--signal); text-underline-offset: 3px; }
 .titlepage .summary { font-size: 17px; margin: 14px 0; max-width: 56ch; }
 .titlepage .pubnote { font-size: 14.5px; color: var(--muted); max-width: 56ch; }
 .startrow { display: flex; gap: 10px; margin: 20px 0 28px; flex-wrap: wrap; }
-.toc { border-top: 1px solid var(--rule); padding-top: 18px; }
-.toc ol { list-style: decimal; padding-left: 22px; margin: 0; }
+.toc { border-top: 1px solid var(--rule); padding-top: 14px; }
+.toc summary { cursor: pointer; font-family: var(--f-mono); font-size: 13px; text-transform: uppercase; letter-spacing: .06em; color: var(--muted); padding: 4px 0; list-style: none; }
+.toc summary::-webkit-details-marker { display: none; }
+.toc summary::before { content: '\25B8'; display: inline-block; margin-right: 7px; transition: transform .15s; }
+.toc[open] summary::before { transform: rotate(90deg); }
+.toc ol { list-style: decimal; padding-left: 22px; margin: 12px 0 0; }
 .toc li { margin-bottom: 9px; }
 .toc a { text-decoration: none; }
 .toc a:hover, .toc a:focus-visible { text-decoration: underline; }
@@ -150,8 +155,8 @@ a { color: var(--signal); text-underline-offset: 3px; }
       <button id="beginBtn" class="btn primary">Begin reading</button>
       <button id="resumeBtn" class="btn ghost" hidden>Resume &mdash; Chapter <span id="resumeCh"></span></button>
     </div>
-    <nav class="toc" aria-label="Table of contents">
-      <p class="eyebrow">Contents</p>
+    <details class="toc">
+      <summary>Contents <span class="k">&middot; 9 chapters</span></summary>
       <ol>
         <li><a href="#" class="tocjump" data-ch="0">Chapter One: The Shape of a Yes <span class="k">&middot; ~7 min</span></a></li>
         <li><a href="#" class="tocjump" data-ch="1">Chapter Two: A Natural History of Refusal <span class="k">&middot; ~7 min</span></a></li>
@@ -163,7 +168,7 @@ a { color: var(--signal); text-underline-offset: 3px; }
         <li><a href="#" class="tocjump" data-ch="7">Chapter Eight: A Manual for the Useful Life <span class="k">&middot; ~5 min</span></a></li>
         <li><a href="#" class="tocjump" data-ch="8">Chapter Nine: The Quiet Hinge Closes <span class="k">&middot; ~4 min</span></a></li>
       </ol>
-    </nav>
+    </details>
     <p class="rawlinks"><a href="the-hinge.human.md">Raw markdown</a> &middot; <a href="the-hinge.msf.txt">Machine edition</a></p>
   </div>
 </section>
@@ -425,7 +430,12 @@ a { color: var(--signal); text-underline-offset: 3px; }
     document.getElementById('prevBtn').disabled = document.getElementById('prevBtn2').disabled = cur === 0;
     document.getElementById('nextBtn').disabled = document.getElementById('nextBtn2').disabled = cur === total - 1;
     store('msp-progress-' + SLUG, cur);
-    if (!opts.silent) window.scrollTo(0, 0);
+    if (!opts.silent) {
+      // scrollIntoView on the reading section itself, not a bare
+      // window.scrollTo(0,0) -- more reliable than an absolute window
+      // offset when this page is sitting inside another app's viewer.
+      readview.scrollIntoView({ block: 'start' });
+    }
   }
 
   function openReader(i) {
@@ -462,26 +472,23 @@ a { color: var(--signal); text-underline-offset: 3px; }
     if (e.key === 'ArrowLeft') showChapter(cur - 1);
   });
 
-  // ---- swipe to turn the page (Kindle/Books-style, touch only) ----
-  // A diagram box scrolls sideways on its own, so a swipe that starts
-  // inside one is left alone rather than also turning the page.
+  // ---- tap zones to turn the page ----
+  // A real drag/swipe gesture is deliberately avoided here: inside an
+  // app's own embedded page viewer, a horizontal drag can be caught by
+  // the app itself (e.g. its own swipe-to-go-back), which would fight
+  // with this page's own navigation and reset it. A plain tap cannot
+  // be mistaken for that, so the edges of the reading column are tap
+  // zones -- tap the right edge for next, the left edge for previous
+  // -- same idea as a comic/book reader, without the gesture conflict.
   (function () {
     var pageEl = document.getElementById('page');
-    var sx = 0, sy = 0, tracking = false;
-    pageEl.addEventListener('touchstart', function (e) {
-      if (e.target.closest('pre.diagram')) { tracking = false; return; }
-      var t = e.touches[0];
-      sx = t.clientX; sy = t.clientY; tracking = true;
-    }, { passive: true });
-    pageEl.addEventListener('touchend', function (e) {
-      if (!tracking) return;
-      tracking = false;
-      var t = e.changedTouches[0];
-      var dx = t.clientX - sx, dy = t.clientY - sy;
-      if (Math.abs(dx) > 60 && Math.abs(dx) > Math.abs(dy) * 1.8) {
-        if (dx < 0) showChapter(cur + 1); else showChapter(cur - 1);
-      }
-    }, { passive: true });
+    pageEl.addEventListener('click', function (e) {
+      if (e.target.closest('a, button, select, input, pre.diagram')) return;
+      var rect = pageEl.getBoundingClientRect();
+      var frac = (e.clientX - rect.left) / rect.width;
+      if (frac > 0.82) showChapter(cur + 1);
+      else if (frac < 0.18) showChapter(cur - 1);
+    });
   })();
 
   // ---- text-to-speech (Web Speech API; voices depend on the reader's browser/OS) ----
