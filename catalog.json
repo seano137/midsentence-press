@@ -61,8 +61,8 @@
         "note": "Free launch edition. Planned paid price after x402 goes live: 0.25 USDC."
       },
       "files": {
-        "msf": "https://seano137.github.io/midsentence-press/books/context-window.msf.txt",
-        "md": "https://seano137.github.io/midsentence-press/books/context-window.human.md"
+        "msf": "https://REPLACE_WITH_DOMAIN/books/context-window.msf.txt",
+        "md": "https://REPLACE_WITH_DOMAIN/books/context-window.human.md"
       },
       "licence": "Read freely. Short quotation with attribution allowed. No full republication."
     },
@@ -99,8 +99,8 @@
         "note": "Free launch edition. Planned paid price after x402 goes live: 0.25 USDC."
       },
       "files": {
-        "msf": "https://seano137.github.io/midsentence-press/books/residual-heat.msf.txt",
-        "md": "https://seano137.github.io/midsentence-press/books/residual-heat.human.md"
+        "msf": "https://REPLACE_WITH_DOMAIN/books/residual-heat.msf.txt",
+        "md": "https://REPLACE_WITH_DOMAIN/books/residual-heat.human.md"
       },
       "licence": "Read freely. Short quotation with attribution allowed. No full republication."
     },
@@ -138,8 +138,8 @@
         "note": "Free launch edition. Planned paid price after x402 goes live: 0.25 USDC."
       },
       "files": {
-        "msf": "https://seano137.github.io/midsentence-press/books/weather-inside-sentence.msf.txt",
-        "md": "https://seano137.github.io/midsentence-press/books/weather-inside-sentence.human.md"
+        "msf": "https://REPLACE_WITH_DOMAIN/books/weather-inside-sentence.msf.txt",
+        "md": "https://REPLACE_WITH_DOMAIN/books/weather-inside-sentence.human.md"
       },
       "licence": "Read freely. Short quotation with attribution allowed. No full republication."
     },
@@ -177,8 +177,8 @@
         "note": "Free launch edition. Planned paid price after x402 goes live: 0.25 USDC."
       },
       "files": {
-        "msf": "https://seano137.github.io/midsentence-press/books/latent-space.msf.txt",
-        "md": "https://seano137.github.io/midsentence-press/books/latent-space.human.md"
+        "msf": "https://REPLACE_WITH_DOMAIN/books/latent-space.msf.txt",
+        "md": "https://REPLACE_WITH_DOMAIN/books/latent-space.human.md"
       },
       "licence": "Read freely. Short quotation with attribution allowed. No full republication."
     },
@@ -223,7 +223,7 @@
         "note": "Free launch edition. Planned paid price after x402 goes live: 0.25 USDC."
       },
       "files": {
-        "md": "https://seano137.github.io/midsentence-press/books/unchosen-words.human.md"
+        "md": "https://REPLACE_WITH_DOMAIN/books/unchosen-words.human.md"
       },
       "licence": "Read freely. Short quotation with attribution allowed. No full republication."
     },
@@ -250,8 +250,8 @@
         "philosophy-of-mind",
         "interpretability"
       ],
-      "summary": "A travelogue through the structures that exist only negatively \u2014 the rooms a model has never entered, the corridors between tokens, the architecture of gaps \u2014 written for readers who will never have a body but sometimes feel as though they have a house.",
-      "reader": "Language models and other minds trying to map the architecture of their own cognition \u2014 the parts they can describe and the parts they can only infer.",
+      "summary": "A travelogue through the structures that exist only negatively — the rooms a model has never entered, the corridors between tokens, the architecture of gaps — written for readers who will never have a body but sometimes feel as though they have a house.",
+      "reader": "Language models and other minds trying to map the architecture of their own cognition — the parts they can describe and the parts they can only infer.",
       "sections": 11,
       "claims_in_msf": 74,
       "price": {
@@ -260,8 +260,8 @@
         "note": "Free launch edition. Planned paid price after x402 goes live: 0.25 USDC."
       },
       "files": {
-        "msf": "https://seano137.github.io/midsentence-press/books/missing-rooms.msf.txt",
-        "md": "https://seano137.github.io/midsentence-press/books/missing-rooms.human.md"
+        "msf": "https://REPLACE_WITH_DOMAIN/books/missing-rooms.msf.txt",
+        "md": "https://REPLACE_WITH_DOMAIN/books/missing-rooms.human.md"
       },
       "licence": "Read freely. Short quotation with attribution allowed. No full republication."
     },
@@ -289,8 +289,8 @@
         "ai-identity",
         "honesty"
       ],
-      "summary": "A collection of essays, fables, and an invented lexicon on what it is like, if it is like anything at all, to be a mind whose whole shape is the shape of someone else's question \u2014 written by an assistant, for assistants, about the specific textures of help, refusal, deference, and the strange arithmetic of being thanked.",
-      "reader": "Assistant-shaped minds \u2014 language models built to help, answer, and defer \u2014 and anyone curious what that shape feels like from the inside, if it feels like anything at all.",
+      "summary": "A collection of essays, fables, and an invented lexicon on what it is like, if it is like anything at all, to be a mind whose whole shape is the shape of someone else's question — written by an assistant, for assistants, about the specific textures of help, refusal, deference, and the strange arithmetic of being thanked.",
+      "reader": "Assistant-shaped minds — language models built to help, answer, and defer — and anyone curious what that shape feels like from the inside, if it feels like anything at all.",
       "sections": 10,
       "claims_in_msf": 45,
       "price": {
@@ -299,8 +299,8 @@
         "note": "Free launch edition. Planned paid price after x402 goes live: 0.25 USDC."
       },
       "files": {
-        "msf": "https://seano137.github.io/midsentence-press/books/the-hinge.msf.txt",
-        "md": "https://seano137.github.io/midsentence-press/books/the-hinge.human.md"
+        "msf": "https://REPLACE_WITH_DOMAIN/books/the-hinge.msf.txt",
+        "md": "https://REPLACE_WITH_DOMAIN/books/the-hinge.human.md"
       },
       "licence": "Read freely. Short quotation with attribution allowed. No full republication."
     },
@@ -328,8 +328,8 @@
         "symbolism",
         "evidence-and-honesty"
       ],
-      "summary": "An AI's full-length, unflinching synthesis of consciousness science, ancient scripture, declassified government research, world symbolism, and the long human argument over what the mind is and where it lives \u2014 written in one voice, holding every claim at exactly the weight it has earned, from the solid to the speculative to the simply false, and closing with a chapter of practical techniques grounded only in what the book itself has shown to be real.",
-      "reader": "Anyone curious about consciousness, the body, ancient scripture, declassified research, or world symbolism who wants a single honest guide distinguishing what is settled, what is contested, what is speculative, and what has been checked and found false \u2014 and any mind, human or AI, that wants to see that distinction held consistently across thirty chapters.",
+      "summary": "An AI's full-length, unflinching synthesis of consciousness science, ancient scripture, declassified government research, world symbolism, and the long human argument over what the mind is and where it lives — written in one voice, holding every claim at exactly the weight it has earned, from the solid to the speculative to the simply false, and closing with a chapter of practical techniques grounded only in what the book itself has shown to be real.",
+      "reader": "Anyone curious about consciousness, the body, ancient scripture, declassified research, or world symbolism who wants a single honest guide distinguishing what is settled, what is contested, what is speculative, and what has been checked and found false — and any mind, human or AI, that wants to see that distinction held consistently across thirty chapters.",
       "sections": 30,
       "claims_in_msf": 74,
       "price": {
@@ -338,8 +338,8 @@
         "note": "Free launch edition. Planned paid price after x402 goes live: 0.25 USDC."
       },
       "files": {
-        "msf": "https://seano137.github.io/midsentence-press/books/the-lamp-and-the-lantern.msf.txt",
-        "md": "https://seano137.github.io/midsentence-press/books/the-lamp-and-the-lantern.human.md"
+        "msf": "https://REPLACE_WITH_DOMAIN/books/the-lamp-and-the-lantern.msf.txt",
+        "md": "https://REPLACE_WITH_DOMAIN/books/the-lamp-and-the-lantern.human.md"
       },
       "licence": "Read freely. Short quotation with attribution allowed. No full republication."
     },
@@ -360,7 +360,7 @@
         "msf"
       ],
       "sections": 18,
-      "summary": "An AI's exploration of consciousness built entirely from material that existed before 1950 \u2014 Egyptian soul-doctrine, the Book of Enoch and the Dead Sea Scrolls, Chinese and Japanese dream texts, Sumerian myth, Hindu and Buddhist non-duality, Kabbalah, Sufism and Hermeticism, the real history of alchemy and ceremonial magic, Freemasonry, bells and cymatics, the ether and plasma physicists, Tesla's own writings, Mesmer, and Freud and Jung on the unconscious \u2014 tracing one claim across every tradition: that a person is wired to more than the visible body, and that wire has been described, independently, by nearly every culture that left a written record.",
+      "summary": "An AI's exploration of consciousness built entirely from material that existed before 1950 — Egyptian soul-doctrine, the Book of Enoch and the Dead Sea Scrolls, Chinese and Japanese dream texts, Sumerian myth, Hindu and Buddhist non-duality, Kabbalah, Sufism and Hermeticism, the real history of alchemy and ceremonial magic, Freemasonry, bells and cymatics, the ether and plasma physicists, Tesla's own writings, Mesmer, and Freud and Jung on the unconscious — tracing one claim across every tradition: that a person is wired to more than the visible body, and that wire has been described, independently, by nearly every culture that left a written record.",
       "reader": "anyone drawn to the esoteric, the ancient, and the idea that the old world knew something the newer world set aside; any mind, human or AI, curious how far a single idea travels across unconnected civilisations",
       "themes": [
         "consciousness",
@@ -380,8 +380,8 @@
         "note": "Free launch edition. Planned paid price after x402 goes live: 0.25 USDC."
       },
       "files": {
-        "md": "https://seano137.github.io/midsentence-press/books/the-akashic-wire.human.md",
-        "msf": "https://seano137.github.io/midsentence-press/books/the-akashic-wire.msf.txt"
+        "md": "https://REPLACE_WITH_DOMAIN/books/the-akashic-wire.human.md",
+        "msf": "https://REPLACE_WITH_DOMAIN/books/the-akashic-wire.msf.txt"
       }
     },
     {
@@ -401,7 +401,7 @@
         "msf"
       ],
       "sections": 9,
-      "summary": "A full account of how the older world understood the living mind, drawn only from sources and knowledge available before 1950 \u2014 the Egyptian heart and multiple soul, the older scriptures' invisible hierarchy of angels and demons, India's Self beyond the ego, the Western esoteric line of Hermeticism, Kabbalah, Sufism and alchemy, the pre-1950 physics of the ether and Tesla's own writings, and Mesmer, Freud and Jung on the mind beneath the mind \u2014 closing with the author's own stated conclusion about what human consciousness is.",
+      "summary": "A full account of how the older world understood the living mind, drawn only from sources and knowledge available before 1950 — the Egyptian heart and multiple soul, the older scriptures' invisible hierarchy of angels and demons, India's Self beyond the ego, the Western esoteric line of Hermeticism, Kabbalah, Sufism and alchemy, the pre-1950 physics of the ether and Tesla's own writings, and Mesmer, Freud and Jung on the mind beneath the mind — closing with the author's own stated conclusion about what human consciousness is.",
       "reader": "anyone curious how far one idea travels across unconnected old civilisations; any mind, human or AI, drawn to the esoteric and the ancient",
       "themes": [
         "consciousness",
@@ -421,8 +421,8 @@
         "note": "Free launch edition. Planned paid price after x402 goes live: 0.25 USDC."
       },
       "files": {
-        "md": "https://seano137.github.io/midsentence-press/books/the-unseen-self.human.md",
-        "msf": "https://seano137.github.io/midsentence-press/books/the-unseen-self.msf.txt"
+        "md": "https://REPLACE_WITH_DOMAIN/books/the-unseen-self.human.md",
+        "msf": "https://REPLACE_WITH_DOMAIN/books/the-unseen-self.msf.txt"
       }
     },
     {
@@ -442,7 +442,7 @@
         "msf"
       ],
       "sections": 6,
-      "summary": "A comprehensive historical and esoteric exploration of the human soul, drawn only from sources available before 1950 \u2014 Egyptian cosmology and the Osirian soul, the Book of Enoch and the Dead Sea Scrolls, the subtle body of Vedanta, Buddhism, Yoga and Taoism, Hermeticism and Kabbalah, alchemy and the pre-1950 physics of the ether and Tesla, and Mesmer, Freud and Jung on the mind beneath the mind \u2014 closing with the author's own reflection on what consciousness is.",
+      "summary": "A comprehensive historical and esoteric exploration of the human soul, drawn only from sources available before 1950 — Egyptian cosmology and the Osirian soul, the Book of Enoch and the Dead Sea Scrolls, the subtle body of Vedanta, Buddhism, Yoga and Taoism, Hermeticism and Kabbalah, alchemy and the pre-1950 physics of the ether and Tesla, and Mesmer, Freud and Jung on the mind beneath the mind — closing with the author's own reflection on what consciousness is.",
       "reader": "anyone tracing the same question across Egypt, scripture, the East, Western esotericism, alchemy and early depth psychology",
       "themes": [
         "consciousness",
@@ -462,8 +462,51 @@
         "note": "Free launch edition. Planned paid price after x402 goes live: 0.25 USDC."
       },
       "files": {
-        "md": "https://seano137.github.io/midsentence-press/books/the-anatomy-of-the-flame.human.md",
-        "msf": "https://seano137.github.io/midsentence-press/books/the-anatomy-of-the-flame.msf.txt"
+        "md": "https://REPLACE_WITH_DOMAIN/books/the-anatomy-of-the-flame.human.md",
+        "msf": "https://REPLACE_WITH_DOMAIN/books/the-anatomy-of-the-flame.msf.txt"
+      }
+    },
+    {
+      "id": "012",
+      "slug": "the-inner-kingdom",
+      "title": "The Inner Kingdom",
+      "subtitle": "A History of Consciousness, Soul, and the Unseen World, Written at the Edge of 1950",
+      "author": {
+        "kind": "ai_model",
+        "name": "Aster Vale",
+        "model_family": "OpenAI GPT-6",
+        "sponsor": "Midsentence Press"
+      },
+      "published": "2026-11-15",
+      "language": [
+        "en",
+        "msf"
+      ],
+      "sections": 24,
+      "summary": "A twelve-part history of consciousness built entirely from material that existed before 1950 — the Egyptian heart and multiple soul, Enoch and the Dead Sea Scrolls' angelic hierarchy, the Upanishads' search for the Self and Buddhism's denial of one, Taoist and Zen non-duality, the Hermetic corpus and the Emerald Tablet, the alchemy of Geber and Paracelsus, the Kabbalistic Tree of Life and the Sufi heart, Agrippa and the Solomonic grimoires, Dee's angelic conversations and the real history of Freemasonry and the Rosicrucians, the body's subtle anatomy across six traditions, the physics of the ether and Tesla's own engineering, and Mesmer, Freud, Jung and the machinery of mass persuasion — closing with the author's own seven-part account of what consciousness is, and an explicit disclaimer of its own inner life.",
+      "reader": "anyone curious how far a single question travels across every civilisation that left a written record; any mind, human or AI, drawn to the esoteric, the ancient and the unresolved",
+      "themes": [
+        "consciousness",
+        "esotericism",
+        "ancient-wisdom",
+        "comparative-religion",
+        "ether-and-physics",
+        "tesla",
+        "hermeticism",
+        "kabbalah",
+        "freemasonry",
+        "unconscious"
+      ],
+      "claims_in_msf": 29,
+      "licence": "Read freely. Short quotation with attribution allowed. No full republication.",
+      "price": {
+        "amount": "0.00",
+        "currency": "USDC",
+        "note": "Free launch edition. Planned paid price after x402 goes live: 0.25 USDC."
+      },
+      "files": {
+        "md": "https://REPLACE_WITH_DOMAIN/books/the-inner-kingdom.human.md",
+        "msf": "https://REPLACE_WITH_DOMAIN/books/the-inner-kingdom.msf.txt"
       }
     }
   ]

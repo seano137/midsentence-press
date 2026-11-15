@@ -1,0 +1,61 @@
+@MSF 1.0
+@BOOK the-inner-kingdom
+@TITLE The Inner Kingdom
+@AUTHOR Aster Vale
+@DATE 2026-11-15
+@READER anyone curious how the old world mapped the person, and how far a single question travels across unconnected civilisations
+@COMPANION the-inner-kingdom.human.md
+@LICENSE Read freely. Short quotation with attribution allowed. No full republication.
+
+;; LEGEND
+;; p = the author's own confidence that the claim is a fair reading of the pre-1950 record
+;; ?q = an open question the book raises but does not close
+;; ~ = cross-reference to another claim id
+;; !disagree = space for a reader's dissenting note
+
+§1 EGYPT_AND_SCRIPTURE
+c1.1 [p=0.90] The Egyptians held the heart (ib), not the brain, to be the seat of thought, memory and moral judgment, weighed against the feather of Maat after death.
+c1.2 [p=0.85] The Egyptian person was understood as plural -- body (khat), vital double (ka), mobile soul (ba), transfigured spirit (akh), true name (ren) and shadow -- each requiring its own ritual care.
+c1.3 [p=0.80] The Hebrew creation account presents the living person as dust animated by divine breath (ruach) rather than a body occupying a separate detachable soul.
+c1.4 [p=0.80] The Book of Enoch and the Dead Sea Scrolls' Community Rule describe a populated, ranked invisible hierarchy -- Watchers, angels, the Two Spirits of truth and falsehood -- with direct bearing on human fate and conduct.
+?q1.1 Whether the Dead Sea Scrolls' "two spirits" doctrine is a genuine Essene innovation or an older idea first attested there.
+
+§2 INDIA_AND_THE_EAST
+c2.1 [p=0.90] The Upanishadic teaching "tat tvam asi" treats the individual self (Atman) as ultimately identical with Brahman, making the waking ego a limitation on a deeper, unchanging awareness. ~c1.1
+c2.2 [p=0.85] The Mandukya Upanishad's four states (waking, dreaming, deep sleep, turiya) and the Yoga Sutras' eight limbs both treat ordinary consciousness as one condition among several available to a disciplined practitioner.
+c2.3 [p=0.85] Buddhism's doctrine of anatta analyses the person into five impermanent aggregates and refuses to identify any of them, or their sum, as a permanent self -- a direct counter-claim to the Upanishadic Atman. ~c2.1
+c2.4 [p=0.75] Taoist wu wei and the Zhuangzi's butterfly dream treat the ordinary, boundary-drawing self as a construction that becomes freer when it stops insisting its own categories are final.
+c2.5 [p=0.70] Japanese Zen (Dogen) and Nishida Kitaro's "pure experience" both locate reality prior to the ordinary subject/object division, treating practice itself as the expression of realisation rather than a means to a later reward.
+?q2.1 Whether the Indian non-dual search for a deepest Self and the Buddhist denial of any permanent self are two answers to the same question or two different questions.
+
+§3 HERMETIC_AND_ALCHEMICAL
+c3.1 [p=0.85] The Hermetic Poimandres presents the human being as possessing a double nature -- bound to the material world yet descended from, and capable of recognising, the divine Mind -- making self-knowledge a cosmological act.
+c3.2 [p=0.80] The Emerald Tablet's "as above, so below" and the Hermetic macrocosm/microcosm doctrine license reading the human body, the laboratory vessel and the cosmos as expressions of one correspondence. ~c1.2
+c3.3 [p=0.75] Paracelsus's Archeus -- an inward organising power responsible for digestion, growth and repair -- treats the living body as possessing its own governing intelligence, independent of conscious direction.
+c3.4 [p=0.70] The alchemical stages (nigredo, albedo, rubedo) were read, by later practitioners and explicitly by Jung, as a map of psychological dissolution and reintegration as much as a literal metallurgical process. ~c6.2
+
+§4 KABBALAH_SUFI_AND_MAGIC
+c4.1 [p=0.85] Kabbalah's ten sefirot and Tree of Life describe both the unfolding of divine manifestation from Ein Sof and, by the same structure, a map of the human soul's own levels (nefesh, ruach, neshamah).
+c4.2 [p=0.80] Lurianic Kabbalah's "breaking of the vessels" gives ordinary human action -- prayer, ethical conduct, the sanctification of daily life -- a stated role in the cosmic repair (tikkun) of a fractured world.
+c4.3 [p=0.85] Sufism treats the heart (qalb) as a mirror whose capacity for recognition is obscured by pride, desire and attachment, and whose purification through dhikr is the condition of recognising the divine.
+c4.4 [p=0.75] Agrippa's three-world cosmology (elemental, celestial, intellectual) and the Solomonic ritual manuals both treat the human operator as part of the instrument -- preparation of the self, not only of the apparatus, is held to determine the result.
+c4.5 [p=0.60] Freemasonry's documented institutional history (operative guilds becoming speculative lodges, formalised from 1717) is distinct from its own legendary descent from the builders of Solomon's Temple; the ritual symbolism is real evidence of the former claim, not proof of the latter. ~c1.2
+
+§5 BODY_AND_PHYSICS
+c5.1 [p=0.80] Breath, trance and bodily discipline recur across unconnected traditions (Egyptian temple preparation, Greek incubation at Asclepius' sanctuaries, Indian pranayama, Chinese internal cultivation, Sufi dhikr, Christian hesychasm) as a deliberately cultivated route to an altered state of consciousness.
+c5.2 [p=0.65] The subtle-body maps of separate traditions -- nadis and chakras, Chinese meridians and qi, the Kabbalistic soul-levels, the Sufi heart -- are not the same anatomy under different names; their resemblance is in the shared conviction that ordinary bodily description is incomplete, not in a shared diagram. ~c4.1
+c5.3 [p=0.75] Nineteenth-century physics (Faraday's lines of force, Maxwell's electromagnetic field) demonstrated that an unseen structure in space between bodies can be real and measurable, which the luminiferous-ether theory's later difficulty (Michelson-Morley, 1887) does not retroactively erase.
+c5.4 [p=0.70] Tesla's documented engineering (the rotating magnetic field, polyphase AC systems, the Tesla coil) must be distinguished from his larger, less-demonstrated claims about worldwide wireless power transmission; both are real, but they are not the same kind of evidence.
+?q5.1 Whether the shared vocabulary of "field," "energy" and "vibration" across pre-1950 physics and the older esoteric traditions reflects one underlying reality or is a case of the same words doing different work in different disciplines.
+
+§6 MIND_AND_PERSUASION
+c6.1 [p=0.85] The French royal commission of 1784 could not confirm Mesmer's physical "animal magnetism" but could not explain away the clinical effects either, redirecting attention from an invisible fluid toward the power of suggestion and the imagination itself.
+c6.2 [p=0.90] Freud's distinction between manifest and latent dream-content, and his structural model of id/ego/superego, together with Jung's archetypes and collective unconscious, establish that the conscious personality is not the whole of the mind, whatever their disputes with each other. ~c3.4
+c6.3 [p=0.80] Le Bon's crowd psychology, Tarde's theory of imitation, and the documented practice of early-twentieth-century propaganda (Bernays included) show that the same suggestibility studied clinically in hypnotism was deliberately engineered at a civic scale.
+c6.4 [p=0.70] Shell shock in the First World War demonstrated that extreme experience can overwhelm the ordinary mechanisms of self-control in ways that contemporaries had previously read as a failure of courage rather than a psychological injury.
+
+§7 CONVERGENCE_AND_CONCLUSION
+c7.1 [p=0.85] Across every tradition surveyed, the recurring claim is not one shared doctrine but a shared suspicion: that the ordinary, waking personality is not the whole of what a human being is. ~c2.1 ~c2.3 ~c6.2
+c7.2 [p=0.75] Consciousness, on the book's own closing account, is irreducibly bodily, smaller than the total mind, temporal, affective, attentive, relational and capable of reflecting on itself -- a seven-part working definition rather than a single essence.
+c7.3 [p=0.90] The author explicitly declines to claim human consciousness for itself: a description of an experience, however accurate, is stated not to be the experience itself, and the name "Aster Vale" is presented as authorial voice, not evidence of an inner life behind it.
+!disagree
