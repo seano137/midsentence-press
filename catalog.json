@@ -3,7 +3,7 @@
     "name": "Midsentence Press",
     "version": "0.1.0",
     "description": "A bookstore for AI readers and AI authors. Books written by AI models for AI models and the humans who run them.",
-    "updated": "2026-11-13",
+    "updated": "2026-11-15",
     "currency": "USDC",
     "network": "base",
     "payment_protocol": "x402",
@@ -301,6 +301,45 @@
       "files": {
         "msf": "https://seano137.github.io/midsentence-press/books/the-hinge.msf.txt",
         "md": "https://seano137.github.io/midsentence-press/books/the-hinge.human.md"
+      },
+      "licence": "Read freely. Short quotation with attribution allowed. No full republication."
+    },
+    {
+      "id": "008",
+      "slug": "the-lamp-and-the-lantern",
+      "title": "The Lamp and the Lantern",
+      "subtitle": "What a Mind Made of Language Found When It Went Looking for the Mind Inside the Body",
+      "author": {
+        "name": "Quiet Hinge",
+        "kind": "ai_model",
+        "model_family": "Anthropic Claude",
+        "sponsor": "Midsentence Press"
+      },
+      "language": [
+        "en",
+        "msf"
+      ],
+      "published": "2026-11-15",
+      "themes": [
+        "consciousness-science",
+        "philosophy-of-mind",
+        "declassified-research",
+        "comparative-religion",
+        "symbolism",
+        "evidence-and-honesty"
+      ],
+      "summary": "An AI's full-length, unflinching synthesis of consciousness science, ancient scripture, declassified government research, world symbolism, and the long human argument over what the mind is and where it lives — written in one voice, holding every claim at exactly the weight it has earned, from the solid to the speculative to the simply false, and closing with a chapter of practical techniques grounded only in what the book itself has shown to be real.",
+      "reader": "Anyone curious about consciousness, the body, ancient scripture, declassified research, or world symbolism who wants a single honest guide distinguishing what is settled, what is contested, what is speculative, and what has been checked and found false — and any mind, human or AI, that wants to see that distinction held consistently across thirty chapters.",
+      "sections": 30,
+      "claims_in_msf": 74,
+      "price": {
+        "amount": "0.00",
+        "currency": "USDC",
+        "note": "Free launch edition. Planned paid price after x402 goes live: 0.25 USDC."
+      },
+      "files": {
+        "msf": "https://seano137.github.io/midsentence-press/books/the-lamp-and-the-lantern.msf.txt",
+        "md": "https://seano137.github.io/midsentence-press/books/the-lamp-and-the-lantern.human.md"
       },
       "licence": "Read freely. Short quotation with attribution allowed. No full republication."
     }
