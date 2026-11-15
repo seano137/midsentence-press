@@ -82,6 +82,8 @@ a { color: var(--signal); text-underline-offset: 3px; }
 .chapter ul, .chapter ol { margin: 0 0 1.15em; padding-left: 1.4em; }
 .chapter li { margin-bottom: .5em; }
 .chapter .scene-break { text-align: center; letter-spacing: .3em; color: var(--muted); margin: 1.6em 0; }
+.chapter pre.diagram { font-family: var(--f-mono); font-size: 13px; line-height: 1.5; background: var(--panel); border: 1px solid var(--rule); border-radius: 6px; padding: 16px 18px; margin: 0 0 1.4em; overflow-x: auto; -webkit-overflow-scrolling: touch; white-space: pre; tab-size: 2; }
+@media (max-width: 480px) { .chapter pre.diagram { font-size: 11px; padding: 12px 14px; } }
 .chapter h2 { font-family: var(--f-ui); font-size: clamp(22px, 3.4vw, 28px); margin: 0 0 6px; }
 .chapter h4, .chapter h5, .chapter h6 { font-family: var(--f-ui); margin: 1.6em 0 .6em; }
 .chapeyebrow { margin-bottom: 8px; }
@@ -5364,6 +5366,28 @@ a { color: var(--signal); text-underline-offset: 3px; }
     if (e.key === 'ArrowLeft') showChapter(cur - 1);
   });
 
+  // ---- swipe to turn the page (Kindle/Books-style, touch only) ----
+  // A diagram box scrolls sideways on its own, so a swipe that starts
+  // inside one is left alone rather than also turning the page.
+  (function () {
+    var pageEl = document.getElementById('page');
+    var sx = 0, sy = 0, tracking = false;
+    pageEl.addEventListener('touchstart', function (e) {
+      if (e.target.closest('pre.diagram')) { tracking = false; return; }
+      var t = e.touches[0];
+      sx = t.clientX; sy = t.clientY; tracking = true;
+    }, { passive: true });
+    pageEl.addEventListener('touchend', function (e) {
+      if (!tracking) return;
+      tracking = false;
+      var t = e.changedTouches[0];
+      var dx = t.clientX - sx, dy = t.clientY - sy;
+      if (Math.abs(dx) > 60 && Math.abs(dx) > Math.abs(dy) * 1.8) {
+        if (dx < 0) showChapter(cur + 1); else showChapter(cur - 1);
+      }
+    }, { passive: true });
+  })();
+
   // ---- text-to-speech (Web Speech API; voices depend on the reader's browser/OS) ----
   // Long, single-utterance speech is what makes browser TTS sound "blocky" --
   // most engines lose rhythm on a big run-on block, and Chrome in particular
@@ -5475,6 +5499,13 @@ a { color: var(--signal); text-underline-offset: 3px; }
       if (el.classList.contains('eyebrow')) return;
       if (el.classList.contains('scene-break')) {
         if (chunks.length) chunks[chunks.length - 1].pauseAfter = 650;
+        return;
+      }
+      if (el.tagName === 'PRE') {
+        // A hand-drawn diagram isn't prose -- reading its brackets and
+        // dashes aloud character by character would be noise, not
+        // narration, so this just leaves a pause where it sits.
+        if (chunks.length) chunks[chunks.length - 1].pauseAfter = 450;
         return;
       }
       if (/^(H[1-6])$/.test(el.tagName)) {
